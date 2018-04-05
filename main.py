@@ -1,4 +1,5 @@
 import json
+from collections import OrderedDict
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
@@ -21,15 +22,17 @@ def main():
         symbol_info = get_symbol_info(td)
         result[symbol_info[0]] = symbol_info[1]
 
+    ordered_result = OrderedDict(sorted(result.items(), key=lambda t: t[0]))
+
     with open('data/coinmarketcap_symbols.json', 'w') as f:
-        f.write(json.dumps(result, indent=2))
+        f.write(json.dumps(ordered_result, indent=2))
 
 
 def get_symbol_info(td):
     """
-    Get crypto currency info as array: [symbol, name]
+    Get cryptocurrency info as array: [symbol, name]
 
-    >>> get_symbol_info(BeautifulSoup(EXAMPLE_TD, "html.parser").td)
+    >>> get_symbol_info(BeautifulSoup(EXAMPLE_TD, 'html.parser').td)
     ['BTG', 'Bitcoin Gold']
     """
     name = td['data-sort']
