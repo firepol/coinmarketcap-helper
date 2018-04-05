@@ -27,22 +27,14 @@ def main():
 
 def get_symbol_info(td):
     """
-    Array containing
-    0:
-    - symbol: e.g. BTG
-
-    1: dictionary containing:
-    - name (official name): e.g. Bitcoin Gold
-    - api_name (to query the coinmarketcap API): e.g. bitcoin-gold
+    Get crypto currency info as array: [symbol, name]
 
     >>> get_symbol_info(BeautifulSoup(EXAMPLE_TD, "html.parser").td)
-    ['BTG', {'name': 'Bitcoin Gold', 'api_name': 'bitcoin-gold'}]
+    ['BTG', 'Bitcoin Gold']
     """
     name = td['data-sort']
     symbol = td.span.get_text()
-    api_name = get_url_friendly_text(name)
-    result = [symbol, {'name': name, 'api_name': api_name}]
-    return result
+    return [symbol, name]
 
 
 def get_url_friendly_text(text):
