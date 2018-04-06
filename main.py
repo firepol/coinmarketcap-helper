@@ -1,6 +1,9 @@
+import datetime
+import time
 import json
+import os
 from collections import OrderedDict
-from urllib.request import urlopen
+import urllib.request
 from bs4 import BeautifulSoup
 
 COINMARKETCAP_ALL_URL = 'https://coinmarketcap.com/all/views/all/'
@@ -13,13 +16,30 @@ EXAMPLE_TD = '<td class="no-wrap currency-name" data-sort="Bitcoin Gold">' \
 
 
 def main():
-    page = urlopen(COINMARKETCAP_ALL_URL).read()
+    html_temp_file = 'temp/coinmarketcap_all.html'
+    if os.path.exists(html_temp_file):
+        date_now = time.time()
+        html_temp_file_date = os.path.getmtime(html_temp_file)
+        html_temp_file_seconds_old = date_now - html_temp_file_date
+        # This will make sure that the file won't be re-downloaded if it's not older than 1 hour
+        if html_temp_file_seconds_old > 60*60:
+            urllib.request.urlretrieve(COINMARKETCAP_ALL_URL, html_temp_file)
+    else:
+        urllib.request.urlretrieve(COINMARKETCAP_ALL_URL, html_temp_file)
+
+    with open(html_temp_file, 'r') as f:
+        page = f.read()
+
     soup = BeautifulSoup(page, 'html.parser')
 
     result = {}
+    errors = []
     for row in soup.findAll('table')[0].tbody.findAll('tr'):
         td = row.findAll('td')[1]
         symbol_info = get_symbol_info(td)
+        symbol = symbol_info[0]
+        if result.get(symbol) is not None:
+            errors.append(f"{symbol}: {result[symbol]['name']} / {symbol_info[1]['name']}")
         result[symbol_info[0]] = symbol_info[1]
 
     ordered_result = OrderedDict(sorted(result.items(), key=lambda t: t[0]))
@@ -27,25 +47,28 @@ def main():
     with open('data/coinmarketcap_symbols.json', 'w') as f:
         f.write(json.dumps(ordered_result, indent=2))
 
+    if len(errors) > 0:
+        raise Exception('The following symbols were conflicting: \n' + '\n'.join(errors))
+
 
 def get_symbol_info(td):
     """
-    Get cryptocurrency info as array: [symbol, name]
+    Get an array containing
+    0:
+    - symbol: e.g. BTG
+
+    1: dictionary containing:
+    - name (official name): e.g. Bitcoin Gold
+    - api_name (to query the coinmarketcap API): e.g. bitcoin-gold
 
     >>> get_symbol_info(BeautifulSoup(EXAMPLE_TD, 'html.parser').td)
-    ['BTG', 'Bitcoin Gold']
+    ['BTG', {'name': 'Bitcoin Gold', 'api_name': 'bitcoin-gold'}]
     """
     name = td['data-sort']
     symbol = td.span.get_text()
-    return [symbol, name]
-
-
-def get_url_friendly_text(text):
-    """
-    >>> get_url_friendly_text('Test Coin')
-    'test-coin'
-    """
-    return text.lower().replace(' ', '-')
+    api_name = td.a['href'].replace('/currencies/', '')[:-1]
+    result = [symbol, {'name': name, 'api_name': api_name}]
+    return result
 
 
 if __name__ == '__main__':

@@ -6,11 +6,19 @@ I needed this, because the coinmarketcap API inconveniently wants you to pass as
 
 Here the result, feel free to download or link to this file: [coinmarketcap_symbols.json](https://raw.githubusercontent.com/firepol/coinmarketcap-scraper/master/data/coinmarketcap_symbols.json)
 
-To get the cryptocurrency name to be passed to the coinmarketcap API, first get the crypto currency name by symbol, then lower case the result and replace the spaces with a dash, like this (see `get_url_friendly_text` method in the `main.py` file):
+Example:
 
 ```
->>> 'Coin Name'.lower().replace(' ', '-')
-'coin-name'
+{
+  ...
+  "SBTC": {
+    "name": "Super Bitcoin",
+    "api_name": "super-bitcoin"
+  },
+  ...
+}
 ```
+
+TODO: there are symbols used by different cryptocurrencies. E.g. CAT (BitClave and BlockCAT), BTG (Bitgem, Bitcoin Gold)
 
 Thanks to [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for making the scraping of the website a piece of cake ;)
