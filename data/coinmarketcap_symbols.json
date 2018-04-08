@@ -75,10 +75,20 @@
     "name": "Alphacat",
     "api_name": "alphacat"
   },
-  "ACC": {
-    "name": "ACChain",
-    "api_name": "acchain"
-  },
+  "ACC": [
+    {
+      "name": "Accelerator Network",
+      "api_name": "accelerator-network"
+    },
+    {
+      "name": "AdCoin",
+      "api_name": "adcoin"
+    },
+    {
+      "name": "ACChain",
+      "api_name": "acchain"
+    }
+  ],
   "ACE": {
     "name": "Ace",
     "api_name": "ace"
@@ -439,10 +449,16 @@
     "name": "LuckChain",
     "api_name": "luckchain"
   },
-  "BAT": {
-    "name": "BatCoin",
-    "api_name": "batcoin"
-  },
+  "BAT": [
+    {
+      "name": "Basic Attention Token",
+      "api_name": "basic-attention-token"
+    },
+    {
+      "name": "BatCoin",
+      "api_name": "batcoin"
+    }
+  ],
   "BAX": {
     "name": "BABB",
     "api_name": "babb"
@@ -539,10 +555,16 @@
     "name": "BestChain",
     "api_name": "bestchain"
   },
-  "BET": {
-    "name": "BetaCoin",
-    "api_name": "betacoin"
-  },
+  "BET": [
+    {
+      "name": "DAO.Casino",
+      "api_name": "dao-casino"
+    },
+    {
+      "name": "BetaCoin",
+      "api_name": "betacoin"
+    }
+  ],
   "BEZ": {
     "name": "Bezop",
     "api_name": "bezop"
@@ -687,10 +709,16 @@
     "name": "BLUE",
     "api_name": "ethereum-blue"
   },
-  "BLZ": {
-    "name": "BlazeCoin",
-    "api_name": "blazecoin"
-  },
+  "BLZ": [
+    {
+      "name": "Bluzelle",
+      "api_name": "bluzelle"
+    },
+    {
+      "name": "BlazeCoin",
+      "api_name": "blazecoin"
+    }
+  ],
   "BMC": {
     "name": "Blackmoon",
     "api_name": "blackmoon"
@@ -867,14 +895,26 @@
     "name": "BitSerial",
     "api_name": "bitserial"
   },
-  "BTG": {
-    "name": "Bitgem",
-    "api_name": "bitgem"
-  },
-  "BTM": {
-    "name": "Bitmark",
-    "api_name": "bitmark"
-  },
+  "BTG": [
+    {
+      "name": "Bitcoin Gold",
+      "api_name": "bitcoin-gold"
+    },
+    {
+      "name": "Bitgem",
+      "api_name": "bitgem"
+    }
+  ],
+  "BTM": [
+    {
+      "name": "Bytom",
+      "api_name": "bytom"
+    },
+    {
+      "name": "Bitmark",
+      "api_name": "bitmark"
+    }
+  ],
   "BTO": {
     "name": "Bottos",
     "api_name": "bottos"
@@ -967,10 +1007,16 @@
     "name": "CaliphCoin",
     "api_name": "caliphcoin"
   },
-  "CAN": {
-    "name": "Content and AD Network",
-    "api_name": "content-and-ad-network"
-  },
+  "CAN": [
+    {
+      "name": "CanYaCoin",
+      "api_name": "canyacoin"
+    },
+    {
+      "name": "Content and AD Network",
+      "api_name": "content-and-ad-network"
+    }
+  ],
   "CANDY": {
     "name": "Candy",
     "api_name": "candy"
@@ -995,10 +1041,20 @@
     "name": "Cashcoin",
     "api_name": "cashcoin"
   },
-  "CAT": {
-    "name": "Catcoin",
-    "api_name": "catcoin"
-  },
+  "CAT": [
+    {
+      "name": "BitClave",
+      "api_name": "bitclave"
+    },
+    {
+      "name": "BlockCAT",
+      "api_name": "blockcat"
+    },
+    {
+      "name": "Catcoin",
+      "api_name": "catcoin"
+    }
+  ],
   "CBX": {
     "name": "Bullion",
     "api_name": "bullion"
@@ -1143,14 +1199,26 @@
     "name": "CampusCoin",
     "api_name": "campuscoin"
   },
-  "CMS": {
-    "name": "COMSA [XEM]",
-    "api_name": "comsa-xem"
-  },
-  "CMT": {
-    "name": "Comet",
-    "api_name": "comet"
-  },
+  "CMS": [
+    {
+      "name": "COMSA [ETH]",
+      "api_name": "comsa-eth"
+    },
+    {
+      "name": "COMSA [XEM]",
+      "api_name": "comsa-xem"
+    }
+  ],
+  "CMT": [
+    {
+      "name": "CyberMiles",
+      "api_name": "cybermiles"
+    },
+    {
+      "name": "Comet",
+      "api_name": "comet"
+    }
+  ],
   "CND": {
     "name": "Cindicator",
     "api_name": "cindicator"
@@ -1223,10 +1291,16 @@
     "name": "Cryptopay",
     "api_name": "cryptopay"
   },
-  "CPC": {
-    "name": "Capricoin",
-    "api_name": "capricoin"
-  },
+  "CPC": [
+    {
+      "name": "CPChain",
+      "api_name": "cpchain"
+    },
+    {
+      "name": "Capricoin",
+      "api_name": "capricoin"
+    }
+  ],
   "CPN": {
     "name": "CompuCoin",
     "api_name": "compucoin"
@@ -1871,10 +1945,16 @@
     "name": "Energycoin",
     "api_name": "energycoin"
   },
-  "ENT": {
-    "name": "ENTCash",
-    "api_name": "entcash"
-  },
+  "ENT": [
+    {
+      "name": "Eternity",
+      "api_name": "eternity"
+    },
+    {
+      "name": "ENTCash",
+      "api_name": "entcash"
+    }
+  ],
   "EOS": {
     "name": "EOS",
     "api_name": "eos"
@@ -1959,10 +2039,16 @@
     "name": "Metaverse ETP",
     "api_name": "metaverse"
   },
-  "ETT": {
-    "name": "EncryptoTel [ETH]",
-    "api_name": "encryptotel-eth"
-  },
+  "ETT": [
+    {
+      "name": "EncryptoTel [WAVES]",
+      "api_name": "encryptotel"
+    },
+    {
+      "name": "EncryptoTel [ETH]",
+      "api_name": "encryptotel-eth"
+    }
+  ],
   "EUC": {
     "name": "Eurocoin",
     "api_name": "eurocoin"
@@ -2019,10 +2105,16 @@
     "name": "EZToken",
     "api_name": "eztoken"
   },
-  "FAIR": {
-    "name": "FairGame",
-    "api_name": "fairgame"
-  },
+  "FAIR": [
+    {
+      "name": "FairCoin",
+      "api_name": "faircoin"
+    },
+    {
+      "name": "FairGame",
+      "api_name": "fairgame"
+    }
+  ],
   "FAP": {
     "name": "FAPcoin",
     "api_name": "fapcoin"
@@ -2255,10 +2347,16 @@
     "name": "Byteball Bytes",
     "api_name": "byteball"
   },
-  "GCC": {
-    "name": "GuccioneCoin",
-    "api_name": "guccionecoin"
-  },
+  "GCC": [
+    {
+      "name": "Global Cryptocurrency",
+      "api_name": "global-cryptocurrency"
+    },
+    {
+      "name": "GuccioneCoin",
+      "api_name": "guccionecoin"
+    }
+  ],
   "GCN": {
     "name": "GCN Coin",
     "api_name": "gcn-coin"
@@ -2415,10 +2513,16 @@
     "name": "GeyserCoin",
     "api_name": "geysercoin"
   },
-  "GTC": {
-    "name": "Global Tour Coin",
-    "api_name": "global-tour-coin"
-  },
+  "GTC": [
+    {
+      "name": "Game.com",
+      "api_name": "game"
+    },
+    {
+      "name": "Global Tour Coin",
+      "api_name": "global-tour-coin"
+    }
+  ],
   "GTO": {
     "name": "Gifto",
     "api_name": "gifto"
@@ -2519,10 +2623,16 @@
     "name": "HalalChain",
     "api_name": "halalchain"
   },
-  "HMC": {
-    "name": "HarmonyCoin",
-    "api_name": "harmonycoin-hmc"
-  },
+  "HMC": [
+    {
+      "name": "Hi Mutual Society",
+      "api_name": "hi-mutual-society"
+    },
+    {
+      "name": "HarmonyCoin",
+      "api_name": "harmonycoin-hmc"
+    }
+  ],
   "HMP": {
     "name": "HempCoin",
     "api_name": "hempcoin-hmp"
@@ -2531,10 +2641,16 @@
     "name": "Humaniq",
     "api_name": "humaniq"
   },
-  "HNC": {
-    "name": "Huncoin",
-    "api_name": "huncoin"
-  },
+  "HNC": [
+    {
+      "name": "Helleniccoin",
+      "api_name": "helleniccoin"
+    },
+    {
+      "name": "Huncoin",
+      "api_name": "huncoin"
+    }
+  ],
   "HODL": {
     "name": "HOdlcoin",
     "api_name": "hodlcoin"
@@ -2639,10 +2755,16 @@
     "name": "iDice",
     "api_name": "idice"
   },
-  "ICN": {
-    "name": "iCoin",
-    "api_name": "icoin"
-  },
+  "ICN": [
+    {
+      "name": "Iconomi",
+      "api_name": "iconomi"
+    },
+    {
+      "name": "iCoin",
+      "api_name": "icoin"
+    }
+  ],
   "ICOB": {
     "name": "ICOBID",
     "api_name": "icobid"
@@ -2939,10 +3061,16 @@
     "name": "Komodo",
     "api_name": "komodo"
   },
-  "KNC": {
-    "name": "KingN Coin",
-    "api_name": "kingn-coin"
-  },
+  "KNC": [
+    {
+      "name": "Kyber Network",
+      "api_name": "kyber-network"
+    },
+    {
+      "name": "KingN Coin",
+      "api_name": "kingn-coin"
+    }
+  ],
   "KOBO": {
     "name": "Kobocoin",
     "api_name": "kobocoin"
@@ -2999,10 +3127,16 @@
     "name": "LBRY Credits",
     "api_name": "library-credit"
   },
-  "LBTC": {
-    "name": "Lightning Bitcoin [Futures]",
-    "api_name": "lightning-bitcoin"
-  },
+  "LBTC": [
+    {
+      "name": "LiteBitcoin",
+      "api_name": "litebitcoin"
+    },
+    {
+      "name": "Lightning Bitcoin [Futures]",
+      "api_name": "lightning-bitcoin"
+    }
+  ],
   "LCC": {
     "name": "Litecoin Cash",
     "api_name": "litecoin-cash"
@@ -3187,10 +3321,16 @@
     "name": "SatoshiMadness",
     "api_name": "satoshimadness"
   },
-  "MAG": {
-    "name": "Maggie",
-    "api_name": "maggie"
-  },
+  "MAG": [
+    {
+      "name": "Magnet",
+      "api_name": "magnet"
+    },
+    {
+      "name": "Maggie",
+      "api_name": "maggie"
+    }
+  ],
   "MAGE": {
     "name": "MagicCoin",
     "api_name": "magiccoin"
@@ -3567,10 +3707,16 @@
     "name": "NeosCoin",
     "api_name": "neoscoin"
   },
-  "NET": {
-    "name": "NetCoin",
-    "api_name": "netcoin"
-  },
+  "NET": [
+    {
+      "name": "Nimiq Exchange Token",
+      "api_name": "nimiq"
+    },
+    {
+      "name": "NetCoin",
+      "api_name": "netcoin"
+    }
+  ],
   "NETKO": {
     "name": "Netko",
     "api_name": "netko"
@@ -3987,10 +4133,16 @@
     "name": "Polybius",
     "api_name": "polybius"
   },
-  "PLC": {
-    "name": "Polcoin",
-    "api_name": "polcoin"
-  },
+  "PLC": [
+    {
+      "name": "PlusCoin",
+      "api_name": "pluscoin"
+    },
+    {
+      "name": "Polcoin",
+      "api_name": "polcoin"
+    }
+  ],
   "PLNC": {
     "name": "PLNcoin",
     "api_name": "plncoin"
@@ -4171,10 +4323,16 @@
     "name": "Pure",
     "api_name": "pure"
   },
-  "PUT": {
-    "name": "PutinCoin",
-    "api_name": "putincoin"
-  },
+  "PUT": [
+    {
+      "name": "Profile Utility Token",
+      "api_name": "profile-utility-token"
+    },
+    {
+      "name": "PutinCoin",
+      "api_name": "putincoin"
+    }
+  ],
   "PX": {
     "name": "PX",
     "api_name": "px"
@@ -4215,10 +4373,16 @@
     "name": "Qbic",
     "api_name": "qbic"
   },
-  "QBT": {
-    "name": "Cubits",
-    "api_name": "cubits"
-  },
+  "QBT": [
+    {
+      "name": "Qbao",
+      "api_name": "qbao"
+    },
+    {
+      "name": "Cubits",
+      "api_name": "cubits"
+    }
+  ],
   "QCN": {
     "name": "QuazarCoin",
     "api_name": "quazarcoin"
@@ -4303,10 +4467,16 @@
     "name": "RussiaCoin",
     "api_name": "russiacoin"
   },
-  "RCN": {
-    "name": "Rcoin",
-    "api_name": "rcoin"
-  },
+  "RCN": [
+    {
+      "name": "Ripio Credit Network",
+      "api_name": "ripio-credit-network"
+    },
+    {
+      "name": "Rcoin",
+      "api_name": "rcoin"
+    }
+  ],
   "RCT": {
     "name": "RealChain",
     "api_name": "realchain"
@@ -4419,10 +4589,16 @@
     "name": "RouletteToken",
     "api_name": "roulettetoken"
   },
-  "RMC": {
-    "name": "Remicoin",
-    "api_name": "remicoin"
-  },
+  "RMC": [
+    {
+      "name": "Russian Miner Coin",
+      "api_name": "russian-mining-coin"
+    },
+    {
+      "name": "Remicoin",
+      "api_name": "remicoin"
+    }
+  ],
   "RMT": {
     "name": "SureRemit",
     "api_name": "sureremit"
@@ -5675,10 +5851,16 @@
     "name": "WhaleCoin",
     "api_name": "whalecoin"
   },
-  "WIC": {
-    "name": "Wi Coin",
-    "api_name": "wi-coin"
-  },
+  "WIC": [
+    {
+      "name": "WaykiChain",
+      "api_name": "waykichain"
+    },
+    {
+      "name": "Wi Coin",
+      "api_name": "wi-coin"
+    }
+  ],
   "WILD": {
     "name": "Wild Crypto",
     "api_name": "wild-crypto"
@@ -5811,14 +5993,26 @@
     "name": "HiCoin",
     "api_name": "hicoin"
   },
-  "XID": {
-    "name": "International Diamond",
-    "api_name": "international-diamond"
-  },
-  "XIN": {
-    "name": "Infinity Economics",
-    "api_name": "infinity-economics"
-  },
+  "XID": [
+    {
+      "name": "Sphre AIR ",
+      "api_name": "sphre-air"
+    },
+    {
+      "name": "International Diamond",
+      "api_name": "international-diamond"
+    }
+  ],
+  "XIN": [
+    {
+      "name": "Mixin",
+      "api_name": "mixin"
+    },
+    {
+      "name": "Infinity Economics",
+      "api_name": "infinity-economics"
+    }
+  ],
   "XIOS": {
     "name": "Xios",
     "api_name": "xios"

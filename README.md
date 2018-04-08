@@ -11,6 +11,17 @@ Example:
 ```
 {
   ...
+  "BTG": [
+    {
+      "name": "Bitcoin Gold",
+      "api_name": "bitcoin-gold"
+    },
+    {
+      "name": "Bitgem",
+      "api_name": "bitgem"
+    }
+  ],
+  ...
   "SBTC": {
     "name": "Super Bitcoin",
     "api_name": "super-bitcoin"

@@ -38,9 +38,15 @@ def main():
         td = row.findAll('td')[1]
         symbol_info = get_symbol_info(td)
         symbol = symbol_info[0]
-        if result.get(symbol) is not None:
-            errors.append(f"{symbol}: {result[symbol]['name']} / {symbol_info[1]['name']}")
-        result[symbol_info[0]] = symbol_info[1]
+        symbol_value = result.get(symbol)
+        if symbol_value is not None:
+            errors.append(f"{symbol}: {symbol_value} / {symbol_info[1]}")
+            if not isinstance(symbol_value, list):
+                symbol_value = [symbol_value]
+            symbol_value.append(symbol_info[1])
+            result[symbol_info[0]] = symbol_value
+        else:
+            result[symbol_info[0]] = symbol_info[1]
 
     ordered_result = OrderedDict(sorted(result.items(), key=lambda t: t[0]))
 
