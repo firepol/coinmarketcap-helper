@@ -1,6300 +1,6328 @@
 {
   "$$$": {
     "name": "Money",
-    "api_name": "money"
+    "id": "money"
   },
   "$PAC": {
     "name": "PACcoin",
-    "api_name": "paccoin"
+    "id": "paccoin"
   },
   "1337": {
     "name": "Elite",
-    "api_name": "1337coin"
+    "id": "1337coin"
   },
   "1ST": {
     "name": "FirstBlood",
-    "api_name": "firstblood"
+    "id": "firstblood"
   },
   "1WO": {
     "name": "1World",
-    "api_name": "1world"
+    "id": "1world"
   },
   "2GIVE": {
     "name": "2GIVE",
-    "api_name": "2give"
+    "id": "2give"
   },
   "300": {
     "name": "300 Token",
-    "api_name": "300-token"
+    "id": "300-token"
   },
   "42": {
     "name": "42-coin",
-    "api_name": "42-coin"
+    "id": "42-coin"
   },
   "611": {
     "name": "SixEleven",
-    "api_name": "sixeleven"
+    "id": "sixeleven"
   },
   "808": {
     "name": "808Coin",
-    "api_name": "808coin"
+    "id": "808coin"
   },
   "888": {
     "name": "OctoCoin",
-    "api_name": "octocoin"
+    "id": "octocoin"
   },
   "8BIT": {
     "name": "8Bit",
-    "api_name": "8bit"
+    "id": "8bit"
   },
   "AAC": {
     "name": "Acute Angle Cloud",
-    "api_name": "acute-angle-cloud"
+    "id": "acute-angle-cloud"
   },
   "ABC": {
     "name": "Alphabit",
-    "api_name": "alphabitcoinfund"
+    "id": "alphabitcoinfund"
   },
   "ABJ": {
     "name": "Abjcoin",
-    "api_name": "abjcoin"
+    "id": "abjcoin"
   },
   "ABT": {
     "name": "Arcblock",
-    "api_name": "arcblock"
+    "id": "arcblock"
   },
   "ABY": {
     "name": "ArtByte",
-    "api_name": "artbyte"
+    "id": "artbyte"
   },
   "AC": {
     "name": "AsiaCoin",
-    "api_name": "asiacoin"
+    "id": "asiacoin"
   },
   "ACAT": {
     "name": "Alphacat",
-    "api_name": "alphacat"
+    "id": "alphacat"
   },
   "ACC": [
     {
-      "name": "Accelerator Network",
-      "api_name": "accelerator-network"
+      "name": "AdCoin",
+      "id": "adcoin"
     },
     {
-      "name": "AdCoin",
-      "api_name": "adcoin"
+      "name": "Accelerator Network",
+      "id": "accelerator-network"
     },
     {
       "name": "ACChain",
-      "api_name": "acchain"
+      "id": "acchain"
     }
   ],
   "ACE": {
     "name": "Ace",
-    "api_name": "ace"
+    "id": "ace"
   },
   "ACES": {
     "name": "Aces",
-    "api_name": "aces"
+    "id": "aces"
   },
   "ACN": {
     "name": "Avoncoin",
-    "api_name": "avoncoin"
+    "id": "avoncoin"
   },
   "ACOIN": {
     "name": "Acoin",
-    "api_name": "acoin"
+    "id": "acoin"
   },
   "ACP": {
     "name": "AnarchistsPrime",
-    "api_name": "anarchistsprime"
+    "id": "anarchistsprime"
   },
   "ACT": {
     "name": "Achain",
-    "api_name": "achain"
+    "id": "achain"
   },
   "ADA": {
     "name": "Cardano",
-    "api_name": "cardano"
+    "id": "cardano"
   },
   "ADB": {
     "name": "adbank",
-    "api_name": "adbank"
+    "id": "adbank"
   },
   "ADC": {
     "name": "AudioCoin",
-    "api_name": "audiocoin"
+    "id": "audiocoin"
   },
   "ADCN": {
     "name": "Asiadigicoin",
-    "api_name": "asiadigicoin"
+    "id": "asiadigicoin"
   },
   "ADK": {
     "name": "Aidos Kuneen",
-    "api_name": "aidos-kuneen"
+    "id": "aidos-kuneen"
   },
   "ADST": {
     "name": "AdShares",
-    "api_name": "adshares"
+    "id": "adshares"
   },
   "ADT": {
     "name": "adToken",
-    "api_name": "adtoken"
+    "id": "adtoken"
   },
   "ADX": {
     "name": "AdEx",
-    "api_name": "adx-net"
+    "id": "adx-net"
   },
   "ADZ": {
     "name": "Adzcoin",
-    "api_name": "adzcoin"
+    "id": "adzcoin"
   },
   "AE": {
     "name": "Aeternity",
-    "api_name": "aeternity"
+    "id": "aeternity"
   },
   "AEON": {
     "name": "Aeon",
-    "api_name": "aeon"
+    "id": "aeon"
   },
   "AERM": {
     "name": "Aerium",
-    "api_name": "aerium"
+    "id": "aerium"
   },
   "AGI": {
     "name": "SingularityNET",
-    "api_name": "singularitynet"
+    "id": "singularitynet"
+  },
+  "AGLC": {
+    "name": "AgrolifeCoin",
+    "id": "agrolifecoin"
   },
   "AHT": {
     "name": "Bowhead",
-    "api_name": "bowhead"
+    "id": "bowhead"
   },
   "AI": {
     "name": "POLY AI",
-    "api_name": "poly-ai"
+    "id": "poly-ai"
   },
   "AIB": {
     "name": "Advanced Internet Blocks",
-    "api_name": "advanced-internet-blocks"
+    "id": "advanced-internet-blocks"
   },
   "AID": {
     "name": "AidCoin",
-    "api_name": "aidcoin"
+    "id": "aidcoin"
   },
   "AIDOC": {
     "name": "AI Doctor",
-    "api_name": "aidoc"
+    "id": "aidoc"
   },
   "AION": {
     "name": "Aion",
-    "api_name": "aion"
+    "id": "aion"
   },
   "AIR": {
     "name": "AirToken",
-    "api_name": "airtoken"
+    "id": "airtoken"
   },
   "AIT": {
     "name": "AICHAIN",
-    "api_name": "aichain"
+    "id": "aichain"
   },
   "AIX": {
     "name": "Aigang",
-    "api_name": "aigang"
+    "id": "aigang"
   },
   "AKY": {
     "name": "Akuya Coin",
-    "api_name": "akuya-coin"
+    "id": "akuya-coin"
   },
   "ALIS": {
     "name": "ALIS",
-    "api_name": "alis"
+    "id": "alis"
   },
   "ALL": {
     "name": "Allion",
-    "api_name": "allion"
+    "id": "allion"
   },
   "ALQO": {
     "name": "ALQO",
-    "api_name": "alqo"
+    "id": "alqo"
   },
   "ALT": {
     "name": "Altcoin",
-    "api_name": "altcoin-alt"
+    "id": "altcoin-alt"
   },
   "ALTCOM": {
     "name": "SONO",
-    "api_name": "altcommunity-coin"
+    "id": "altcommunity-coin"
   },
   "AMB": {
     "name": "Ambrosus",
-    "api_name": "amber"
+    "id": "amber"
   },
   "AMBER": {
     "name": "AmberCoin",
-    "api_name": "ambercoin"
+    "id": "ambercoin"
   },
   "AMLT": {
     "name": "AMLT Token",
-    "api_name": "amlt"
+    "id": "amlt"
   },
   "AMM": {
     "name": "MicroMoney",
-    "api_name": "micromoney"
+    "id": "micromoney"
   },
   "AMMO": {
     "name": "Ammo Reloaded",
-    "api_name": "ammo-reloaded"
+    "id": "ammo-reloaded"
   },
   "AMP": {
     "name": "Synereo",
-    "api_name": "synereo"
+    "id": "synereo"
   },
   "AMS": {
     "name": "AmsterdamCoin",
-    "api_name": "amsterdamcoin"
+    "id": "amsterdamcoin"
   },
   "ANC": {
     "name": "Anoncoin",
-    "api_name": "anoncoin"
+    "id": "anoncoin"
   },
   "ANI": {
     "name": "Animecoin",
-    "api_name": "animecoin"
+    "id": "animecoin"
   },
   "ANT": {
     "name": "Aragon",
-    "api_name": "aragon"
+    "id": "aragon"
   },
   "ANTX": {
     "name": "Antimatter",
-    "api_name": "antimatter"
+    "id": "antimatter"
   },
   "APC": {
     "name": "AlpaCoin",
-    "api_name": "alpacoin"
+    "id": "alpacoin"
   },
   "APPC": {
     "name": "AppCoins",
-    "api_name": "appcoins"
+    "id": "appcoins"
   },
   "APX": {
     "name": "APX",
-    "api_name": "apx"
+    "id": "apx"
   },
   "ARB": {
     "name": "ARbit",
-    "api_name": "arbit"
+    "id": "arbit"
   },
   "ARC": {
     "name": "ArcticCoin",
-    "api_name": "arcticcoin"
+    "id": "arcticcoin"
   },
   "ARCO": {
     "name": "AquariusCoin",
-    "api_name": "aquariuscoin"
+    "id": "aquariuscoin"
   },
   "ARCT": {
     "name": "ArbitrageCT",
-    "api_name": "arbitragect"
+    "id": "arbitragect"
   },
   "ARDR": {
     "name": "Ardor",
-    "api_name": "ardor"
+    "id": "ardor"
   },
   "ARG": {
     "name": "Argentum",
-    "api_name": "argentum"
+    "id": "argentum"
   },
   "ARGUS": {
     "name": "Argus",
-    "api_name": "argus"
+    "id": "argus"
   },
   "ARI": {
     "name": "Aricoin",
-    "api_name": "aricoin"
+    "id": "aricoin"
   },
   "ARK": {
     "name": "Ark",
-    "api_name": "ark"
+    "id": "ark"
   },
   "ARN": {
     "name": "Aeron",
-    "api_name": "aeron"
+    "id": "aeron"
   },
   "ART": {
     "name": "Maecenas",
-    "api_name": "maecenas"
+    "id": "maecenas"
   },
   "ARY": {
     "name": "Block Array",
-    "api_name": "block-array"
+    "id": "block-array"
   },
   "ASAFE2": {
     "name": "AllSafe",
-    "api_name": "allsafe"
+    "id": "allsafe"
   },
   "ASN": {
     "name": "Aseancoin",
-    "api_name": "aseancoin"
+    "id": "aseancoin"
   },
   "AST": {
     "name": "AirSwap",
-    "api_name": "airswap"
+    "id": "airswap"
   },
   "ASTRO": {
     "name": "Astro",
-    "api_name": "astro"
+    "id": "astro"
   },
   "ATB": {
     "name": "ATBCoin",
-    "api_name": "atbcoin"
+    "id": "atbcoin"
   },
   "ATL": {
     "name": "ATLANT",
-    "api_name": "atlant"
+    "id": "atlant"
   },
   "ATM": {
     "name": "ATMChain",
-    "api_name": "attention-token-of-media"
+    "id": "attention-token-of-media"
   },
   "ATMC": {
     "name": "ATMCoin",
-    "api_name": "atmcoin"
+    "id": "atmcoin"
   },
   "ATMS": {
     "name": "Atmos",
-    "api_name": "atmos"
+    "id": "atmos"
   },
   "ATN": {
     "name": "ATN",
-    "api_name": "atn"
+    "id": "atn"
   },
   "ATOM": {
     "name": "Atomic Coin",
-    "api_name": "atomic-coin"
+    "id": "atomic-coin"
   },
   "ATS": {
     "name": "Authorship",
-    "api_name": "authorship"
+    "id": "authorship"
   },
   "ATX": {
     "name": "Artex Coin",
-    "api_name": "artex-coin"
+    "id": "artex-coin"
   },
   "AU": {
     "name": "AurumCoin",
-    "api_name": "aurumcoin"
+    "id": "aurumcoin"
   },
   "AUR": {
     "name": "Auroracoin",
-    "api_name": "auroracoin"
+    "id": "auroracoin"
   },
   "AURA": {
     "name": "Aurora DAO",
-    "api_name": "aurora-dao"
+    "id": "aurora-dao"
   },
   "AUTO": {
     "name": "Cube",
-    "api_name": "cube"
+    "id": "cube"
   },
   "AV": {
     "name": "AvatarCoin",
-    "api_name": "avatarcoin"
+    "id": "avatarcoin"
   },
   "AVH": {
     "name": "Animation Vision Cash",
-    "api_name": "animation-vision-cash"
+    "id": "animation-vision-cash"
   },
   "AVT": {
     "name": "Aventus",
-    "api_name": "aventus"
+    "id": "aventus"
   },
   "AWR": {
     "name": "AWARE",
-    "api_name": "aware"
+    "id": "aware"
   },
   "AXIOM": {
     "name": "Axiom",
-    "api_name": "axiom"
+    "id": "axiom"
   },
   "AXP": {
     "name": "aXpire",
-    "api_name": "axpire"
+    "id": "axpire"
   },
   "B2B": {
     "name": "B2BX",
-    "api_name": "b2bx"
+    "id": "b2bx"
   },
   "B2X": {
     "name": "SegWit2x",
-    "api_name": "segwit2x"
+    "id": "segwit2x"
   },
   "B@": {
     "name": "Bankcoin",
-    "api_name": "bankcoin"
+    "id": "bankcoin"
   },
   "BANCA": {
     "name": "Banca",
-    "api_name": "banca"
+    "id": "banca"
   },
   "BAR": {
     "name": "Titanium Blockchain",
-    "api_name": "titanium-blockchain"
+    "id": "titanium-blockchain"
   },
   "BAS": {
     "name": "BitAsean",
-    "api_name": "bitasean"
+    "id": "bitasean"
   },
   "BASH": {
     "name": "LuckChain",
-    "api_name": "luckchain"
+    "id": "luckchain"
   },
   "BAT": [
     {
       "name": "Basic Attention Token",
-      "api_name": "basic-attention-token"
+      "id": "basic-attention-token"
     },
     {
       "name": "BatCoin",
-      "api_name": "batcoin"
+      "id": "batcoin"
     }
   ],
   "BAX": {
     "name": "BABB",
-    "api_name": "babb"
+    "id": "babb"
   },
   "BAY": {
     "name": "BitBay",
-    "api_name": "bitbay"
+    "id": "bitbay"
   },
   "BBN": {
     "name": "Banyan Network",
-    "api_name": "banyan-network"
+    "id": "banyan-network"
   },
   "BBP": {
     "name": "BiblePay",
-    "api_name": "biblepay"
+    "id": "biblepay"
   },
   "BBR": {
     "name": "Boolberry",
-    "api_name": "boolberry"
+    "id": "boolberry"
   },
   "BBT": {
     "name": "BitBoost",
-    "api_name": "bitboost"
+    "id": "bitboost"
   },
   "BCA": {
     "name": "Bitcoin Atom",
-    "api_name": "bitcoin-atom"
+    "id": "bitcoin-atom"
   },
   "BCC": {
     "name": "BitConnect",
-    "api_name": "bitconnect"
+    "id": "bitconnect"
   },
   "BCD": {
     "name": "Bitcoin Diamond",
-    "api_name": "bitcoin-diamond"
+    "id": "bitcoin-diamond"
   },
   "BCDN": {
     "name": "BlockCDN",
-    "api_name": "blockcdn"
+    "id": "blockcdn"
   },
   "BCF": {
     "name": "Bitcoin Fast",
-    "api_name": "bitcoinfast"
+    "id": "bitcoinfast"
   },
   "BCH": {
     "name": "Bitcoin Cash",
-    "api_name": "bitcoin-cash"
+    "id": "bitcoin-cash"
   },
   "BCN": {
     "name": "Bytecoin",
-    "api_name": "bytecoin-bcn"
+    "id": "bytecoin-bcn"
   },
   "BCO": {
     "name": "BridgeCoin",
-    "api_name": "bridgecoin"
+    "id": "bridgecoin"
   },
   "BCPT": {
     "name": "BlockMason Credit Protocol",
-    "api_name": "blockmason"
+    "id": "blockmason"
   },
   "BCX": {
     "name": "BitcoinX",
-    "api_name": "bitcoinx"
+    "id": "bitcoinx"
   },
   "BCY": {
     "name": "Bitcrystals",
-    "api_name": "bitcrystals"
+    "id": "bitcrystals"
   },
   "BDG": {
     "name": "BitDegree",
-    "api_name": "bitdegree"
+    "id": "bitdegree"
   },
   "BDL": {
     "name": "Bitdeal",
-    "api_name": "bitdeal"
+    "id": "bitdeal"
   },
   "BEE": {
     "name": "Bee Token",
-    "api_name": "bee-token"
+    "id": "bee-token"
   },
   "BELA": {
     "name": "Bela",
-    "api_name": "belacoin"
+    "id": "belacoin"
   },
   "BENJI": {
     "name": "BenjiRolls",
-    "api_name": "benjirolls"
+    "id": "benjirolls"
   },
   "BERN": {
     "name": "BERNcash",
-    "api_name": "berncash"
+    "id": "berncash"
+  },
+  "BERRY": {
+    "name": "Rentberry",
+    "id": "rentberry"
   },
   "BEST": {
     "name": "BestChain",
-    "api_name": "bestchain"
+    "id": "bestchain"
   },
   "BET": [
     {
       "name": "DAO.Casino",
-      "api_name": "dao-casino"
+      "id": "dao-casino"
     },
     {
       "name": "BetaCoin",
-      "api_name": "betacoin"
+      "id": "betacoin"
     }
   ],
   "BEZ": {
     "name": "Bezop",
-    "api_name": "bezop"
+    "id": "bezop"
   },
   "BFT": {
     "name": "BnkToTheFuture",
-    "api_name": "bnktothefuture"
+    "id": "bnktothefuture"
   },
   "BIG": {
     "name": "BigONE Token",
-    "api_name": "bigone-token"
+    "id": "bigone-token"
   },
   "BIGUP": {
     "name": "BigUp",
-    "api_name": "bigup"
+    "id": "bigup"
   },
   "BIO": {
     "name": "BioCoin",
-    "api_name": "biocoin"
+    "id": "biocoin"
   },
   "BIOB": {
     "name": "BioBar",
-    "api_name": "biobar"
+    "id": "biobar"
   },
   "BIOS": {
     "name": "BiosCrypto",
-    "api_name": "bios-crypto"
+    "id": "bios-crypto"
   },
   "BIP": {
     "name": "BipCoin",
-    "api_name": "bipcoin"
+    "id": "bipcoin"
   },
   "BIRDS": {
     "name": "Birds",
-    "api_name": "birds"
+    "id": "birds"
   },
   "BIS": {
     "name": "Bismuth",
-    "api_name": "bismuth"
+    "id": "bismuth"
   },
   "BIT": {
     "name": "First Bitcoin",
-    "api_name": "first-bitcoin"
+    "id": "first-bitcoin"
   },
   "BITB": {
     "name": "Bean Cash",
-    "api_name": "bean-cash"
+    "id": "bean-cash"
   },
   "BITBTC": {
     "name": "bitBTC",
-    "api_name": "bitbtc"
+    "id": "bitbtc"
   },
   "BITCF": {
     "name": "First Bitcoin Capital",
-    "api_name": "first-bitcoin-capital"
+    "id": "first-bitcoin-capital"
   },
   "BITCNY": {
     "name": "bitCNY",
-    "api_name": "bitcny"
+    "id": "bitcny"
   },
   "BITEUR": {
     "name": "bitEUR",
-    "api_name": "biteur"
+    "id": "biteur"
   },
   "BITG": {
     "name": "Bitcoin Green",
-    "api_name": "bitcoin-green"
+    "id": "bitcoin-green"
   },
   "BITGOLD": {
     "name": "bitGold",
-    "api_name": "bitgold"
+    "id": "bitgold"
   },
   "BITOK": {
     "name": "Bitok",
-    "api_name": "bitok"
+    "id": "bitok"
   },
   "BITS": {
     "name": "Bitstar",
-    "api_name": "bitstar"
+    "id": "bitstar"
   },
   "BITSILVER": {
     "name": "bitSilver",
-    "api_name": "bitsilver"
+    "id": "bitsilver"
   },
   "BITUSD": {
     "name": "bitUSD",
-    "api_name": "bitusd"
+    "id": "bitusd"
   },
   "BITZ": {
     "name": "Bitz",
-    "api_name": "bitz"
+    "id": "bitz"
   },
   "BIX": {
     "name": "Bibox Token",
-    "api_name": "bibox-token"
+    "id": "bibox-token"
   },
   "BKX": {
     "name": "Bankex",
-    "api_name": "bankex"
+    "id": "bankex"
   },
   "BLAZR": {
     "name": "BlazerCoin",
-    "api_name": "blazercoin"
+    "id": "blazercoin"
   },
   "BLC": {
     "name": "Blakecoin",
-    "api_name": "blakecoin"
+    "id": "blakecoin"
   },
   "BLITZ": {
     "name": "Blitzcash",
-    "api_name": "blitzcash"
+    "id": "blitzcash"
   },
   "BLK": {
     "name": "BlackCoin",
-    "api_name": "blackcoin"
+    "id": "blackcoin"
   },
   "BLN": {
     "name": "Bolenum",
-    "api_name": "bolenum"
+    "id": "bolenum"
   },
   "BLOCK": {
     "name": "Blocknet",
-    "api_name": "blocknet"
+    "id": "blocknet"
   },
   "BLOCKPAY": {
     "name": "BlockPay",
-    "api_name": "blockpay"
+    "id": "blockpay"
   },
   "BLRY": {
     "name": "BillaryCoin",
-    "api_name": "billarycoin"
+    "id": "billarycoin"
   },
   "BLT": {
     "name": "Bloom",
-    "api_name": "bloomtoken"
+    "id": "bloomtoken"
   },
   "BLU": {
     "name": "BlueCoin",
-    "api_name": "bluecoin"
+    "id": "bluecoin"
   },
   "BLUE": {
     "name": "BLUE",
-    "api_name": "ethereum-blue"
+    "id": "ethereum-blue"
   },
   "BLZ": [
     {
       "name": "Bluzelle",
-      "api_name": "bluzelle"
+      "id": "bluzelle"
     },
     {
       "name": "BlazeCoin",
-      "api_name": "blazecoin"
+      "id": "blazecoin"
     }
   ],
   "BMC": {
     "name": "Blackmoon",
-    "api_name": "blackmoon"
+    "id": "blackmoon"
   },
   "BNB": {
     "name": "Binance Coin",
-    "api_name": "binance-coin"
+    "id": "binance-coin"
   },
   "BNT": {
     "name": "Bancor",
-    "api_name": "bancor"
+    "id": "bancor"
   },
   "BNTY": {
     "name": "Bounty0x",
-    "api_name": "bounty0x"
+    "id": "bounty0x"
   },
   "BNX": {
     "name": "BnrtxCoin",
-    "api_name": "bnrtxcoin"
+    "id": "bnrtxcoin"
   },
   "BOAT": {
     "name": "BOAT",
-    "api_name": "doubloon"
+    "id": "doubloon"
   },
   "BOLI": {
     "name": "Bolivarcoin",
-    "api_name": "bolivarcoin"
+    "id": "bolivarcoin"
   },
   "BON": {
     "name": "Bonpay",
-    "api_name": "bonpay"
+    "id": "bonpay"
   },
   "BOS": {
     "name": "BOScoin",
-    "api_name": "boscoin"
+    "id": "boscoin"
   },
   "BOST": {
     "name": "BoostCoin",
-    "api_name": "boostcoin"
+    "id": "boostcoin"
   },
   "BOT": {
     "name": "Bodhi",
-    "api_name": "bodhi"
+    "id": "bodhi"
   },
   "BPC": {
     "name": "Bitpark Coin",
-    "api_name": "bitpark-coin"
+    "id": "bitpark-coin"
   },
   "BPL": {
     "name": "Blockpool",
-    "api_name": "blockpool"
+    "id": "blockpool"
   },
   "BPT": {
     "name": "Blockport",
-    "api_name": "blockport"
+    "id": "blockport"
   },
   "BQ": {
     "name": "bitqy",
-    "api_name": "bitqy"
+    "id": "bitqy"
   },
   "BRAT": {
     "name": "BROTHER",
-    "api_name": "brat"
+    "id": "brat"
   },
   "BRD": {
     "name": "Bread",
-    "api_name": "bread"
+    "id": "bread"
   },
   "BRIA": {
     "name": "BriaCoin",
-    "api_name": "briacoin"
+    "id": "briacoin"
   },
   "BRIT": {
     "name": "BritCoin",
-    "api_name": "britcoin"
+    "id": "britcoin"
   },
   "BRK": {
     "name": "Breakout",
-    "api_name": "breakout"
+    "id": "breakout"
   },
   "BRO": {
     "name": "Bitradio",
-    "api_name": "bitradio"
+    "id": "bitradio"
   },
   "BRX": {
     "name": "Breakout Stake",
-    "api_name": "breakout-stake"
+    "id": "breakout-stake"
   },
   "BSC": {
     "name": "BowsCoin",
-    "api_name": "bowscoin"
+    "id": "bowscoin"
   },
   "BSD": {
     "name": "BitSend",
-    "api_name": "bitsend"
+    "id": "bitsend"
   },
   "BSN": {
     "name": "Bastonet",
-    "api_name": "bastonet"
+    "id": "bastonet"
   },
   "BSR": {
     "name": "BitSoar",
-    "api_name": "bitsoar"
+    "id": "bitsoar"
   },
   "BSTAR": {
     "name": "Blackstar",
-    "api_name": "blackstar"
+    "id": "blackstar"
   },
   "BSTN": {
     "name": "BitStation",
-    "api_name": "bitstation"
+    "id": "bitstation"
   },
   "BSTY": {
     "name": "GlobalBoost-Y",
-    "api_name": "globalboost-y"
+    "id": "globalboost-y"
   },
   "BT2": {
     "name": "BT2 [CST]",
-    "api_name": "bt2-cst"
+    "id": "bt2-cst"
   },
   "BTA": {
     "name": "Bata",
-    "api_name": "bata"
+    "id": "bata"
   },
   "BTB": {
     "name": "BitBar",
-    "api_name": "bitbar"
+    "id": "bitbar"
   },
   "BTBc": {
     "name": "Bitbase",
-    "api_name": "bitbase"
+    "id": "bitbase"
   },
   "BTC": {
     "name": "Bitcoin",
-    "api_name": "bitcoin"
+    "id": "bitcoin"
   },
   "BTCA": {
     "name": "Bitair",
-    "api_name": "bitair"
+    "id": "bitair"
   },
   "BTCD": {
     "name": "BitcoinDark",
-    "api_name": "bitcoindark"
+    "id": "bitcoindark"
   },
   "BTCM": {
     "name": "BTCMoon",
-    "api_name": "btcmoon"
+    "id": "btcmoon"
   },
   "BTCP": {
     "name": "Bitcoin Private",
-    "api_name": "bitcoin-private"
+    "id": "bitcoin-private"
   },
   "BTCR": {
     "name": "Bitcurrency",
-    "api_name": "bitcurrency"
+    "id": "bitcurrency"
   },
   "BTCRED": {
     "name": "Bitcoin Red",
-    "api_name": "bitcoin-red"
+    "id": "bitcoin-red"
   },
   "BTCS": {
     "name": "Bitcoin Scrypt",
-    "api_name": "bitcoin-scrypt"
+    "id": "bitcoin-scrypt"
   },
   "BTCZ": {
     "name": "BitcoinZ",
-    "api_name": "bitcoinz"
+    "id": "bitcoinz"
   },
   "BTDX": {
     "name": "Bitcloud",
-    "api_name": "bitcloud"
+    "id": "bitcloud"
   },
   "BTE": {
     "name": "BitSerial",
-    "api_name": "bitserial"
+    "id": "bitserial"
   },
   "BTG": [
     {
       "name": "Bitcoin Gold",
-      "api_name": "bitcoin-gold"
+      "id": "bitcoin-gold"
     },
     {
       "name": "Bitgem",
-      "api_name": "bitgem"
+      "id": "bitgem"
     }
   ],
   "BTM": [
     {
       "name": "Bytom",
-      "api_name": "bytom"
+      "id": "bytom"
     },
     {
       "name": "Bitmark",
-      "api_name": "bitmark"
+      "id": "bitmark"
     }
   ],
   "BTO": {
     "name": "Bottos",
-    "api_name": "bottos"
+    "id": "bottos"
   },
   "BTPL": {
     "name": "Bitcoin Planet",
-    "api_name": "bitcoin-planet"
+    "id": "bitcoin-planet"
   },
   "BTQ": {
     "name": "BitQuark",
-    "api_name": "bitquark"
+    "id": "bitquark"
   },
   "BTS": {
     "name": "BitShares",
-    "api_name": "bitshares"
+    "id": "bitshares"
   },
   "BTW": {
     "name": "BitWhite",
-    "api_name": "bitwhite"
+    "id": "bitwhite"
   },
   "BTWTY": {
     "name": "Bit20",
-    "api_name": "bit20"
+    "id": "bit20"
   },
   "BTX": {
     "name": "Bitcore",
-    "api_name": "bitcore"
+    "id": "bitcore"
   },
   "BUB": {
     "name": "Bubble",
-    "api_name": "bubble"
+    "id": "bubble"
   },
   "BUCKS": {
     "name": "SwagBucks",
-    "api_name": "swagbucks"
+    "id": "swagbucks"
   },
   "BUMBA": {
     "name": "BumbaCoin",
-    "api_name": "bumbacoin"
+    "id": "bumbacoin"
   },
   "BUN": {
     "name": "BunnyCoin",
-    "api_name": "bunnycoin"
+    "id": "bunnycoin"
   },
   "BURST": {
     "name": "Burst",
-    "api_name": "burst"
+    "id": "burst"
   },
   "BUZZ": {
     "name": "BuzzCoin",
-    "api_name": "buzzcoin"
+    "id": "buzzcoin"
   },
   "BWK": {
     "name": "Bulwark",
-    "api_name": "bulwark"
+    "id": "bulwark"
   },
   "BXC": {
     "name": "Bitcedi",
-    "api_name": "bitcedi"
+    "id": "bitcedi"
   },
   "BXT": {
     "name": "BitTokens",
-    "api_name": "bittokens"
+    "id": "bittokens"
   },
   "BYC": {
     "name": "Bytecent",
-    "api_name": "bytecent"
+    "id": "bytecent"
   },
   "C2": {
     "name": "Coin2.1",
-    "api_name": "coin2-1"
+    "id": "coin2-1"
   },
   "C20": {
     "name": "CRYPTO20",
-    "api_name": "c20"
+    "id": "c20"
   },
   "CAB": {
     "name": "Cabbage",
-    "api_name": "cabbage"
+    "id": "cabbage"
   },
   "CACH": {
     "name": "CacheCoin",
-    "api_name": "cachecoin"
+    "id": "cachecoin"
   },
   "CAG": {
     "name": "Change",
-    "api_name": "change"
+    "id": "change"
   },
   "CALC": {
     "name": "CaliphCoin",
-    "api_name": "caliphcoin"
+    "id": "caliphcoin"
   },
   "CAN": [
     {
       "name": "CanYaCoin",
-      "api_name": "canyacoin"
+      "id": "canyacoin"
     },
     {
       "name": "Content and AD Network",
-      "api_name": "content-and-ad-network"
+      "id": "content-and-ad-network"
     }
   ],
   "CANDY": {
     "name": "Candy",
-    "api_name": "candy"
+    "id": "candy"
   },
   "CANN": {
     "name": "CannabisCoin",
-    "api_name": "cannabiscoin"
+    "id": "cannabiscoin"
   },
   "CAPP": {
     "name": "Cappasity",
-    "api_name": "cappasity"
+    "id": "cappasity"
   },
   "CARBON": {
     "name": "Carboncoin",
-    "api_name": "carboncoin"
+    "id": "carboncoin"
   },
   "CAS": {
     "name": "Cashaa",
-    "api_name": "cashaa"
+    "id": "cashaa"
   },
   "CASH": {
     "name": "Cashcoin",
-    "api_name": "cashcoin"
+    "id": "cashcoin"
   },
   "CAT": [
     {
       "name": "BitClave",
-      "api_name": "bitclave"
+      "id": "bitclave"
     },
     {
       "name": "BlockCAT",
-      "api_name": "blockcat"
+      "id": "blockcat"
     },
     {
       "name": "Catcoin",
-      "api_name": "catcoin"
+      "id": "catcoin"
     }
   ],
   "CBX": {
     "name": "Bullion",
-    "api_name": "bullion"
+    "id": "bullion"
   },
   "CC": {
     "name": "CyberCoin",
-    "api_name": "cybercoin"
+    "id": "cybercoin"
   },
   "CCM100": {
     "name": "CCMiner",
-    "api_name": "ccminer"
+    "id": "ccminer"
   },
   "CCN": {
     "name": "CannaCoin",
-    "api_name": "cannacoin"
+    "id": "cannacoin"
   },
   "CCO": {
     "name": "Ccore",
-    "api_name": "ccore"
+    "id": "ccore"
   },
   "CCRB": {
     "name": "CryptoCarbon",
-    "api_name": "cryptocarbon"
+    "id": "cryptocarbon"
   },
   "CCT": {
     "name": "Crystal Clear ",
-    "api_name": "crystal-clear"
+    "id": "crystal-clear"
   },
   "CDN": {
     "name": "Canada eCoin",
-    "api_name": "canada-ecoin"
+    "id": "canada-ecoin"
   },
   "CDT": {
     "name": "Blox",
-    "api_name": "blox"
+    "id": "blox"
   },
   "CDX": {
     "name": "Commodity Ad Network",
-    "api_name": "commodity-ad-network"
+    "id": "commodity-ad-network"
   },
   "CEFS": {
     "name": "CryptopiaFeeShares",
-    "api_name": "cryptopiafeeshares"
+    "id": "cryptopiafeeshares"
   },
   "CENNZ": {
     "name": "Centrality",
-    "api_name": "centrality"
+    "id": "centrality"
   },
   "CESC": {
     "name": "CryptoEscudo",
-    "api_name": "cryptoescudo"
+    "id": "cryptoescudo"
   },
   "CF": {
     "name": "Californium",
-    "api_name": "californium"
+    "id": "californium"
   },
   "CFC": {
     "name": "CoffeeCoin",
-    "api_name": "coffeecoin"
+    "id": "coffeecoin"
   },
   "CFD": {
     "name": "Confido",
-    "api_name": "confido"
+    "id": "confido"
   },
   "CFI": {
     "name": "Cofound.it",
-    "api_name": "cofound-it"
+    "id": "cofound-it"
   },
   "CFUN": {
     "name": "CFun",
-    "api_name": "cfun"
+    "id": "cfun"
   },
   "CHAN": {
     "name": "ChanCoin",
-    "api_name": "chancoin"
+    "id": "chancoin"
   },
   "CHAT": {
     "name": "ChatCoin",
-    "api_name": "chatcoin"
+    "id": "chatcoin"
   },
   "CHC": {
     "name": "ChainCoin",
-    "api_name": "chaincoin"
+    "id": "chaincoin"
   },
   "CHEAP": {
     "name": "Cheapcoin",
-    "api_name": "cheapcoin"
+    "id": "cheapcoin"
   },
   "CHESS": {
     "name": "ChessCoin",
-    "api_name": "chesscoin"
+    "id": "chesscoin"
   },
   "CHIPS": {
     "name": "CHIPS",
-    "api_name": "chips"
+    "id": "chips"
   },
   "CHP": {
     "name": "CoinPoker",
-    "api_name": "coinpoker"
+    "id": "coinpoker"
   },
   "CHSB": {
     "name": "SwissBorg",
-    "api_name": "swissborg"
+    "id": "swissborg"
   },
   "CJ": {
     "name": "Cryptojacks",
-    "api_name": "cryptojacks"
+    "id": "cryptojacks"
+  },
+  "CKUSD": {
+    "name": "CK USD",
+    "id": "ckusd"
   },
   "CL": {
     "name": "Coinlancer",
-    "api_name": "coinlancer"
+    "id": "coinlancer"
   },
   "CLAM": {
     "name": "Clams",
-    "api_name": "clams"
+    "id": "clams"
   },
   "CLD": {
     "name": "Cloud",
-    "api_name": "cloud"
+    "id": "cloud"
   },
   "CLOAK": {
     "name": "CloakCoin",
-    "api_name": "cloakcoin"
+    "id": "cloakcoin"
   },
   "CLR": {
     "name": "ClearCoin",
-    "api_name": "clearcoin"
+    "id": "clearcoin"
   },
   "CLUB": {
     "name": "ClubCoin",
-    "api_name": "clubcoin"
+    "id": "clubcoin"
   },
   "CME": {
     "name": "Cashme",
-    "api_name": "cashme"
+    "id": "cashme"
   },
   "CMP": {
     "name": "Compcoin",
-    "api_name": "compcoin"
+    "id": "compcoin"
   },
   "CMPCO": {
     "name": "CampusCoin",
-    "api_name": "campuscoin"
+    "id": "campuscoin"
   },
   "CMS": [
     {
       "name": "COMSA [ETH]",
-      "api_name": "comsa-eth"
+      "id": "comsa-eth"
     },
     {
       "name": "COMSA [XEM]",
-      "api_name": "comsa-xem"
+      "id": "comsa-xem"
     }
   ],
   "CMT": [
     {
       "name": "CyberMiles",
-      "api_name": "cybermiles"
+      "id": "cybermiles"
     },
     {
       "name": "Comet",
-      "api_name": "comet"
+      "id": "comet"
     }
   ],
   "CND": {
     "name": "Cindicator",
-    "api_name": "cindicator"
+    "id": "cindicator"
   },
   "CNNC": {
     "name": "Cannation",
-    "api_name": "cannation"
+    "id": "cannation"
   },
   "CNO": {
     "name": "Coin(O)",
-    "api_name": "coin"
+    "id": "coin"
   },
   "CNT": {
     "name": "Centurion",
-    "api_name": "centurion"
+    "id": "centurion"
   },
   "CNX": {
     "name": "Cryptonex",
-    "api_name": "cryptonex"
+    "id": "cryptonex"
   },
   "COAL": {
     "name": "BitCoal",
-    "api_name": "bitcoal"
+    "id": "bitcoal"
   },
   "COB": {
     "name": "Cobinhood",
-    "api_name": "cobinhood"
+    "id": "cobinhood"
   },
   "COFI": {
     "name": "CoinFi",
-    "api_name": "coinfi"
+    "id": "coinfi"
   },
   "COLX": {
     "name": "ColossusXT",
-    "api_name": "colossusxt"
+    "id": "colossusxt"
   },
   "CON": {
     "name": "PayCon",
-    "api_name": "paycon"
+    "id": "paycon"
   },
   "CONX": {
     "name": "Concoin",
-    "api_name": "concoin"
+    "id": "concoin"
   },
   "COR": {
     "name": "CORION",
-    "api_name": "corion"
+    "id": "corion"
   },
   "COSS": {
     "name": "COSS",
-    "api_name": "coss"
+    "id": "coss"
   },
   "COUPE": {
     "name": "Coupecoin",
-    "api_name": "coupecoin"
+    "id": "coupecoin"
   },
   "COV": {
     "name": "Covesting",
-    "api_name": "covesting"
+    "id": "covesting"
   },
   "COVAL": {
     "name": "Circuits of Value",
-    "api_name": "circuits-of-value"
+    "id": "circuits-of-value"
   },
   "COXST": {
     "name": "CoExistCoin",
-    "api_name": "coexistcoin"
+    "id": "coexistcoin"
   },
   "CPAY": {
     "name": "Cryptopay",
-    "api_name": "cryptopay"
+    "id": "cryptopay"
   },
   "CPC": [
     {
       "name": "CPChain",
-      "api_name": "cpchain"
+      "id": "cpchain"
     },
     {
       "name": "Capricoin",
-      "api_name": "capricoin"
+      "id": "capricoin"
     }
   ],
   "CPN": {
     "name": "CompuCoin",
-    "api_name": "compucoin"
+    "id": "compucoin"
   },
   "CPY": {
     "name": "COPYTRACK",
-    "api_name": "copytrack"
+    "id": "copytrack"
   },
   "CRAVE": {
     "name": "Crave",
-    "api_name": "crave"
+    "id": "crave"
   },
   "CRB": {
     "name": "Creditbit",
-    "api_name": "creditbit"
+    "id": "creditbit"
   },
   "CRC": {
     "name": "CrowdCoin",
-    "api_name": "crowdcoin"
+    "id": "crowdcoin"
   },
   "CRDNC": {
     "name": "Credence Coin",
-    "api_name": "credence-coin"
+    "id": "credence-coin"
   },
   "CREA": {
     "name": "Creativecoin",
-    "api_name": "creativecoin"
+    "id": "creativecoin"
   },
   "CRED": {
     "name": "Verify",
-    "api_name": "verify"
+    "id": "verify"
   },
   "CREDO": {
     "name": "Credo",
-    "api_name": "credo"
+    "id": "credo"
   },
   "CREVA": {
     "name": "CrevaCoin",
-    "api_name": "crevacoin"
+    "id": "crevacoin"
   },
   "CRM": {
     "name": "Cream",
-    "api_name": "cream"
+    "id": "cream"
   },
   "CRPT": {
     "name": "Crypterium",
-    "api_name": "crypterium"
+    "id": "crypterium"
   },
   "CRT": {
     "name": "CRTCoin",
-    "api_name": "crtcoin"
+    "id": "crtcoin"
   },
   "CRW": {
     "name": "Crown",
-    "api_name": "crown"
+    "id": "crown"
   },
   "CRX": {
     "name": "Chronos",
-    "api_name": "chronos"
+    "id": "chronos"
   },
   "CRYPT": {
     "name": "CryptCoin",
-    "api_name": "cryptcoin"
+    "id": "cryptcoin"
   },
   "CS": {
     "name": "Credits",
-    "api_name": "credits"
+    "id": "credits"
   },
   "CSC": {
     "name": "CasinoCoin",
-    "api_name": "casinocoin"
+    "id": "casinocoin"
   },
   "CSNO": {
     "name": "BitDice",
-    "api_name": "bitdice"
+    "id": "bitdice"
   },
   "CTIC2": {
     "name": "Coimatic 2.0",
-    "api_name": "coimatic-2"
+    "id": "coimatic-2"
   },
   "CTIC3": {
     "name": "Coimatic 3.0",
-    "api_name": "coimatic-3"
+    "id": "coimatic-3"
   },
   "CTO": {
     "name": "Crypto",
-    "api_name": "crypto"
+    "id": "crypto"
   },
   "CTR": {
     "name": "Centra",
-    "api_name": "centra"
+    "id": "centra"
   },
   "CTX": {
     "name": "CarTaxi Token",
-    "api_name": "cartaxi-token"
+    "id": "cartaxi-token"
   },
   "CUBE": {
     "name": "DigiCube",
-    "api_name": "digicube"
+    "id": "digicube"
   },
   "CURE": {
     "name": "Curecoin",
-    "api_name": "curecoin"
+    "id": "curecoin"
   },
   "CV": {
     "name": "carVertical",
-    "api_name": "carvertical"
+    "id": "carvertical"
   },
   "CVC": {
     "name": "Civic",
-    "api_name": "civic"
+    "id": "civic"
   },
   "CVCOIN": {
     "name": "CVCoin",
-    "api_name": "cvcoin"
+    "id": "cvcoin"
   },
   "CWXT": {
     "name": "CryptoWorldX Token",
-    "api_name": "cryptoworldx-token"
+    "id": "cryptoworldx-token"
   },
   "CXO": {
     "name": "CargoX",
-    "api_name": "cargox"
+    "id": "cargox"
   },
   "CXT": {
     "name": "Coinonat",
-    "api_name": "coinonat"
+    "id": "coinonat"
   },
   "CYC": {
     "name": "Cycling Coin",
-    "api_name": "cycling-coin"
+    "id": "cycling-coin"
   },
   "CYDER": {
     "name": "Cyder",
-    "api_name": "cyder"
+    "id": "cyder"
   },
   "CYP": {
     "name": "Cypher",
-    "api_name": "cypher"
+    "id": "cypher"
   },
   "DADI": {
     "name": "DADI",
-    "api_name": "dadi"
+    "id": "dadi"
   },
   "DAI": {
     "name": "Dai",
-    "api_name": "dai"
+    "id": "dai"
   },
   "DALC": {
     "name": "Dalecoin",
-    "api_name": "dalecoin"
+    "id": "dalecoin"
   },
   "DAR": {
     "name": "Darcrus",
-    "api_name": "darcrus"
+    "id": "darcrus"
   },
   "DASH": {
     "name": "Dash",
-    "api_name": "dash"
+    "id": "dash"
   },
   "DASHS": {
     "name": "Dashs",
-    "api_name": "dashs"
+    "id": "dashs"
   },
   "DAT": {
     "name": "Datum",
-    "api_name": "datum"
+    "id": "datum"
   },
   "DATA": {
     "name": "Streamr DATAcoin",
-    "api_name": "streamr-datacoin"
+    "id": "streamr-datacoin"
   },
   "DATX": {
     "name": "DATx",
-    "api_name": "datx"
+    "id": "datx"
   },
   "DAV": {
     "name": "DavorCoin",
-    "api_name": "davorcoin"
+    "id": "davorcoin"
   },
   "DAXX": {
     "name": "DaxxCoin",
-    "api_name": "daxxcoin"
+    "id": "daxxcoin"
   },
   "DAY": {
     "name": "Chronologic",
-    "api_name": "chronologic"
+    "id": "chronologic"
   },
   "DBC": {
     "name": "DeepBrain Chain",
-    "api_name": "deepbrain-chain"
+    "id": "deepbrain-chain"
   },
   "DBET": {
     "name": "DecentBet",
-    "api_name": "decent-bet"
+    "id": "decent-bet"
   },
   "DBG": {
     "name": "Digital Bullion Gold",
-    "api_name": "digital-bullion-gold"
+    "id": "digital-bullion-gold"
   },
   "DBIX": {
     "name": "DubaiCoin",
-    "api_name": "dubaicoin-dbix"
+    "id": "dubaicoin-dbix"
   },
   "DBTC": {
     "name": "Debitcoin",
-    "api_name": "debitcoin"
+    "id": "debitcoin"
   },
   "DCN": {
     "name": "Dentacoin",
-    "api_name": "dentacoin"
+    "id": "dentacoin"
   },
   "DCR": {
     "name": "Decred",
-    "api_name": "decred"
+    "id": "decred"
   },
   "DCRE": {
     "name": "DeltaCredits",
-    "api_name": "deltacredits"
+    "id": "deltacredits"
   },
   "DCT": {
     "name": "DECENT",
-    "api_name": "decent"
+    "id": "decent"
   },
   "DCY": {
     "name": "Dinastycoin",
-    "api_name": "dinastycoin"
+    "id": "dinastycoin"
   },
   "DDD": {
     "name": "Scry.info",
-    "api_name": "scryinfo"
+    "id": "scryinfo"
   },
   "DDF": {
     "name": "DigitalDevelopersFund",
-    "api_name": "digital-developers-fund"
+    "id": "digital-developers-fund"
   },
   "DEB": {
     "name": "Debitum Network",
-    "api_name": "debitum-network"
+    "id": "debitum-network"
   },
   "DEM": {
     "name": "Deutsche eMark",
-    "api_name": "deutsche-emark"
+    "id": "deutsche-emark"
   },
   "DENT": {
     "name": "Dent",
-    "api_name": "dent"
+    "id": "dent"
   },
   "DES": {
     "name": "Destiny",
-    "api_name": "destiny"
+    "id": "destiny"
   },
   "DEUS": {
     "name": "DeusCoin",
-    "api_name": "deuscoin"
+    "id": "deuscoin"
   },
   "DEW": {
     "name": "DEW",
-    "api_name": "dew"
+    "id": "dew"
   },
   "DFS": {
     "name": "DFSCoin",
-    "api_name": "dfscoin"
+    "id": "dfscoin"
   },
   "DFT": {
     "name": "DraftCoin",
-    "api_name": "draftcoin"
+    "id": "draftcoin"
   },
   "DGB": {
     "name": "DigiByte",
-    "api_name": "digibyte"
+    "id": "digibyte"
   },
   "DGC": {
     "name": "Digitalcoin",
-    "api_name": "digitalcoin"
+    "id": "digitalcoin"
   },
   "DGCS": {
     "name": "Digital Credits",
-    "api_name": "digital-credits"
+    "id": "digital-credits"
   },
   "DGD": {
     "name": "DigixDAO",
-    "api_name": "digixdao"
+    "id": "digixdao"
   },
   "DGPT": {
     "name": "DigiPulse",
-    "api_name": "digipulse"
+    "id": "digipulse"
   },
   "DICE": {
     "name": "Etheroll",
-    "api_name": "etheroll"
+    "id": "etheroll"
   },
   "DIM": {
     "name": "DIMCOIN",
-    "api_name": "dimcoin"
+    "id": "dimcoin"
   },
   "DIME": {
     "name": "Dimecoin",
-    "api_name": "dimecoin"
+    "id": "dimecoin"
   },
   "DISK": {
     "name": "DarkLisk",
-    "api_name": "darklisk"
+    "id": "darklisk"
   },
   "DIVX": {
     "name": "Divi",
-    "api_name": "divi"
+    "id": "divi"
   },
   "DIX": {
     "name": "Dix Asset",
-    "api_name": "dix-asset"
+    "id": "dix-asset"
   },
   "DLC": {
     "name": "Dollarcoin",
-    "api_name": "dollarcoin"
+    "id": "dollarcoin"
   },
   "DLISK": {
     "name": "DAPPSTER",
-    "api_name": "dappster"
+    "id": "dappster"
   },
   "DLT": {
     "name": "Agrello",
-    "api_name": "agrello-delta"
+    "id": "agrello-delta"
   },
   "DMB": {
     "name": "Digital Money Bits",
-    "api_name": "digital-money-bits"
+    "id": "digital-money-bits"
   },
   "DMC": {
     "name": "DynamicCoin",
-    "api_name": "dynamiccoin"
+    "id": "dynamiccoin"
   },
   "DMD": {
     "name": "Diamond",
-    "api_name": "diamond"
+    "id": "diamond"
   },
   "DMT": {
     "name": "DMarket",
-    "api_name": "dmarket"
+    "id": "dmarket"
   },
   "DNA": {
     "name": "EncrypGen",
-    "api_name": "encrypgen"
+    "id": "encrypgen"
   },
   "DNR": {
     "name": "Denarius",
-    "api_name": "denarius-dnr"
+    "id": "denarius-dnr"
   },
   "DNT": {
     "name": "district0x",
-    "api_name": "district0x"
+    "id": "district0x"
   },
   "DOGE": {
     "name": "Dogecoin",
-    "api_name": "dogecoin"
+    "id": "dogecoin"
   },
   "DOLLAR": {
     "name": "Dollar Online",
-    "api_name": "dollar-online"
+    "id": "dollar-online"
   },
   "DON": {
     "name": "Donationcoin",
-    "api_name": "donationcoin"
+    "id": "donationcoin"
   },
   "DOPE": {
     "name": "DopeCoin",
-    "api_name": "dopecoin"
+    "id": "dopecoin"
   },
   "DOT": {
     "name": "Dotcoin",
-    "api_name": "dotcoin"
+    "id": "dotcoin"
   },
   "DOVU": {
     "name": "Dovu",
-    "api_name": "dovu"
+    "id": "dovu"
   },
   "DP": {
     "name": "DigitalPrice",
-    "api_name": "digitalprice"
+    "id": "digitalprice"
   },
   "DPY": {
     "name": "Delphy",
-    "api_name": "delphy"
+    "id": "delphy"
   },
   "DRG": {
     "name": "Dragon Coins",
-    "api_name": "dragon-coins"
+    "id": "dragon-coins"
   },
   "DRGN": {
     "name": "Dragonchain",
-    "api_name": "dragonchain"
+    "id": "dragonchain"
   },
   "DRM": {
     "name": "Dreamcoin",
-    "api_name": "dreamcoin"
+    "id": "dreamcoin"
   },
   "DROP": {
     "name": "Dropil",
-    "api_name": "dropil"
+    "id": "dropil"
   },
   "DRP": {
     "name": "DCORP",
-    "api_name": "dcorp"
+    "id": "dcorp"
   },
   "DRPU": {
     "name": "DRP Utility",
-    "api_name": "drp-utility"
+    "id": "drp-utility"
   },
   "DRS": {
     "name": "Digital Rupees",
-    "api_name": "digital-rupees"
+    "id": "digital-rupees"
   },
   "DRT": {
     "name": "DomRaider",
-    "api_name": "domraider"
+    "id": "domraider"
   },
   "DRXNE": {
     "name": "DROXNE",
-    "api_name": "droxne"
+    "id": "droxne"
   },
   "DSH": {
     "name": "Dashcoin",
-    "api_name": "dashcoin"
+    "id": "dashcoin"
   },
   "DSR": {
     "name": "Desire",
-    "api_name": "desire"
+    "id": "desire"
   },
   "DTA": {
     "name": "DATA",
-    "api_name": "data"
+    "id": "data"
   },
   "DTB": {
     "name": "Databits",
-    "api_name": "databits"
+    "id": "databits"
   },
   "DTC": {
     "name": "Datacoin",
-    "api_name": "datacoin"
+    "id": "datacoin"
   },
   "DTH": {
     "name": "Dether",
-    "api_name": "dether"
+    "id": "dether"
   },
   "DTR": {
     "name": "Dynamic Trading Rights",
-    "api_name": "dynamic-trading-rights"
+    "id": "dynamic-trading-rights"
   },
   "DUO": {
     "name": "ParallelCoin",
-    "api_name": "parallelcoin"
+    "id": "parallelcoin"
   },
   "DUTCH": {
     "name": "Dutch Coin",
-    "api_name": "dutch-coin"
+    "id": "dutch-coin"
   },
   "DXT": {
     "name": "Datawallet",
-    "api_name": "datawallet"
+    "id": "datawallet"
   },
   "DYN": {
     "name": "Dynamic",
-    "api_name": "dynamic"
+    "id": "dynamic"
   },
   "EAC": {
     "name": "EarthCoin",
-    "api_name": "earthcoin"
+    "id": "earthcoin"
   },
   "EAG": {
     "name": "EA Coin",
-    "api_name": "ea-coin"
+    "id": "ea-coin"
   },
   "EAGLE": {
     "name": "EagleCoin",
-    "api_name": "eaglecoin"
+    "id": "eaglecoin"
   },
   "EBCH": {
     "name": "eBitcoinCash",
-    "api_name": "ebitcoin-cash"
+    "id": "ebitcoin-cash"
   },
   "EBET": {
     "name": "EthBet",
-    "api_name": "ethbet"
+    "id": "ethbet"
   },
   "EBST": {
     "name": "eBoost",
-    "api_name": "eboostcoin"
+    "id": "eboostcoin"
   },
   "EBT": {
     "name": "Ebittree Coin",
-    "api_name": "ebittree-coin"
+    "id": "ebittree-coin"
   },
   "EBTC": {
     "name": "eBitcoin",
-    "api_name": "ebtcnew"
+    "id": "ebtcnew"
   },
   "ECA": {
     "name": "Electra",
-    "api_name": "electra"
+    "id": "electra"
   },
   "ECASH": {
     "name": "Ethereum Cash",
-    "api_name": "ethereumcash"
+    "id": "ethereumcash"
   },
   "ECC": {
     "name": "ECC",
-    "api_name": "eccoin"
+    "id": "eccoin"
   },
   "ECH": {
     "name": "Etherecash",
-    "api_name": "etherecash"
+    "id": "etherecash"
   },
   "ECN": {
     "name": "E-coin",
-    "api_name": "e-coin"
+    "id": "e-coin"
   },
   "ECO": {
     "name": "EcoCoin",
-    "api_name": "ecocoin"
+    "id": "ecocoin"
   },
   "ECOB": {
     "name": "Ecobit",
-    "api_name": "ecobit"
+    "id": "ecobit"
   },
   "EDG": {
     "name": "Edgeless",
-    "api_name": "edgeless"
+    "id": "edgeless"
   },
   "EDO": {
     "name": "Eidoo",
-    "api_name": "eidoo"
+    "id": "eidoo"
   },
   "EDR": {
     "name": "E-Dinar Coin",
-    "api_name": "e-dinar-coin"
+    "id": "e-dinar-coin"
   },
   "EDRC": {
     "name": "EDRCoin",
-    "api_name": "edrcoin"
+    "id": "edrcoin"
   },
   "EDT": {
     "name": "EtherDelta Token",
-    "api_name": "etherdelta-token"
+    "id": "etherdelta-token"
   },
   "EFL": {
     "name": "e-Gulden",
-    "api_name": "e-gulden"
+    "id": "e-gulden"
   },
   "EFYT": {
     "name": "Ergo",
-    "api_name": "ergo"
+    "id": "ergo"
   },
   "EGC": {
     "name": "EverGreenCoin",
-    "api_name": "evergreencoin"
+    "id": "evergreencoin"
   },
   "EGG": {
     "name": "EggCoin",
-    "api_name": "eggcoin"
+    "id": "eggcoin"
   },
   "EKO": {
     "name": "EchoLink",
-    "api_name": "echolink"
+    "id": "echolink"
   },
   "EKT": {
     "name": "EDUCare",
-    "api_name": "educare"
+    "id": "educare"
   },
   "EL": {
     "name": "Elcoin",
-    "api_name": "elcoin-el"
+    "id": "elcoin-el"
   },
   "ELA": {
     "name": "Elastos",
-    "api_name": "elastos"
+    "id": "elastos"
   },
   "ELC": {
     "name": "Elacoin",
-    "api_name": "elacoin"
+    "id": "elacoin"
   },
   "ELE": {
     "name": "Elementrem",
-    "api_name": "elementrem"
+    "id": "elementrem"
   },
   "ELEC": {
     "name": "Electrify.Asia",
-    "api_name": "electrifyasia"
+    "id": "electrifyasia"
   },
   "ELF": {
     "name": "aelf",
-    "api_name": "aelf"
+    "id": "aelf"
   },
   "ELITE": {
     "name": "Ethereum Lite",
-    "api_name": "ethereum-lite"
+    "id": "ethereum-lite"
   },
   "ELIX": {
     "name": "Elixir",
-    "api_name": "elixir"
+    "id": "elixir"
   },
   "ELLA": {
     "name": "Ellaism",
-    "api_name": "ellaism"
+    "id": "ellaism"
   },
   "ELS": {
     "name": "Elysium",
-    "api_name": "elysium"
+    "id": "elysium"
   },
   "ELTCOIN": {
     "name": "ELTCOIN",
-    "api_name": "eltcoin"
+    "id": "eltcoin"
   },
   "EMB": {
     "name": "EmberCoin",
-    "api_name": "embercoin"
+    "id": "embercoin"
   },
   "EMC": {
     "name": "Emercoin",
-    "api_name": "emercoin"
+    "id": "emercoin"
   },
   "EMC2": {
     "name": "Einsteinium",
-    "api_name": "einsteinium"
+    "id": "einsteinium"
   },
   "EMD": {
     "name": "Emerald Crypto",
-    "api_name": "emerald"
+    "id": "emerald"
   },
   "EMV": {
     "name": "Ethereum Movie Venture",
-    "api_name": "ethereum-movie-venture"
+    "id": "ethereum-movie-venture"
   },
   "ENG": {
     "name": "Enigma",
-    "api_name": "enigma-project"
+    "id": "enigma-project"
   },
   "ENJ": {
     "name": "Enjin Coin",
-    "api_name": "enjin-coin"
+    "id": "enjin-coin"
   },
   "ENRG": {
     "name": "Energycoin",
-    "api_name": "energycoin"
+    "id": "energycoin"
   },
   "ENT": [
     {
       "name": "Eternity",
-      "api_name": "eternity"
+      "id": "eternity"
     },
     {
       "name": "ENTCash",
-      "api_name": "entcash"
+      "id": "entcash"
     }
   ],
   "EOS": {
     "name": "EOS",
-    "api_name": "eos"
+    "id": "eos"
   },
   "EPC": {
     "name": "Electronic PK Chain",
-    "api_name": "electronic-pk-chain"
+    "id": "electronic-pk-chain"
   },
   "EPY": {
     "name": "Emphy",
-    "api_name": "emphy"
+    "id": "emphy"
   },
   "EQL": {
     "name": "Equal",
-    "api_name": "equal"
+    "id": "equal"
   },
   "EQT": {
     "name": "EquiTrader",
-    "api_name": "equitrader"
+    "id": "equitrader"
   },
   "ERA": {
     "name": "ERA",
-    "api_name": "blakestar"
+    "id": "blakestar"
   },
   "ERC": {
     "name": "EuropeCoin",
-    "api_name": "europecoin"
+    "id": "europecoin"
   },
   "ERC20": {
     "name": "ERC20",
-    "api_name": "erc20"
+    "id": "erc20"
   },
   "ERO": {
     "name": "Eroscoin",
-    "api_name": "eroscoin"
+    "id": "eroscoin"
   },
   "ERY": {
     "name": "Eryllium",
-    "api_name": "eryllium"
+    "id": "eryllium"
   },
   "ESC": {
     "name": "Escroco",
-    "api_name": "escoro"
+    "id": "escoro"
   },
   "ESP": {
     "name": "Espers",
-    "api_name": "espers"
+    "id": "espers"
   },
   "ESZ": {
     "name": "EtherSportz",
-    "api_name": "ethersportz"
+    "id": "ethersportz"
   },
   "ETBS": {
     "name": "Ethbits",
-    "api_name": "ethbits"
+    "id": "ethbits"
   },
   "ETC": {
     "name": "Ethereum Classic",
-    "api_name": "ethereum-classic"
+    "id": "ethereum-classic"
   },
   "ETG": {
     "name": "Ethereum Gold",
-    "api_name": "ethereum-gold"
+    "id": "ethereum-gold"
   },
   "ETH": {
     "name": "Ethereum",
-    "api_name": "ethereum"
+    "id": "ethereum"
   },
   "ETHD": {
     "name": "Ethereum Dark",
-    "api_name": "ethereum-dark"
+    "id": "ethereum-dark"
   },
   "ETHOS": {
     "name": "Ethos",
-    "api_name": "ethos"
+    "id": "ethos"
   },
   "ETN": {
     "name": "Electroneum",
-    "api_name": "electroneum"
+    "id": "electroneum"
   },
   "ETP": {
     "name": "Metaverse ETP",
-    "api_name": "metaverse"
+    "id": "metaverse"
   },
   "ETT": [
     {
       "name": "EncryptoTel [WAVES]",
-      "api_name": "encryptotel"
+      "id": "encryptotel"
     },
     {
       "name": "EncryptoTel [ETH]",
-      "api_name": "encryptotel-eth"
+      "id": "encryptotel-eth"
     }
   ],
   "EUC": {
     "name": "Eurocoin",
-    "api_name": "eurocoin"
+    "id": "eurocoin"
   },
   "EVC": {
     "name": "EventChain",
-    "api_name": "eventchain"
+    "id": "eventchain"
   },
   "EVE": {
     "name": "Devery",
-    "api_name": "devery"
+    "id": "devery"
   },
   "EVIL": {
     "name": "Evil Coin",
-    "api_name": "evil-coin"
+    "id": "evil-coin"
   },
   "EVN": {
     "name": "Envion",
-    "api_name": "envion"
+    "id": "envion"
   },
   "EVO": {
     "name": "Evotion",
-    "api_name": "evotion"
+    "id": "evotion"
   },
   "EVR": {
     "name": "Everus",
-    "api_name": "everus"
+    "id": "everus"
   },
   "EVX": {
     "name": "Everex",
-    "api_name": "everex"
+    "id": "everex"
   },
   "EXCL": {
     "name": "ExclusiveCoin",
-    "api_name": "exclusivecoin"
+    "id": "exclusivecoin"
   },
   "EXN": {
     "name": "ExchangeN",
-    "api_name": "exchangen"
+    "id": "exchangen"
   },
   "EXP": {
     "name": "Expanse",
-    "api_name": "expanse"
+    "id": "expanse"
   },
   "EXRN": {
     "name": "EXRNchain",
-    "api_name": "exrnchain"
+    "id": "exrnchain"
   },
   "EXY": {
     "name": "Experty",
-    "api_name": "experty"
+    "id": "experty"
   },
   "EZT": {
     "name": "EZToken",
-    "api_name": "eztoken"
+    "id": "eztoken"
   },
   "FAIR": [
     {
       "name": "FairCoin",
-      "api_name": "faircoin"
+      "id": "faircoin"
     },
     {
       "name": "FairGame",
-      "api_name": "fairgame"
+      "id": "fairgame"
     }
   ],
   "FAP": {
     "name": "FAPcoin",
-    "api_name": "fapcoin"
+    "id": "fapcoin"
   },
   "FAZZ": {
     "name": "Fazzcoin",
-    "api_name": "fazzcoin"
+    "id": "fazzcoin"
   },
   "FCN": {
     "name": "Fantomcoin",
-    "api_name": "fantomcoin"
+    "id": "fantomcoin"
   },
   "FCT": {
     "name": "Factom",
-    "api_name": "factom"
+    "id": "factom"
   },
   "FDX": {
     "name": "FidentiaX",
-    "api_name": "fidentiax"
+    "id": "fidentiax"
   },
   "FDZ": {
     "name": "Friendz",
-    "api_name": "friends"
+    "id": "friends"
   },
   "FID": {
     "name": "BITFID",
-    "api_name": "bitfid"
+    "id": "bitfid"
   },
   "FIL": {
     "name": "Filecoin [Futures]",
-    "api_name": "filecoin"
+    "id": "filecoin"
   },
   "FIRE": {
     "name": "Firecoin",
-    "api_name": "firecoin"
+    "id": "firecoin"
   },
   "FJC": {
     "name": "FujiCoin",
-    "api_name": "fujicoin"
+    "id": "fujicoin"
   },
   "FLAP": {
     "name": "FlappyCoin",
-    "api_name": "flappycoin"
+    "id": "flappycoin"
   },
   "FLASH": {
     "name": "Flash",
-    "api_name": "flash"
+    "id": "flash"
   },
   "FLAX": {
     "name": "Flaxscript",
-    "api_name": "flaxscript"
+    "id": "flaxscript"
   },
   "FLDC": {
     "name": "FoldingCoin",
-    "api_name": "foldingcoin"
+    "id": "foldingcoin"
   },
   "FLIK": {
     "name": "FLiK",
-    "api_name": "flik"
+    "id": "flik"
   },
   "FLIXX": {
     "name": "Flixxo",
-    "api_name": "flixxo"
+    "id": "flixxo"
   },
   "FLO": {
     "name": "FlorinCoin",
-    "api_name": "florincoin"
+    "id": "florincoin"
   },
   "FLT": {
     "name": "FlutterCoin",
-    "api_name": "fluttercoin"
+    "id": "fluttercoin"
   },
   "FLUZ": {
     "name": "Fluz Fluz",
-    "api_name": "fluz-fluz"
+    "id": "fluz-fluz"
   },
   "FLY": {
     "name": "Flycoin",
-    "api_name": "flycoin"
+    "id": "flycoin"
   },
   "FNC": {
     "name": "FinCoin",
-    "api_name": "fincoin"
+    "id": "fincoin"
   },
   "FONZ": {
     "name": "Fonziecoin",
-    "api_name": "fonziecoin"
+    "id": "fonziecoin"
   },
   "FOR": {
     "name": "FORCE",
-    "api_name": "force"
+    "id": "force"
   },
   "FOTA": {
     "name": "Fortuna",
-    "api_name": "fortuna"
+    "id": "fortuna"
   },
   "FRC": {
     "name": "Freicoin",
-    "api_name": "freicoin"
+    "id": "freicoin"
   },
   "FRCT": {
     "name": "Farstcoin",
-    "api_name": "farstcoin"
+    "id": "farstcoin"
   },
   "FRD": {
     "name": "Farad",
-    "api_name": "farad"
+    "id": "farad"
   },
   "FRGC": {
     "name": "Fargocoin",
-    "api_name": "fargocoin"
+    "id": "fargocoin"
   },
   "FRN": {
     "name": "Francs",
-    "api_name": "francs"
+    "id": "francs"
   },
   "FRST": {
     "name": "FirstCoin",
-    "api_name": "firstcoin"
+    "id": "firstcoin"
   },
   "FRWC": {
     "name": "FrankyWillCoin",
-    "api_name": "frankywillcoin"
+    "id": "frankywillcoin"
   },
   "FSN": {
     "name": "Fusion",
-    "api_name": "fusion"
+    "id": "fusion"
   },
   "FST": {
     "name": "Fastcoin",
-    "api_name": "fastcoin"
+    "id": "fastcoin"
   },
   "FTC": {
     "name": "Feathercoin",
-    "api_name": "feathercoin"
+    "id": "feathercoin"
   },
   "FUCK": {
     "name": "FuckToken",
-    "api_name": "fucktoken"
+    "id": "fucktoken"
   },
   "FUEL": {
     "name": "Etherparty",
-    "api_name": "etherparty"
+    "id": "etherparty"
   },
   "FUN": {
     "name": "FunFair",
-    "api_name": "funfair"
+    "id": "funfair"
   },
   "FUNC": {
     "name": "FUNCoin",
-    "api_name": "funcoin"
+    "id": "funcoin"
   },
   "FUNK": {
     "name": "The Cypherfunks",
-    "api_name": "the-cypherfunks"
+    "id": "the-cypherfunks"
   },
   "FUTC": {
     "name": "FutCoin",
-    "api_name": "futcoin"
+    "id": "futcoin"
   },
   "FUZZ": {
     "name": "FuzzBalls",
-    "api_name": "fuzzballs"
+    "id": "fuzzballs"
   },
   "FXE": {
     "name": "FuturXe",
-    "api_name": "futurexe"
+    "id": "futurexe"
   },
   "FYN": {
     "name": "FundYourselfNow",
-    "api_name": "fundyourselfnow"
+    "id": "fundyourselfnow"
   },
   "FYP": {
     "name": "FlypMe",
-    "api_name": "flypme"
+    "id": "flypme"
   },
   "GAIA": {
     "name": "GAIA",
-    "api_name": "gaia"
+    "id": "gaia"
   },
   "GAIN": {
     "name": "UGAIN",
-    "api_name": "ugain"
+    "id": "ugain"
   },
   "GAM": {
     "name": "Gambit",
-    "api_name": "gambit"
+    "id": "gambit"
   },
   "GAME": {
     "name": "GameCredits",
-    "api_name": "gamecredits"
+    "id": "gamecredits"
   },
   "GAP": {
     "name": "Gapcoin",
-    "api_name": "gapcoin"
+    "id": "gapcoin"
   },
   "GARY": {
     "name": "President Johnson",
-    "api_name": "president-johnson"
+    "id": "president-johnson"
   },
   "GAS": {
     "name": "Gas",
-    "api_name": "gas"
+    "id": "gas"
   },
   "GAT": {
     "name": "Gatcoin",
-    "api_name": "gatcoin"
+    "id": "gatcoin"
   },
   "GAY": {
     "name": "GAY Money",
-    "api_name": "gaycoin"
+    "id": "gaycoin"
   },
   "GB": {
     "name": "GoldBlocks",
-    "api_name": "goldblocks"
+    "id": "goldblocks"
   },
   "GBC": {
     "name": "GBCGoldCoin",
-    "api_name": "gbcgoldcoin"
+    "id": "gbcgoldcoin"
   },
   "GBG": {
     "name": "Golos Gold",
-    "api_name": "golos-gold"
+    "id": "golos-gold"
   },
   "GBX": {
     "name": "GoByte",
-    "api_name": "gobyte"
+    "id": "gobyte"
   },
   "GBYTE": {
     "name": "Byteball Bytes",
-    "api_name": "byteball"
+    "id": "byteball"
   },
   "GCC": [
     {
       "name": "Global Cryptocurrency",
-      "api_name": "global-cryptocurrency"
+      "id": "global-cryptocurrency"
     },
     {
       "name": "GuccioneCoin",
-      "api_name": "guccionecoin"
+      "id": "guccionecoin"
     }
   ],
   "GCN": {
     "name": "GCN Coin",
-    "api_name": "gcn-coin"
+    "id": "gcn-coin"
   },
   "GCR": {
     "name": "Global Currency Reserve",
-    "api_name": "global-currency-reserve"
+    "id": "global-currency-reserve"
   },
   "GCS": {
     "name": "GameChain System",
-    "api_name": "gamechain"
+    "id": "gamechain"
   },
   "GDC": {
     "name": "GrandCoin",
-    "api_name": "grandcoin"
+    "id": "grandcoin"
   },
   "GEERT": {
     "name": "GeertCoin",
-    "api_name": "geertcoin"
+    "id": "geertcoin"
   },
   "GEM": {
     "name": "Gems ",
-    "api_name": "gems-protocol"
+    "id": "gems-protocol"
   },
   "GEO": {
     "name": "GeoCoin",
-    "api_name": "geocoin"
+    "id": "geocoin"
   },
   "GET": {
     "name": "GET Protocol",
-    "api_name": "get-protocol"
+    "id": "get-protocol"
   },
   "GETX": {
     "name": "Guaranteed Ethurance Token Extra",
-    "api_name": "guaranteed-ethurance-token-extra"
+    "id": "guaranteed-ethurance-token-extra"
   },
   "GJC": {
     "name": "Global Jobcoin",
-    "api_name": "global-jobcoin"
+    "id": "global-jobcoin"
   },
   "GLA": {
     "name": "Gladius Token",
-    "api_name": "gladius-token"
+    "id": "gladius-token"
   },
   "GLC": {
     "name": "GlobalCoin",
-    "api_name": "globalcoin"
+    "id": "globalcoin"
   },
   "GLD": {
     "name": "GoldCoin",
-    "api_name": "goldcoin"
+    "id": "goldcoin"
   },
   "GLS": {
     "name": "GlassCoin",
-    "api_name": "glasscoin"
+    "id": "glasscoin"
   },
   "GLT": {
     "name": "GlobalToken",
-    "api_name": "globaltoken"
+    "id": "globaltoken"
   },
   "GML": {
     "name": "GameLeagueCoin",
-    "api_name": "gameleaguecoin"
+    "id": "gameleaguecoin"
   },
   "GMT": {
     "name": "Mercury Protocol",
-    "api_name": "mercury-protocol"
+    "id": "mercury-protocol"
   },
   "GMX": {
     "name": "GoldMaxCoin",
-    "api_name": "goldmaxcoin"
+    "id": "goldmaxcoin"
   },
   "GNO": {
     "name": "Gnosis",
-    "api_name": "gnosis-gno"
+    "id": "gnosis-gno"
   },
   "GNT": {
     "name": "Golem",
-    "api_name": "golem-network-tokens"
+    "id": "golem-network-tokens"
   },
   "GNX": {
     "name": "Genaro Network",
-    "api_name": "genaro-network"
+    "id": "genaro-network"
   },
   "GOD": {
     "name": "Bitcoin God",
-    "api_name": "bitcoin-god"
+    "id": "bitcoin-god"
   },
   "GOLF": {
     "name": "Golfcoin",
-    "api_name": "golfcoin"
+    "id": "golfcoin"
   },
   "GOLOS": {
     "name": "Golos",
-    "api_name": "golos"
+    "id": "golos"
   },
   "GOOD": {
     "name": "Goodomy",
-    "api_name": "goodomy"
+    "id": "goodomy"
   },
   "GP": {
     "name": "GoldPieces",
-    "api_name": "goldpieces"
+    "id": "goldpieces"
   },
   "GPL": {
     "name": "Gold Pressed Latinum",
-    "api_name": "gold-pressed-latinum"
+    "id": "gold-pressed-latinum"
   },
   "GPU": {
     "name": "GPU Coin",
-    "api_name": "gpu-coin"
+    "id": "gpu-coin"
   },
   "GRC": {
     "name": "GridCoin",
-    "api_name": "gridcoin"
+    "id": "gridcoin"
   },
   "GRE": {
     "name": "Greencoin",
-    "api_name": "greencoin"
+    "id": "greencoin"
   },
   "GRFT": {
     "name": "Graft",
-    "api_name": "graft"
+    "id": "graft"
   },
   "GRID": {
     "name": "Grid+",
-    "api_name": "grid"
+    "id": "grid"
   },
   "GRIM": {
     "name": "Grimcoin",
-    "api_name": "grimcoin"
+    "id": "grimcoin"
   },
   "GRLC": {
     "name": "Garlicoin",
-    "api_name": "garlicoin"
+    "id": "garlicoin"
   },
   "GRN": {
     "name": "Granite",
-    "api_name": "granitecoin"
+    "id": "granitecoin"
   },
   "GRS": {
     "name": "Groestlcoin",
-    "api_name": "groestlcoin"
+    "id": "groestlcoin"
   },
   "GRWI": {
     "name": "Growers International",
-    "api_name": "growers-international"
+    "id": "growers-international"
   },
   "GRX": {
     "name": "GOLD Reward Token",
-    "api_name": "gold-reward-token"
+    "id": "gold-reward-token"
   },
   "GSR": {
     "name": "GeyserCoin",
-    "api_name": "geysercoin"
+    "id": "geysercoin"
   },
   "GTC": [
     {
       "name": "Game.com",
-      "api_name": "game"
+      "id": "game"
     },
     {
       "name": "Global Tour Coin",
-      "api_name": "global-tour-coin"
+      "id": "global-tour-coin"
     }
   ],
   "GTO": {
     "name": "Gifto",
-    "api_name": "gifto"
+    "id": "gifto"
   },
   "GUESS": {
     "name": "Peerguess",
-    "api_name": "guess"
+    "id": "guess"
   },
   "GUN": {
     "name": "Guncoin",
-    "api_name": "guncoin"
+    "id": "guncoin"
   },
   "GUP": {
     "name": "Matchpool",
-    "api_name": "guppy"
+    "id": "guppy"
   },
   "GVT": {
     "name": "Genesis Vision",
-    "api_name": "genesis-vision"
+    "id": "genesis-vision"
   },
   "GXS": {
     "name": "GXChain",
-    "api_name": "gxchain"
+    "id": "gxchain"
   },
   "HAC": {
     "name": "Hackspace Capital",
-    "api_name": "hackspace-capital"
+    "id": "hackspace-capital"
   },
   "HAL": {
     "name": "Halcyon",
-    "api_name": "halcyon"
+    "id": "halcyon"
   },
   "HALLO": {
     "name": "Halloween Coin",
-    "api_name": "halloween-coin"
+    "id": "halloween-coin"
   },
   "HAT": {
     "name": "Hawala.Today",
-    "api_name": "hawala-today"
+    "id": "hawala-today"
   },
   "HAV": {
     "name": "Havven",
-    "api_name": "havven"
+    "id": "havven"
   },
   "HBC": {
     "name": "HomeBlockCoin",
-    "api_name": "homeblockcoin"
+    "id": "homeblockcoin"
   },
   "HBN": {
     "name": "HoboNickels",
-    "api_name": "hobonickels"
+    "id": "hobonickels"
   },
   "HBT": {
     "name": "Hubii Network",
-    "api_name": "hubii-network"
+    "id": "hubii-network"
   },
   "HC": {
     "name": "Harvest Masternode Coin",
-    "api_name": "harvest-masternode-coin"
+    "id": "harvest-masternode-coin"
   },
   "HCC": {
     "name": "Happy Creator Coin",
-    "api_name": "happy-creator-coin"
+    "id": "happy-creator-coin"
   },
   "HDG": {
     "name": "Hedge",
-    "api_name": "hedge"
+    "id": "hedge"
   },
   "HDLB": {
     "name": "HODL Bucks",
-    "api_name": "hodl-bucks"
+    "id": "hodl-bucks"
   },
   "HEAT": {
     "name": "HEAT",
-    "api_name": "heat-ledger"
+    "id": "heat-ledger"
   },
   "HERO": {
     "name": "Sovereign Hero",
-    "api_name": "sovereign-hero"
+    "id": "sovereign-hero"
   },
   "HGT": {
     "name": "HelloGold",
-    "api_name": "hellogold"
+    "id": "hellogold"
   },
   "HIGH": {
     "name": "High Gain",
-    "api_name": "high-gain"
+    "id": "high-gain"
   },
   "HIRE": {
     "name": "HireMatch",
-    "api_name": "hirematch"
+    "id": "hirematch"
   },
   "HKN": {
     "name": "Hacken",
-    "api_name": "hacken"
+    "id": "hacken"
   },
   "HLC": {
     "name": "HalalChain",
-    "api_name": "halalchain"
+    "id": "halalchain"
   },
   "HMC": [
     {
       "name": "Hi Mutual Society",
-      "api_name": "hi-mutual-society"
+      "id": "hi-mutual-society"
     },
     {
       "name": "HarmonyCoin",
-      "api_name": "harmonycoin-hmc"
+      "id": "harmonycoin-hmc"
     }
   ],
   "HMP": {
     "name": "HempCoin",
-    "api_name": "hempcoin-hmp"
+    "id": "hempcoin-hmp"
   },
   "HMQ": {
     "name": "Humaniq",
-    "api_name": "humaniq"
+    "id": "humaniq"
   },
   "HNC": [
     {
       "name": "Helleniccoin",
-      "api_name": "helleniccoin"
+      "id": "helleniccoin"
     },
     {
       "name": "Huncoin",
-      "api_name": "huncoin"
+      "id": "huncoin"
     }
   ],
   "HODL": {
     "name": "HOdlcoin",
-    "api_name": "hodlcoin"
+    "id": "hodlcoin"
   },
   "HOLD": {
     "name": "Interstellar Holdings",
-    "api_name": "interstellar-holdings"
+    "id": "interstellar-holdings"
   },
   "HONEY": {
     "name": "Honey",
-    "api_name": "honey"
+    "id": "honey"
   },
   "HORSE": {
     "name": "Ethorse",
-    "api_name": "ethorse"
+    "id": "ethorse"
   },
   "HOT": {
     "name": "Hydro Protocol",
-    "api_name": "hydro-protocol"
+    "id": "hydro-protocol"
   },
   "HPB": {
     "name": "High Performance Blockchain",
-    "api_name": "high-performance-blockchain"
+    "id": "high-performance-blockchain"
   },
   "HPC": {
     "name": "Happycoin",
-    "api_name": "happycoin"
+    "id": "happycoin"
   },
   "HPY": {
     "name": "Hyper Pay",
-    "api_name": "hyper-pay"
+    "id": "hyper-pay"
   },
   "HQX": {
     "name": "HOQU",
-    "api_name": "hoqu"
+    "id": "hoqu"
   },
   "HSR": {
     "name": "Hshare",
-    "api_name": "hshare"
+    "id": "hshare"
   },
   "HST": {
     "name": "Decision Token",
-    "api_name": "decision-token"
+    "id": "decision-token"
   },
   "HT": {
     "name": "Huobi Token",
-    "api_name": "huobi-token"
+    "id": "huobi-token"
   },
   "HTC": {
     "name": "HitCoin",
-    "api_name": "hitcoin"
+    "id": "hitcoin"
   },
   "HTML": {
     "name": "HTMLCOIN",
-    "api_name": "html-coin"
+    "id": "html-coin"
   },
   "HUC": {
     "name": "HunterCoin",
-    "api_name": "huntercoin"
+    "id": "huntercoin"
   },
   "HUSH": {
     "name": "Hush",
-    "api_name": "hush"
+    "id": "hush"
   },
   "HVCO": {
     "name": "High Voltage",
-    "api_name": "high-voltage"
+    "id": "high-voltage"
   },
   "HVN": {
     "name": "Hive Project",
-    "api_name": "hive-project"
+    "id": "hive-project"
   },
   "HWC": {
     "name": "HollyWoodCoin",
-    "api_name": "hollywoodcoin"
+    "id": "hollywoodcoin"
   },
   "HXX": {
     "name": "Hexx",
-    "api_name": "hexx"
+    "id": "hexx"
   },
   "HYP": {
     "name": "HyperStake",
-    "api_name": "hyperstake"
+    "id": "hyperstake"
   },
   "HYPER": {
     "name": "Hyper",
-    "api_name": "hyper"
+    "id": "hyper"
   },
   "I0C": {
     "name": "I0Coin",
-    "api_name": "i0coin"
+    "id": "i0coin"
   },
   "IBANK": {
     "name": "iBank",
-    "api_name": "ibank"
+    "id": "ibank"
   },
   "IC": {
     "name": "Ignition",
-    "api_name": "ignition"
+    "id": "ignition"
   },
   "ICE": {
     "name": "iDice",
-    "api_name": "idice"
+    "id": "idice"
   },
   "ICN": [
     {
       "name": "Iconomi",
-      "api_name": "iconomi"
+      "id": "iconomi"
     },
     {
       "name": "iCoin",
-      "api_name": "icoin"
+      "id": "icoin"
     }
   ],
   "ICOB": {
     "name": "ICOBID",
-    "api_name": "icobid"
+    "id": "icobid"
   },
   "ICON": {
     "name": "Iconic",
-    "api_name": "iconic"
+    "id": "iconic"
   },
   "ICOO": {
     "name": "ICO OpenLedger",
-    "api_name": "ico-openledger"
+    "id": "ico-openledger"
   },
   "ICOS": {
     "name": "ICOS",
-    "api_name": "icos"
+    "id": "icos"
   },
   "ICX": {
     "name": "ICON",
-    "api_name": "icon"
+    "id": "icon"
   },
   "IDH": {
     "name": "indaHash",
-    "api_name": "indahash"
+    "id": "indahash"
   },
   "IDT": {
     "name": "InvestDigital",
-    "api_name": "investdigital"
+    "id": "investdigital"
   },
   "IDXM": {
     "name": "IDEX Membership",
-    "api_name": "idex-membership"
+    "id": "idex-membership"
   },
   "IETH": {
     "name": "iEthereum",
-    "api_name": "iethereum"
+    "id": "iethereum"
   },
   "IFC": {
     "name": "Infinitecoin",
-    "api_name": "infinitecoin"
+    "id": "infinitecoin"
   },
   "IFLT": {
     "name": "InflationCoin",
-    "api_name": "inflationcoin"
+    "id": "inflationcoin"
   },
   "IFT": {
     "name": "InvestFeed",
-    "api_name": "investfeed"
+    "id": "investfeed"
   },
   "IGNIS": {
     "name": "Ignis",
-    "api_name": "ignis"
+    "id": "ignis"
   },
   "IHT": {
     "name": "IHT Real Estate Protocol",
-    "api_name": "iht-real-estate-protocol"
+    "id": "iht-real-estate-protocol"
   },
   "IMPS": {
     "name": "ImpulseCoin",
-    "api_name": "impulsecoin"
+    "id": "impulsecoin"
   },
   "IMS": {
     "name": "Independent Money System",
-    "api_name": "independent-money-system"
+    "id": "independent-money-system"
   },
   "IMX": {
     "name": "Impact",
-    "api_name": "impact"
+    "id": "impact"
   },
   "INCNT": {
     "name": "Incent",
-    "api_name": "incent"
+    "id": "incent"
   },
   "IND": {
     "name": "Indorse Token",
-    "api_name": "indorse-token"
+    "id": "indorse-token"
   },
   "INDI": {
     "name": "Indicoin",
-    "api_name": "indicoin"
+    "id": "indicoin"
   },
   "INDIA": {
     "name": "India Coin",
-    "api_name": "india-coin"
+    "id": "india-coin"
   },
   "INFX": {
     "name": "Influxcoin",
-    "api_name": "influxcoin"
+    "id": "influxcoin"
   },
   "ING": {
     "name": "Iungo",
-    "api_name": "iungo"
+    "id": "iungo"
   },
   "INK": {
     "name": "Ink",
-    "api_name": "ink"
+    "id": "ink"
   },
   "INN": {
     "name": "Innova",
-    "api_name": "innova"
+    "id": "innova"
   },
   "INPAY": {
     "name": "InPay",
-    "api_name": "inpay"
+    "id": "inpay"
   },
   "INS": {
     "name": "INS Ecosystem",
-    "api_name": "ins-ecosystem"
+    "id": "ins-ecosystem"
   },
   "INSN": {
     "name": "InsaneCoin",
-    "api_name": "insanecoin-insn"
+    "id": "insanecoin-insn"
   },
   "INSTAR": {
     "name": "Insights Network",
-    "api_name": "insights-network"
+    "id": "insights-network"
   },
   "INT": {
     "name": "Internet Node Token",
-    "api_name": "internet-node-token"
+    "id": "internet-node-token"
   },
   "INXT": {
     "name": "Internxt",
-    "api_name": "internxt"
+    "id": "internxt"
   },
   "IOC": {
     "name": "I/O Coin",
-    "api_name": "iocoin"
+    "id": "iocoin"
   },
   "ION": {
     "name": "ION",
-    "api_name": "ion"
+    "id": "ion"
   },
   "IOP": {
     "name": "Internet of People",
-    "api_name": "internet-of-people"
+    "id": "internet-of-people"
   },
   "IOST": {
     "name": "IOStoken",
-    "api_name": "iostoken"
+    "id": "iostoken"
   },
   "IPBC": {
     "name": "Interplanetary Broadcast Coin",
-    "api_name": "interplanetary-broadcast-coin"
+    "id": "interplanetary-broadcast-coin"
   },
   "IPC": {
     "name": "IPChain",
-    "api_name": "ipchain"
+    "id": "ipchain"
   },
   "IPL": {
     "name": "InsurePal",
-    "api_name": "insurepal"
+    "id": "insurepal"
   },
   "IPSX": {
     "name": "IP Exchange",
-    "api_name": "ip-exchange"
+    "id": "ip-exchange"
   },
   "IQT": {
     "name": "iQuant",
-    "api_name": "iquant"
+    "id": "iquant"
   },
   "IRL": {
     "name": "IrishCoin",
-    "api_name": "irishcoin"
+    "id": "irishcoin"
   },
   "ISL": {
     "name": "IslaCoin",
-    "api_name": "islacoin"
+    "id": "islacoin"
   },
   "ITC": {
     "name": "IoT Chain",
-    "api_name": "iot-chain"
+    "id": "iot-chain"
   },
   "ITI": {
     "name": "iTicoin",
-    "api_name": "iticoin"
+    "id": "iticoin"
   },
   "ITNS": {
     "name": "IntenseCoin",
-    "api_name": "intensecoin"
+    "id": "intensecoin"
   },
   "ITT": {
     "name": "Intelligent Trading Tech",
-    "api_name": "intelligent-trading-tech"
+    "id": "intelligent-trading-tech"
   },
   "ITZ": {
     "name": "Interzone",
-    "api_name": "interzone"
+    "id": "interzone"
   },
   "IXC": {
     "name": "Ixcoin",
-    "api_name": "ixcoin"
+    "id": "ixcoin"
   },
   "IXT": {
     "name": "iXledger",
-    "api_name": "ixledger"
+    "id": "ixledger"
   },
   "J": {
     "name": "Joincoin",
-    "api_name": "joincoin"
+    "id": "joincoin"
   },
   "J8T": {
     "name": "JET8",
-    "api_name": "jet8"
+    "id": "jet8"
   },
   "JC": {
     "name": "Jesus Coin",
-    "api_name": "jesus-coin"
+    "id": "jesus-coin"
   },
   "JET": {
     "name": "Jetcoin",
-    "api_name": "jetcoin"
+    "id": "jetcoin"
   },
   "JEW": {
     "name": "Shekel",
-    "api_name": "shekel"
+    "id": "shekel"
+  },
+  "JIN": {
+    "name": "Jin Coin",
+    "id": "jin-coin"
   },
   "JIYO": {
     "name": "Jiyo",
-    "api_name": "jiyo"
+    "id": "jiyo"
   },
   "JNT": {
     "name": "Jibrel Network",
-    "api_name": "jibrel-network"
+    "id": "jibrel-network"
   },
   "JOBS": {
     "name": "JobsCoin",
-    "api_name": "jobscoin"
+    "id": "jobscoin"
   },
   "JS": {
     "name": "JavaScript Token",
-    "api_name": "javascript-token"
+    "id": "javascript-token"
   },
   "JWL": {
     "name": "Jewels",
-    "api_name": "jewels"
+    "id": "jewels"
   },
   "KARMA": {
     "name": "Karmacoin",
-    "api_name": "karmacoin"
+    "id": "karmacoin"
   },
   "KASHH": {
     "name": "KashhCoin",
-    "api_name": "kashhcoin"
+    "id": "kashhcoin"
   },
   "KAYI": {
     "name": "Kayicoin",
-    "api_name": "kayicoin"
+    "id": "kayicoin"
+  },
+  "KB3": {
+    "name": "B3Coin",
+    "id": "b3coin"
   },
   "KBR": {
     "name": "Kubera Coin",
-    "api_name": "kubera-coin"
+    "id": "kubera-coin"
   },
   "KCASH": {
     "name": "Kcash",
-    "api_name": "kcash"
+    "id": "kcash"
   },
   "KCS": {
     "name": "KuCoin Shares",
-    "api_name": "kucoin-shares"
+    "id": "kucoin-shares"
   },
   "KDC": {
     "name": "KlondikeCoin",
-    "api_name": "klondikecoin"
+    "id": "klondikecoin"
   },
   "KED": {
     "name": "Darsek",
-    "api_name": "darsek"
+    "id": "darsek"
   },
   "KEK": {
     "name": "KekCoin",
-    "api_name": "kekcoin"
+    "id": "kekcoin"
   },
   "KEY": {
     "name": "Selfkey",
-    "api_name": "selfkey"
+    "id": "selfkey"
   },
   "KICK": {
     "name": "KickCoin",
-    "api_name": "kickico"
+    "id": "kickico"
   },
   "KIN": {
     "name": "Kin",
-    "api_name": "kin"
+    "id": "kin"
   },
   "KLC": {
     "name": "KiloCoin",
-    "api_name": "kilocoin"
+    "id": "kilocoin"
   },
   "KLN": {
     "name": "Kolion",
-    "api_name": "kolion"
+    "id": "kolion"
   },
   "KMD": {
     "name": "Komodo",
-    "api_name": "komodo"
+    "id": "komodo"
   },
   "KNC": [
     {
       "name": "Kyber Network",
-      "api_name": "kyber-network"
+      "id": "kyber-network"
     },
     {
       "name": "KingN Coin",
-      "api_name": "kingn-coin"
+      "id": "kingn-coin"
     }
   ],
   "KOBO": {
     "name": "Kobocoin",
-    "api_name": "kobocoin"
+    "id": "kobocoin"
   },
   "KORE": {
     "name": "Kore",
-    "api_name": "korecoin"
+    "id": "korecoin"
   },
   "KRB": {
     "name": "Karbo",
-    "api_name": "karbo"
+    "id": "karbo"
   },
   "KRM": {
     "name": "Karma",
-    "api_name": "karma"
+    "id": "karma"
   },
   "KRONE": {
     "name": "Kronecoin",
-    "api_name": "kronecoin"
+    "id": "kronecoin"
   },
   "KURT": {
     "name": "Kurrent",
-    "api_name": "kurrent"
+    "id": "kurrent"
   },
   "KUSH": {
     "name": "KushCoin",
-    "api_name": "kushcoin"
+    "id": "kushcoin"
   },
   "KZC": {
     "name": "Kzcash",
-    "api_name": "kzcash"
+    "id": "kzcash"
   },
   "LA": {
     "name": "LATOKEN",
-    "api_name": "latoken"
+    "id": "latoken"
   },
   "LALA": {
     "name": "LALA World",
-    "api_name": "lala-world"
+    "id": "lala-world"
   },
   "LANA": {
     "name": "LanaCoin",
-    "api_name": "lanacoin"
+    "id": "lanacoin"
   },
   "LATX": {
     "name": "LatiumX",
-    "api_name": "latiumx"
+    "id": "latiumx"
   },
   "LAZ": {
     "name": "Lazaruscoin",
-    "api_name": "lazaruscoin"
+    "id": "lazaruscoin"
   },
   "LBC": {
     "name": "LBRY Credits",
-    "api_name": "library-credit"
+    "id": "library-credit"
   },
   "LBTC": [
     {
       "name": "LiteBitcoin",
-      "api_name": "litebitcoin"
+      "id": "litebitcoin"
     },
     {
       "name": "Lightning Bitcoin [Futures]",
-      "api_name": "lightning-bitcoin"
+      "id": "lightning-bitcoin"
     }
   ],
   "LCC": {
     "name": "Litecoin Cash",
-    "api_name": "litecoin-cash"
+    "id": "litecoin-cash"
   },
   "LCP": {
     "name": "Litecoin Plus",
-    "api_name": "litecoin-plus"
+    "id": "litecoin-plus"
   },
   "LCT": {
     "name": "LendConnect",
-    "api_name": "lendconnect"
+    "id": "lendconnect"
   },
   "LDC": {
     "name": "Leadcoin",
-    "api_name": "leadcoin"
+    "id": "leadcoin"
   },
   "LDCN": {
     "name": "LandCoin",
-    "api_name": "landcoin"
+    "id": "landcoin"
   },
   "LDOGE": {
     "name": "LiteDoge",
-    "api_name": "litedoge"
+    "id": "litedoge"
   },
   "LEA": {
     "name": "LeaCoin",
-    "api_name": "leacoin"
+    "id": "leacoin"
   },
   "LEAF": {
     "name": "LeafCoin",
-    "api_name": "leafcoin"
+    "id": "leafcoin"
   },
   "LEDU": {
     "name": "Education Ecosystem",
-    "api_name": "education-ecosystem"
+    "id": "education-ecosystem"
   },
   "LEND": {
     "name": "ETHLend",
-    "api_name": "ethlend"
+    "id": "ethlend"
   },
   "LEO": {
     "name": "LEOcoin",
-    "api_name": "leocoin"
+    "id": "leocoin"
   },
   "LEPEN": {
     "name": "LePen",
-    "api_name": "lepen"
+    "id": "lepen"
   },
   "LET": {
     "name": "LinkEye",
-    "api_name": "linkeye"
+    "id": "linkeye"
   },
   "LEV": {
     "name": "Leverj",
-    "api_name": "leverj"
+    "id": "leverj"
   },
   "LEVO": {
     "name": "Levocoin",
-    "api_name": "levocoin"
+    "id": "levocoin"
   },
   "LGD": {
     "name": "Legends Room",
-    "api_name": "legends-room"
+    "id": "legends-room"
   },
   "LGO": {
     "name": "Legolas Exchange",
-    "api_name": "legolas-exchange"
+    "id": "legolas-exchange"
   },
   "LIFE": {
     "name": "LIFE",
-    "api_name": "life"
+    "id": "life"
   },
   "LIGHT": {
     "name": "LightChain",
-    "api_name": "lightchain"
+    "id": "lightchain"
   },
   "LINDA": {
     "name": "Linda",
-    "api_name": "linda"
+    "id": "linda"
   },
   "LINK": {
     "name": "ChainLink",
-    "api_name": "chainlink"
+    "id": "chainlink"
   },
   "LINX": {
     "name": "Linx",
-    "api_name": "linx"
+    "id": "linx"
   },
   "LIR": {
     "name": "LetItRide",
-    "api_name": "letitride"
+    "id": "letitride"
   },
   "LKC": {
     "name": "LinkedCoin",
-    "api_name": "linkedcoin"
+    "id": "linkedcoin"
   },
   "LKK": {
     "name": "Lykke",
-    "api_name": "lykke"
+    "id": "lykke"
   },
   "LLT": {
     "name": "LLToken",
-    "api_name": "lltoken"
+    "id": "lltoken"
   },
   "LMC": {
     "name": "LoMoCoin",
-    "api_name": "lomocoin"
+    "id": "lomocoin"
   },
   "LNC": {
     "name": "Blocklancer",
-    "api_name": "blocklancer"
+    "id": "blocklancer"
   },
   "LOC": {
     "name": "LockChain",
-    "api_name": "lockchain"
+    "id": "lockchain"
   },
   "LOCI": {
     "name": "LOCIcoin",
-    "api_name": "locicoin"
+    "id": "locicoin"
   },
   "LOG": {
     "name": "Woodcoin",
-    "api_name": "woodcoin"
+    "id": "woodcoin"
   },
   "LOOM": {
     "name": "Loom Network",
-    "api_name": "loom-network"
+    "id": "loom-network"
   },
   "LRC": {
     "name": "Loopring",
-    "api_name": "loopring"
+    "id": "loopring"
   },
   "LSK": {
     "name": "Lisk",
-    "api_name": "lisk"
+    "id": "lisk"
   },
   "LST": {
     "name": "Lendroid Support Token",
-    "api_name": "lendroid-support-token"
+    "id": "lendroid-support-token"
   },
   "LTB": {
     "name": "LiteBar",
-    "api_name": "litebar"
+    "id": "litebar"
   },
   "LTC": {
     "name": "Litecoin",
-    "api_name": "litecoin"
+    "id": "litecoin"
   },
   "LTCR": {
     "name": "Litecred",
-    "api_name": "litecred"
+    "id": "litecred"
   },
   "LTCU": {
     "name": "LiteCoin Ultra",
-    "api_name": "litecoin-ultra"
+    "id": "litecoin-ultra"
   },
   "LUN": {
     "name": "Lunyr",
-    "api_name": "lunyr"
+    "id": "lunyr"
   },
   "LUNA": {
     "name": "Luna Coin",
-    "api_name": "luna-coin"
+    "id": "luna-coin"
   },
   "LUX": {
     "name": "LUXCoin",
-    "api_name": "luxcoin"
+    "id": "luxcoin"
   },
   "LVPS": {
     "name": "LevoPlus",
-    "api_name": "levoplus"
+    "id": "levoplus"
   },
   "LYM": {
     "name": "Lympo",
-    "api_name": "lympo"
+    "id": "lympo"
   },
   "MAC": {
     "name": "Machinecoin",
-    "api_name": "machinecoin"
+    "id": "machinecoin"
   },
   "MAD": {
     "name": "SatoshiMadness",
-    "api_name": "satoshimadness"
+    "id": "satoshimadness"
   },
   "MAG": [
     {
       "name": "Magnet",
-      "api_name": "magnet"
+      "id": "magnet"
     },
     {
       "name": "Maggie",
-      "api_name": "maggie"
+      "id": "maggie"
     }
   ],
   "MAGE": {
     "name": "MagicCoin",
-    "api_name": "magiccoin"
+    "id": "magiccoin"
   },
   "MAGN": {
     "name": "Magnetcoin",
-    "api_name": "magnetcoin"
+    "id": "magnetcoin"
   },
   "MAID": {
     "name": "MaidSafeCoin",
-    "api_name": "maidsafecoin"
+    "id": "maidsafecoin"
   },
   "MAN": {
     "name": "Matrix AI Network",
-    "api_name": "matrix-ai-network"
+    "id": "matrix-ai-network"
   },
   "MANA": {
     "name": "Decentraland",
-    "api_name": "decentraland"
+    "id": "decentraland"
   },
   "MANNA": {
     "name": "Manna",
-    "api_name": "manna"
+    "id": "manna"
   },
   "MAO": {
     "name": "Mao Zedong",
-    "api_name": "mao-zedong"
+    "id": "mao-zedong"
   },
   "MAR": {
     "name": "Marijuanacoin",
-    "api_name": "marijuanacoin"
+    "id": "marijuanacoin"
   },
   "MARS": {
     "name": "Marscoin",
-    "api_name": "marscoin"
+    "id": "marscoin"
   },
   "MARX": {
     "name": "MarxCoin",
-    "api_name": "marxcoin"
+    "id": "marxcoin"
   },
   "MAX": {
     "name": "MaxCoin",
-    "api_name": "maxcoin"
+    "id": "maxcoin"
   },
   "MAY": {
     "name": "Theresa May Coin",
-    "api_name": "theresa-may-coin"
+    "id": "theresa-may-coin"
   },
   "MBI": {
     "name": "Monster Byte",
-    "api_name": "monster-byte"
+    "id": "monster-byte"
   },
   "MBL": {
     "name": "MobileCash",
-    "api_name": "mobilecash"
+    "id": "mobilecash"
   },
   "MBRS": {
     "name": "Embers",
-    "api_name": "embers"
+    "id": "embers"
   },
   "MCAP": {
     "name": "MCAP",
-    "api_name": "mcap"
+    "id": "mcap"
   },
   "MCI": {
     "name": "Musiconomi",
-    "api_name": "musiconomi"
+    "id": "musiconomi"
   },
   "MCO": {
     "name": "Monaco",
-    "api_name": "monaco"
+    "id": "monaco"
   },
   "MCR": {
     "name": "Macro",
-    "api_name": "macro1"
+    "id": "macro1"
   },
   "MCRN": {
     "name": "MACRON",
-    "api_name": "macron"
+    "id": "macron"
   },
   "MDA": {
     "name": "Moeda Loyalty Points",
-    "api_name": "moeda-loyalty-points"
+    "id": "moeda-loyalty-points"
   },
   "MDC": {
     "name": "Madcoin",
-    "api_name": "madcoin"
+    "id": "madcoin"
   },
   "MDS": {
     "name": "MediShares",
-    "api_name": "medishares"
+    "id": "medishares"
   },
   "MDT": {
     "name": "Measurable Data Token",
-    "api_name": "measurable-data-token"
+    "id": "measurable-data-token"
   },
   "MEC": {
     "name": "Megacoin",
-    "api_name": "megacoin"
+    "id": "megacoin"
   },
   "MED": {
     "name": "MediBloc",
-    "api_name": "medibloc"
+    "id": "medibloc"
   },
   "MEDIC": {
     "name": "MedicCoin",
-    "api_name": "mediccoin"
+    "id": "mediccoin"
   },
   "MEE": {
     "name": "CoinMeet",
-    "api_name": "coinmeet"
+    "id": "coinmeet"
   },
   "MEME": {
     "name": "Memetic / PepeCoin",
-    "api_name": "memetic"
+    "id": "memetic"
   },
   "MER": {
     "name": "Mercury",
-    "api_name": "mercury"
+    "id": "mercury"
   },
   "METAL": {
     "name": "MetalCoin",
-    "api_name": "metalcoin"
+    "id": "metalcoin"
   },
   "MGC": {
     "name": "MergeCoin",
-    "api_name": "mergecoin"
+    "id": "mergecoin"
   },
   "MGM": {
     "name": "Magnum",
-    "api_name": "magnum"
+    "id": "magnum"
   },
   "MGO": {
     "name": "MobileGo",
-    "api_name": "mobilego"
+    "id": "mobilego"
   },
   "MILO": {
     "name": "MiloCoin",
-    "api_name": "milocoin"
+    "id": "milocoin"
   },
   "MINEX": {
     "name": "Minex",
-    "api_name": "minex"
+    "id": "minex"
   },
   "MINT": {
     "name": "Mintcoin",
-    "api_name": "mintcoin"
+    "id": "mintcoin"
   },
   "MIOTA": {
     "name": "IOTA",
-    "api_name": "iota"
+    "id": "iota"
   },
   "MITH": {
     "name": "Mithril",
-    "api_name": "mithril"
+    "id": "mithril"
   },
   "MKR": {
     "name": "Maker",
-    "api_name": "maker"
+    "id": "maker"
   },
   "MLM": {
     "name": "MktCoin",
-    "api_name": "mktcoin"
+    "id": "mktcoin"
   },
   "MLN": {
     "name": "Melon",
-    "api_name": "melon"
+    "id": "melon"
   },
   "MNC": {
     "name": "Mincoin",
-    "api_name": "mincoin"
+    "id": "mincoin"
   },
   "MND": {
     "name": "MindCoin",
-    "api_name": "mindcoin"
+    "id": "mindcoin"
   },
   "MNE": {
     "name": "Minereum",
-    "api_name": "minereum"
+    "id": "minereum"
   },
   "MNM": {
     "name": "Mineum",
-    "api_name": "mineum"
+    "id": "mineum"
   },
   "MNTP": {
     "name": "GoldMint",
-    "api_name": "goldmint"
+    "id": "goldmint"
   },
   "MNX": {
     "name": "MinexCoin",
-    "api_name": "minexcoin"
+    "id": "minexcoin"
   },
   "MOAC": {
     "name": "MOAC",
-    "api_name": "moac"
+    "id": "moac"
   },
   "MOBI": {
     "name": "Mobius",
-    "api_name": "mobius"
+    "id": "mobius"
   },
   "MOD": {
     "name": "Modum",
-    "api_name": "modum"
+    "id": "modum"
   },
   "MOF": {
     "name": "Molecular Future",
-    "api_name": "molecular-future"
+    "id": "molecular-future"
   },
   "MOIN": {
     "name": "Moin",
-    "api_name": "moin"
+    "id": "moin"
   },
   "MOJO": {
     "name": "MojoCoin",
-    "api_name": "mojocoin"
+    "id": "mojocoin"
   },
   "MONA": {
     "name": "MonaCoin",
-    "api_name": "monacoin"
+    "id": "monacoin"
   },
   "MONETA": {
     "name": "Moneta",
-    "api_name": "moneta2"
+    "id": "moneta2"
   },
   "MONK": {
     "name": "Monkey Project",
-    "api_name": "monkey-project"
+    "id": "monkey-project"
   },
   "MOON": {
     "name": "Mooncoin",
-    "api_name": "mooncoin"
+    "id": "mooncoin"
   },
   "MOT": {
     "name": "Olympus Labs",
-    "api_name": "olympus-labs"
+    "id": "olympus-labs"
   },
   "MOTO": {
     "name": "Motocoin",
-    "api_name": "motocoin"
+    "id": "motocoin"
   },
   "MRJA": {
     "name": "GanjaCoin",
-    "api_name": "ganjacoin"
+    "id": "ganjacoin"
   },
   "MRT": {
     "name": "Miners' Reward Token",
-    "api_name": "miners-reward-token"
+    "id": "miners-reward-token"
   },
   "MSCN": {
     "name": "Master Swiscoin",
-    "api_name": "master-swiscoin"
+    "id": "master-swiscoin"
   },
   "MSD": {
     "name": "MSD",
-    "api_name": "msd"
+    "id": "msd"
   },
   "MSP": {
     "name": "Mothership",
-    "api_name": "mothership"
+    "id": "mothership"
   },
   "MST": {
     "name": "MustangCoin",
-    "api_name": "mustangcoin"
+    "id": "mustangcoin"
   },
   "MTH": {
     "name": "Monetha",
-    "api_name": "monetha"
+    "id": "monetha"
   },
   "MTL": {
     "name": "Metal",
-    "api_name": "metal"
+    "id": "metal"
   },
   "MTLMC3": {
     "name": "Metal Music Coin",
-    "api_name": "metal-music-coin"
+    "id": "metal-music-coin"
   },
   "MTN": {
     "name": "Medicalchain",
-    "api_name": "medical-chain"
+    "id": "medical-chain"
   },
   "MTNC": {
     "name": "Masternodecoin",
-    "api_name": "masternodecoin"
+    "id": "masternodecoin"
   },
   "MTX": {
     "name": "Matryx",
-    "api_name": "matryx"
+    "id": "matryx"
   },
   "MUE": {
     "name": "MonetaryUnit",
-    "api_name": "monetaryunit"
+    "id": "monetaryunit"
   },
   "MUSE": {
     "name": "MUSE",
-    "api_name": "bitshares-music"
+    "id": "bitshares-music"
   },
   "MUSIC": {
     "name": "Musicoin",
-    "api_name": "musicoin"
+    "id": "musicoin"
   },
   "MVC": {
     "name": "Maverick Chain",
-    "api_name": "maverick-chain"
+    "id": "maverick-chain"
   },
   "MWAT": {
     "name": "Restart Energy MWAT",
-    "api_name": "restart-energy-mwat"
+    "id": "restart-energy-mwat"
   },
   "MXT": {
     "name": "MarteXcoin",
-    "api_name": "martexcoin"
+    "id": "martexcoin"
   },
   "MYB": {
     "name": "MyBit Token",
-    "api_name": "mybit-token"
+    "id": "mybit-token"
   },
   "MYST": {
     "name": "Mysterium",
-    "api_name": "mysterium"
+    "id": "mysterium"
   },
   "MZC": {
     "name": "MAZA",
-    "api_name": "mazacoin"
+    "id": "mazacoin"
   },
   "NAMO": {
     "name": "NamoCoin",
-    "api_name": "namocoin"
+    "id": "namocoin"
   },
   "NANJ": {
     "name": "NANJCOIN",
-    "api_name": "nanjcoin"
+    "id": "nanjcoin"
   },
   "NANO": {
     "name": "Nano",
-    "api_name": "nano"
+    "id": "nano"
   },
   "NANOX": {
     "name": "Project-X",
-    "api_name": "project-x"
+    "id": "project-x"
   },
   "NAS": {
     "name": "Nebulas",
-    "api_name": "nebulas-token"
+    "id": "nebulas-token"
   },
   "NAV": {
     "name": "NavCoin",
-    "api_name": "nav-coin"
+    "id": "nav-coin"
   },
   "NBIT": {
     "name": "netBit",
-    "api_name": "netbit"
+    "id": "netbit"
   },
   "NCASH": {
     "name": "Nucleus Vision",
-    "api_name": "nucleus-vision"
+    "id": "nucleus-vision"
+  },
+  "NCT": {
+    "name": "PolySwarm",
+    "id": "polyswarm"
   },
   "NDC": {
     "name": "NEVERDIE",
-    "api_name": "neverdie"
+    "id": "neverdie"
   },
   "NEBL": {
     "name": "Neblio",
-    "api_name": "neblio"
+    "id": "neblio"
   },
   "NEO": {
     "name": "NEO",
-    "api_name": "neo"
+    "id": "neo"
   },
   "NEOG": {
     "name": "NEO GOLD",
-    "api_name": "neo-gold"
+    "id": "neo-gold"
   },
   "NEOS": {
     "name": "NeosCoin",
-    "api_name": "neoscoin"
+    "id": "neoscoin"
   },
   "NET": [
     {
       "name": "Nimiq Exchange Token",
-      "api_name": "nimiq"
+      "id": "nimiq"
     },
     {
       "name": "NetCoin",
-      "api_name": "netcoin"
+      "id": "netcoin"
     }
   ],
   "NETKO": {
     "name": "Netko",
-    "api_name": "netko"
+    "id": "netko"
   },
   "NEU": {
     "name": "Neumark",
-    "api_name": "neumark"
+    "id": "neumark"
   },
   "NEVA": {
     "name": "NevaCoin",
-    "api_name": "nevacoin"
+    "id": "nevacoin"
   },
   "NEWB": {
     "name": "Newbium",
-    "api_name": "newbium"
+    "id": "newbium"
   },
   "NGC": {
     "name": "NAGA",
-    "api_name": "naga"
+    "id": "naga"
   },
   "NIO": {
     "name": "Autonio",
-    "api_name": "autonio"
+    "id": "autonio"
   },
   "NKA": {
     "name": "IncaKoin",
-    "api_name": "incakoin"
+    "id": "incakoin"
   },
   "NKC": {
     "name": "Nework",
-    "api_name": "nework"
+    "id": "nework"
   },
   "NLC2": {
     "name": "NoLimitCoin",
-    "api_name": "nolimitcoin"
+    "id": "nolimitcoin"
   },
   "NLG": {
     "name": "Gulden",
-    "api_name": "gulden"
+    "id": "gulden"
   },
   "NMC": {
     "name": "Namecoin",
-    "api_name": "namecoin"
+    "id": "namecoin"
   },
   "NMR": {
     "name": "Numeraire",
-    "api_name": "numeraire"
+    "id": "numeraire"
   },
   "NMS": {
     "name": "Numus",
-    "api_name": "numus"
+    "id": "numus"
   },
   "NOAH": {
     "name": "Noah Coin",
-    "api_name": "noah-coin"
+    "id": "noah-coin"
   },
   "NOBL": {
     "name": "NobleCoin",
-    "api_name": "noblecoin"
+    "id": "noblecoin"
   },
   "NODC": {
     "name": "NodeCoin",
-    "api_name": "nodecoin"
+    "id": "nodecoin"
   },
   "NOTE": {
     "name": "DNotes",
-    "api_name": "dnotes"
+    "id": "dnotes"
   },
   "NOX": {
     "name": "Nitro",
-    "api_name": "nitro"
+    "id": "nitro"
   },
   "NPX": {
     "name": "NaPoleonX",
-    "api_name": "napoleonx"
+    "id": "napoleonx"
   },
   "NPXS": {
     "name": "Pundi X",
-    "api_name": "pundi-x"
+    "id": "pundi-x"
   },
   "NRO": {
     "name": "Neuro",
-    "api_name": "neuro"
+    "id": "neuro"
   },
   "NSR": {
     "name": "NuShares",
-    "api_name": "nushares"
+    "id": "nushares"
   },
   "NTK": {
     "name": "Neurotoken",
-    "api_name": "neurotoken"
+    "id": "neurotoken"
   },
   "NTO": {
     "name": "Fujinto",
-    "api_name": "fujinto"
+    "id": "fujinto"
   },
   "NTRN": {
     "name": "Neutron",
-    "api_name": "neutron"
+    "id": "neutron"
   },
   "NTWK": {
     "name": "Network Token",
-    "api_name": "network-token"
+    "id": "network-token"
   },
   "NUKO": {
     "name": "Nekonium",
-    "api_name": "nekonium"
+    "id": "nekonium"
   },
   "NULS": {
     "name": "Nuls",
-    "api_name": "nuls"
+    "id": "nuls"
   },
   "NUMUS": {
     "name": "NumusCash",
-    "api_name": "numuscash"
+    "id": "numuscash"
   },
   "NVC": {
     "name": "Novacoin",
-    "api_name": "novacoin"
+    "id": "novacoin"
   },
   "NVST": {
     "name": "NVO",
-    "api_name": "nvo"
+    "id": "nvo"
   },
   "NXC": {
     "name": "Nexium",
-    "api_name": "nexium"
+    "id": "nexium"
   },
   "NXS": {
     "name": "Nexus",
-    "api_name": "nexus"
+    "id": "nexus"
   },
   "NXT": {
     "name": "Nxt",
-    "api_name": "nxt"
+    "id": "nxt"
   },
   "NXX": {
     "name": "Nexxus",
-    "api_name": "nexxus"
+    "id": "nexxus"
   },
   "NYAN": {
     "name": "Nyancoin",
-    "api_name": "nyancoin"
+    "id": "nyancoin"
   },
   "NYC": {
     "name": "NewYorkCoin",
-    "api_name": "newyorkcoin"
+    "id": "newyorkcoin"
   },
   "OAX": {
     "name": "OAX",
-    "api_name": "oax"
+    "id": "oax"
   },
   "OBITS": {
     "name": "OBITS",
-    "api_name": "obits"
+    "id": "obits"
   },
   "OC": {
     "name": "OceanChain",
-    "api_name": "oceanchain"
+    "id": "oceanchain"
   },
   "OCC": {
     "name": "Octoin Coin",
-    "api_name": "octoin-coin"
+    "id": "octoin-coin"
   },
   "OCL": {
     "name": "Oceanlab",
-    "api_name": "oceanlab"
+    "id": "oceanlab"
   },
   "OCN": {
     "name": "Odyssey",
-    "api_name": "odyssey"
+    "id": "odyssey"
   },
   "OCT": {
     "name": "OracleChain",
-    "api_name": "oraclechain"
+    "id": "oraclechain"
+  },
+  "ODE": {
+    "name": "ODEM",
+    "id": "odem"
   },
   "ODN": {
     "name": "Obsidian",
-    "api_name": "obsidian"
+    "id": "obsidian"
   },
   "OF": {
     "name": "OFCOIN",
-    "api_name": "ofcoin"
+    "id": "ofcoin"
   },
   "OFF": {
     "name": "Cthulhu Offerings",
-    "api_name": "cthulhu-offerings"
+    "id": "cthulhu-offerings"
   },
   "OK": {
     "name": "OKCash",
-    "api_name": "okcash"
+    "id": "okcash"
   },
   "OMC": {
     "name": "Omicron",
-    "api_name": "omicron"
+    "id": "omicron"
   },
   "OMG": {
     "name": "OmiseGO",
-    "api_name": "omisego"
+    "id": "omisego"
   },
   "OMNI": {
     "name": "Omni",
-    "api_name": "omni"
+    "id": "omni"
   },
   "ONG": {
     "name": "onG.social",
-    "api_name": "ongsocial"
+    "id": "ongsocial"
   },
   "ONION": {
     "name": "DeepOnion",
-    "api_name": "deeponion"
+    "id": "deeponion"
   },
   "ONT": {
     "name": "Ontology",
-    "api_name": "ontology"
+    "id": "ontology"
   },
   "ONX": {
     "name": "Onix",
-    "api_name": "onix"
+    "id": "onix"
   },
   "OP": {
     "name": "Operand",
-    "api_name": "operand"
+    "id": "operand"
   },
   "OPAL": {
     "name": "Opal",
-    "api_name": "opal"
+    "id": "opal"
   },
   "OPC": {
     "name": "OP Coin",
-    "api_name": "op-coin"
+    "id": "op-coin"
   },
   "OPES": {
     "name": "Opescoin",
-    "api_name": "opescoin"
+    "id": "opescoin"
   },
   "OPT": {
     "name": "Opus",
-    "api_name": "opus"
+    "id": "opus"
   },
   "ORB": {
     "name": "Orbitcoin",
-    "api_name": "orbitcoin"
+    "id": "orbitcoin"
   },
   "ORE": {
     "name": "Galactrum",
-    "api_name": "galactrum"
+    "id": "galactrum"
   },
   "ORME": {
     "name": "Ormeus Coin",
-    "api_name": "ormeus-coin"
+    "id": "ormeus-coin"
   },
   "OS76": {
     "name": "OsmiumCoin",
-    "api_name": "osmiumcoin"
+    "id": "osmiumcoin"
   },
   "OST": {
     "name": "OST",
-    "api_name": "ost"
+    "id": "ost"
   },
   "OTN": {
     "name": "Open Trading Network",
-    "api_name": "open-trading-network"
+    "id": "open-trading-network"
   },
   "OTX": {
     "name": "Octanox",
-    "api_name": "octanox"
+    "id": "octanox"
   },
   "OX": {
     "name": "OX Fina",
-    "api_name": "ox-fina"
+    "id": "ox-fina"
   },
   "OXY": {
     "name": "Oxycoin",
-    "api_name": "oxycoin"
+    "id": "oxycoin"
   },
   "P7C": {
     "name": "P7Coin",
-    "api_name": "p7coin"
+    "id": "p7coin"
   },
   "PAK": {
     "name": "Pakcoin",
-    "api_name": "pakcoin"
+    "id": "pakcoin"
   },
   "PARETO": {
     "name": "Pareto Network",
-    "api_name": "pareto-network"
+    "id": "pareto-network"
   },
   "PART": {
     "name": "Particl",
-    "api_name": "particl"
+    "id": "particl"
   },
   "PASC": {
     "name": "Pascal Coin",
-    "api_name": "pascal-coin"
+    "id": "pascal-coin"
   },
   "PASL": {
     "name": "Pascal Lite",
-    "api_name": "pascal-lite"
+    "id": "pascal-lite"
   },
   "PAY": {
     "name": "TenX",
-    "api_name": "tenx"
+    "id": "tenx"
   },
   "PAYP": {
     "name": "PayPeer",
-    "api_name": "paypeer"
+    "id": "paypeer"
   },
   "PAYX": {
     "name": "Paypex",
-    "api_name": "paypex"
+    "id": "paypex"
   },
   "PBL": {
     "name": "Publica",
-    "api_name": "publica"
+    "id": "publica"
   },
   "PBT": {
     "name": "Primalbase Token",
-    "api_name": "primalbase"
+    "id": "primalbase"
   },
   "PCL": {
     "name": "Peculium",
-    "api_name": "peculium"
+    "id": "peculium"
   },
   "PCN": {
     "name": "PeepCoin",
-    "api_name": "peepcoin"
+    "id": "peepcoin"
   },
   "PCOIN": {
     "name": "Pioneer Coin",
-    "api_name": "pioneer-coin"
+    "id": "pioneer-coin"
   },
   "PCS": {
     "name": "Pabyosi Coin (Special)",
-    "api_name": "pabyosi-coin-special"
+    "id": "pabyosi-coin-special"
   },
   "PEPECASH": {
     "name": "Pepe Cash",
-    "api_name": "pepe-cash"
+    "id": "pepe-cash"
   },
   "PEX": {
     "name": "PosEx",
-    "api_name": "posex"
+    "id": "posex"
   },
   "PFR": {
     "name": "Payfair",
-    "api_name": "payfair"
+    "id": "payfair"
   },
   "PHO": {
     "name": "Photon",
-    "api_name": "photon"
+    "id": "photon"
   },
   "PHR": {
     "name": "Phore",
-    "api_name": "phore"
+    "id": "phore"
   },
   "PHS": {
     "name": "Philosopher Stones",
-    "api_name": "philosopher-stones"
+    "id": "philosopher-stones"
   },
   "PIE": {
     "name": "PIECoin",
-    "api_name": "piecoin"
+    "id": "piecoin"
   },
   "PIGGY": {
     "name": "Piggycoin",
-    "api_name": "piggycoin"
+    "id": "piggycoin"
   },
   "PING": {
     "name": "CryptoPing",
-    "api_name": "cryptoping"
+    "id": "cryptoping"
   },
   "PINK": {
     "name": "PinkCoin",
-    "api_name": "pinkcoin"
+    "id": "pinkcoin"
   },
   "PIPL": {
     "name": "PiplCoin",
-    "api_name": "piplcoin"
+    "id": "piplcoin"
   },
   "PIRL": {
     "name": "Pirl",
-    "api_name": "pirl"
+    "id": "pirl"
   },
   "PIVX": {
     "name": "PIVX",
-    "api_name": "pivx"
+    "id": "pivx"
   },
   "PIX": {
     "name": "Lampix",
-    "api_name": "lampix"
+    "id": "lampix"
   },
   "PIZZA": {
     "name": "PizzaCoin",
-    "api_name": "pizzacoin"
+    "id": "pizzacoin"
   },
   "PKB": {
     "name": "ParkByte",
-    "api_name": "parkbyte"
+    "id": "parkbyte"
   },
   "PKT": {
     "name": "Playkey",
-    "api_name": "playkey"
+    "id": "playkey"
   },
   "PLACO": {
     "name": "PlayerCoin",
-    "api_name": "playercoin"
+    "id": "playercoin"
   },
   "PLAY": {
     "name": "HEROcoin",
-    "api_name": "herocoin"
+    "id": "herocoin"
   },
   "PLBT": {
     "name": "Polybius",
-    "api_name": "polybius"
+    "id": "polybius"
   },
   "PLC": [
     {
       "name": "PlusCoin",
-      "api_name": "pluscoin"
+      "id": "pluscoin"
     },
     {
       "name": "Polcoin",
-      "api_name": "polcoin"
+      "id": "polcoin"
     }
   ],
   "PLNC": {
     "name": "PLNcoin",
-    "api_name": "plncoin"
+    "id": "plncoin"
   },
   "PLR": {
     "name": "Pillar",
-    "api_name": "pillar"
+    "id": "pillar"
   },
   "PLU": {
     "name": "Pluton",
-    "api_name": "pluton"
+    "id": "pluton"
   },
   "PLX": {
     "name": "PlexCoin",
-    "api_name": "plexcoin"
+    "id": "plexcoin"
   },
   "PND": {
     "name": "Pandacoin",
-    "api_name": "pandacoin-pnd"
+    "id": "pandacoin-pnd"
   },
   "PNX": {
     "name": "Phantomx",
-    "api_name": "phantomx"
+    "id": "phantomx"
   },
   "POA": {
     "name": "POA Network",
-    "api_name": "poa-network"
+    "id": "poa-network"
   },
   "POE": {
     "name": "Po.et",
-    "api_name": "poet"
+    "id": "poet"
   },
   "POKE": {
     "name": "PokeCoin",
-    "api_name": "pokecoin"
+    "id": "pokecoin"
   },
   "POLIS": {
     "name": "Polis",
-    "api_name": "polis"
+    "id": "polis"
   },
   "POLL": {
     "name": "ClearPoll",
-    "api_name": "clearpoll"
+    "id": "clearpoll"
   },
   "POLY": {
     "name": "Polymath",
-    "api_name": "polymath-network"
+    "id": "polymath-network"
   },
   "PONZI": {
     "name": "PonziCoin",
-    "api_name": "ponzicoin"
+    "id": "ponzicoin"
   },
   "POP": {
     "name": "PopularCoin",
-    "api_name": "popularcoin"
+    "id": "popularcoin"
   },
   "POS": {
     "name": "PoSToken",
-    "api_name": "postoken"
+    "id": "postoken"
   },
   "POST": {
     "name": "PostCoin",
-    "api_name": "postcoin"
+    "id": "postcoin"
   },
   "POSW": {
     "name": "PoSW Coin",
-    "api_name": "posw-coin"
+    "id": "posw-coin"
   },
   "POT": {
     "name": "PotCoin",
-    "api_name": "potcoin"
+    "id": "potcoin"
   },
   "POWR": {
     "name": "Power Ledger",
-    "api_name": "power-ledger"
+    "id": "power-ledger"
   },
   "PPC": {
     "name": "Peercoin",
-    "api_name": "peercoin"
+    "id": "peercoin"
   },
   "PPP": {
     "name": "PayPie",
-    "api_name": "paypie"
+    "id": "paypie"
   },
   "PPT": {
     "name": "Populous",
-    "api_name": "populous"
+    "id": "populous"
   },
   "PPY": {
     "name": "Peerplays",
-    "api_name": "peerplays-ppy"
+    "id": "peerplays-ppy"
   },
   "PR": {
     "name": "Prototanium",
-    "api_name": "prototanium"
+    "id": "prototanium"
   },
   "PRA": {
     "name": "ProChain",
-    "api_name": "prochain"
+    "id": "prochain"
   },
   "PRC": {
     "name": "PRCoin",
-    "api_name": "prcoin"
+    "id": "prcoin"
   },
   "PRE": {
     "name": "Presearch",
-    "api_name": "presearch"
+    "id": "presearch"
   },
   "PRES": {
     "name": "President Trump",
-    "api_name": "president-trump"
+    "id": "president-trump"
   },
   "PRG": {
     "name": "Paragon",
-    "api_name": "paragon"
+    "id": "paragon"
   },
   "PRIMU": {
     "name": "Primulon",
-    "api_name": "primulon"
+    "id": "primulon"
   },
   "PRIX": {
     "name": "Privatix",
-    "api_name": "privatix"
+    "id": "privatix"
   },
   "PRL": {
     "name": "Oyster",
-    "api_name": "oyster"
+    "id": "oyster"
   },
   "PRM": {
     "name": "PrismChain",
-    "api_name": "prismchain"
+    "id": "prismchain"
   },
   "PRN": {
     "name": "Protean",
-    "api_name": "protean"
+    "id": "protean"
   },
   "PRO": {
     "name": "Propy",
-    "api_name": "propy"
+    "id": "propy"
   },
   "PROC": {
     "name": "ProCurrency",
-    "api_name": "procurrency"
+    "id": "procurrency"
   },
   "PRS": {
     "name": "PressOne",
-    "api_name": "pressone"
+    "id": "pressone"
   },
   "PRX": {
     "name": "Printerium",
-    "api_name": "printerium"
+    "id": "printerium"
   },
   "PST": {
     "name": "Primas",
-    "api_name": "primas"
+    "id": "primas"
   },
   "PSY": {
     "name": "Psilocybin",
-    "api_name": "psilocybin"
+    "id": "psilocybin"
   },
   "PTC": {
     "name": "Pesetacoin",
-    "api_name": "pesetacoin"
+    "id": "pesetacoin"
   },
   "PTOY": {
     "name": "Patientory",
-    "api_name": "patientory"
+    "id": "patientory"
   },
   "PULSE": {
     "name": "Pulse",
-    "api_name": "pulse"
+    "id": "pulse"
   },
   "PURA": {
     "name": "Pura",
-    "api_name": "pura"
+    "id": "pura"
   },
   "PURE": {
     "name": "Pure",
-    "api_name": "pure"
+    "id": "pure"
   },
   "PUT": [
     {
       "name": "Profile Utility Token",
-      "api_name": "profile-utility-token"
+      "id": "profile-utility-token"
     },
     {
       "name": "PutinCoin",
-      "api_name": "putincoin"
+      "id": "putincoin"
     }
   ],
   "PX": {
     "name": "PX",
-    "api_name": "px"
+    "id": "px"
   },
   "PXC": {
     "name": "Phoenixcoin",
-    "api_name": "phoenixcoin"
+    "id": "phoenixcoin"
   },
   "PXI": {
     "name": "Prime-XI",
-    "api_name": "prime-xi"
+    "id": "prime-xi"
   },
   "PYLNT": {
     "name": "Pylon Network",
-    "api_name": "pylon-network"
+    "id": "pylon-network"
   },
   "PZM": {
     "name": "PRIZM",
-    "api_name": "prizm"
+    "id": "prizm"
   },
   "Q2C": {
     "name": "QubitCoin",
-    "api_name": "qubitcoin"
+    "id": "qubitcoin"
   },
   "QASH": {
     "name": "QASH",
-    "api_name": "qash"
+    "id": "qash"
   },
   "QAU": {
     "name": "Quantum",
-    "api_name": "quantum"
+    "id": "quantum"
   },
   "QBC": {
     "name": "Quebecoin",
-    "api_name": "quebecoin"
+    "id": "quebecoin"
   },
   "QBIC": {
     "name": "Qbic",
-    "api_name": "qbic"
+    "id": "qbic"
   },
   "QBT": [
     {
       "name": "Qbao",
-      "api_name": "qbao"
+      "id": "qbao"
     },
     {
       "name": "Cubits",
-      "api_name": "cubits"
+      "id": "cubits"
     }
   ],
   "QCN": {
     "name": "QuazarCoin",
-    "api_name": "quazarcoin"
+    "id": "quazarcoin"
   },
   "QLC": {
     "name": "QLINK",
-    "api_name": "qlink"
+    "id": "qlink"
   },
   "QORA": {
     "name": "Qora",
-    "api_name": "qora"
+    "id": "qora"
   },
   "QRK": {
     "name": "Quark",
-    "api_name": "quark"
+    "id": "quark"
   },
   "QRL": {
     "name": "Quantum Resistant Ledger",
-    "api_name": "quantum-resistant-ledger"
+    "id": "quantum-resistant-ledger"
   },
   "QSP": {
     "name": "Quantstamp",
-    "api_name": "quantstamp"
+    "id": "quantstamp"
   },
   "QTL": {
     "name": "Quatloo",
-    "api_name": "quatloo"
+    "id": "quatloo"
   },
   "QTUM": {
     "name": "Qtum",
-    "api_name": "qtum"
+    "id": "qtum"
   },
   "QUBE": {
     "name": "Qube",
-    "api_name": "qube"
+    "id": "qube"
   },
   "QUN": {
     "name": "QunQun",
-    "api_name": "qunqun"
+    "id": "qunqun"
   },
   "QVT": {
     "name": "Qvolta",
-    "api_name": "qvolta"
+    "id": "qvolta"
   },
   "QWARK": {
     "name": "Qwark",
-    "api_name": "qwark"
+    "id": "qwark"
   },
   "R": {
     "name": "Revain",
-    "api_name": "revain"
+    "id": "revain"
   },
   "RADS": {
     "name": "Radium",
-    "api_name": "radium"
+    "id": "radium"
   },
   "RAIN": {
     "name": "Condensate",
-    "api_name": "condensate"
+    "id": "condensate"
   },
   "RBBT": {
     "name": "RabbitCoin",
-    "api_name": "rabbitcoin"
+    "id": "rabbitcoin"
   },
   "RBIES": {
     "name": "Rubies",
-    "api_name": "rubies"
+    "id": "rubies"
   },
   "RBT": {
     "name": "Rimbit",
-    "api_name": "rimbit"
+    "id": "rimbit"
   },
   "RBX": {
     "name": "Ripto Bux",
-    "api_name": "ripto-bux"
+    "id": "ripto-bux"
   },
   "RBY": {
     "name": "Rubycoin",
-    "api_name": "rubycoin"
+    "id": "rubycoin"
   },
   "RC": {
     "name": "RussiaCoin",
-    "api_name": "russiacoin"
+    "id": "russiacoin"
   },
   "RCN": [
     {
       "name": "Ripio Credit Network",
-      "api_name": "ripio-credit-network"
+      "id": "ripio-credit-network"
     },
     {
       "name": "Rcoin",
-      "api_name": "rcoin"
+      "id": "rcoin"
     }
   ],
   "RCT": {
     "name": "RealChain",
-    "api_name": "realchain"
+    "id": "realchain"
   },
   "RDD": {
     "name": "ReddCoin",
-    "api_name": "reddcoin"
+    "id": "reddcoin"
   },
   "RDN": {
     "name": "Raiden Network Token",
-    "api_name": "raiden-network-token"
+    "id": "raiden-network-token"
   },
   "READ": {
     "name": "Read",
-    "api_name": "read"
+    "id": "read"
   },
   "REAL": {
     "name": "REAL",
-    "api_name": "real"
+    "id": "real"
   },
   "REBL": {
     "name": "REBL",
-    "api_name": "rebl"
+    "id": "rebl"
   },
   "REC": {
     "name": "Regalcoin",
-    "api_name": "regalcoin"
+    "id": "regalcoin"
   },
   "RED": {
     "name": "RedCoin",
-    "api_name": "redcoin"
+    "id": "redcoin"
   },
   "REE": {
     "name": "ReeCoin",
-    "api_name": "reecoin"
+    "id": "reecoin"
   },
   "REF": {
     "name": "RefToken",
-    "api_name": "reftoken"
+    "id": "reftoken"
   },
   "REGA": {
     "name": "Regacoin",
-    "api_name": "regacoin"
+    "id": "regacoin"
   },
   "REM": {
     "name": "Remme",
-    "api_name": "remme"
+    "id": "remme"
   },
   "REN": {
     "name": "Republic Protocol",
-    "api_name": "republic-protocol"
+    "id": "republic-protocol"
   },
   "REP": {
     "name": "Augur",
-    "api_name": "augur"
+    "id": "augur"
   },
   "REQ": {
     "name": "Request Network",
-    "api_name": "request-network"
+    "id": "request-network"
   },
   "REX": {
     "name": "REX",
-    "api_name": "real-estate-tokens"
+    "id": "real-estate-tokens"
   },
   "RFR": {
     "name": "Refereum",
-    "api_name": "refereum"
+    "id": "refereum"
   },
   "RHFC": {
     "name": "RHFCoin",
-    "api_name": "rhfcoin"
+    "id": "rhfcoin"
   },
   "RHOC": {
     "name": "RChain",
-    "api_name": "rchain"
+    "id": "rchain"
   },
   "RIC": {
     "name": "Riecoin",
-    "api_name": "riecoin"
+    "id": "riecoin"
   },
   "RICHX": {
     "name": "RichCoin",
-    "api_name": "richcoin"
+    "id": "richcoin"
   },
   "RIDE": {
     "name": "Ride My Car",
-    "api_name": "ride-my-car"
+    "id": "ride-my-car"
   },
   "RISE": {
     "name": "Rise",
-    "api_name": "rise"
+    "id": "rise"
   },
   "RIYA": {
     "name": "Etheriya",
-    "api_name": "etheriya"
+    "id": "etheriya"
   },
   "RKC": {
     "name": "Royal Kingdom Coin",
-    "api_name": "royal-kingdom-coin"
+    "id": "royal-kingdom-coin"
   },
   "RKT": {
     "name": "Rock",
-    "api_name": "rock"
+    "id": "rock"
   },
   "RLC": {
     "name": "iExec RLC",
-    "api_name": "rlc"
+    "id": "rlc"
   },
   "RLT": {
     "name": "RouletteToken",
-    "api_name": "roulettetoken"
+    "id": "roulettetoken"
   },
   "RMC": [
     {
       "name": "Russian Miner Coin",
-      "api_name": "russian-mining-coin"
+      "id": "russian-mining-coin"
     },
     {
       "name": "Remicoin",
-      "api_name": "remicoin"
+      "id": "remicoin"
     }
   ],
   "RMT": {
     "name": "SureRemit",
-    "api_name": "sureremit"
+    "id": "sureremit"
   },
   "RNS": {
     "name": "Renos",
-    "api_name": "renos"
+    "id": "renos"
   },
   "RNT": {
     "name": "OneRoot Network",
-    "api_name": "oneroot-network"
+    "id": "oneroot-network"
   },
   "RNTB": {
     "name": "BitRent",
-    "api_name": "bitrent"
+    "id": "bitrent"
   },
   "ROOFS": {
     "name": "Roofs",
-    "api_name": "roofs"
+    "id": "roofs"
   },
   "ROYAL": {
     "name": "RoyalCoin",
-    "api_name": "royalcoin"
+    "id": "royalcoin"
   },
   "RPC": {
     "name": "RonPaulCoin",
-    "api_name": "ronpaulcoin"
+    "id": "ronpaulcoin"
   },
   "RPX": {
     "name": "Red Pulse",
-    "api_name": "red-pulse"
+    "id": "red-pulse"
   },
   "RSGP": {
     "name": "RSGPcoin",
-    "api_name": "rsgpcoin"
+    "id": "rsgpcoin"
   },
   "RUBIT": {
     "name": "RubleBit",
-    "api_name": "rublebit"
+    "id": "rublebit"
   },
   "RUFF": {
     "name": "Ruff",
-    "api_name": "ruff"
+    "id": "ruff"
   },
   "RUNNERS": {
     "name": "Runners",
-    "api_name": "runners"
+    "id": "runners"
   },
   "RUP": {
     "name": "Rupee",
-    "api_name": "rupee"
+    "id": "rupee"
   },
   "RUPX": {
     "name": "Rupaya",
-    "api_name": "rupaya"
+    "id": "rupaya"
   },
   "RVN": {
     "name": "Ravencoin",
-    "api_name": "ravencoin"
+    "id": "ravencoin"
   },
   "RVR": {
     "name": "RevolutionVR",
-    "api_name": "revolutionvr"
+    "id": "revolutionvr"
   },
   "RVT": {
     "name": "Rivetz",
-    "api_name": "rivetz"
+    "id": "rivetz"
   },
   "RYZ": {
     "name": "ANRYZE",
-    "api_name": "anryze"
+    "id": "anryze"
   },
   "SAFEX": {
     "name": "Safe Exchange Coin",
-    "api_name": "safe-exchange-coin"
+    "id": "safe-exchange-coin"
   },
   "SAGA": {
     "name": "SagaCoin",
-    "api_name": "sagacoin"
+    "id": "sagacoin"
   },
   "SAK": {
     "name": "Sharkcoin",
-    "api_name": "sharkcoin"
+    "id": "sharkcoin"
   },
   "SALT": {
     "name": "SALT",
-    "api_name": "salt"
+    "id": "salt"
   },
   "SAN": {
     "name": "Santiment Network Token",
-    "api_name": "santiment"
+    "id": "santiment"
   },
   "SANDG": {
     "name": "Save and Gain",
-    "api_name": "save-and-gain"
+    "id": "save-and-gain"
   },
   "SBC": {
     "name": "StrikeBitClub",
-    "api_name": "strikebitclub"
+    "id": "strikebitclub"
   },
   "SBD": {
     "name": "Steem Dollars",
-    "api_name": "steem-dollars"
+    "id": "steem-dollars"
   },
   "SBTC": {
     "name": "Super Bitcoin",
-    "api_name": "super-bitcoin"
+    "id": "super-bitcoin"
   },
   "SC": {
     "name": "Siacoin",
-    "api_name": "siacoin"
+    "id": "siacoin"
   },
   "SCC": {
     "name": "StockChain",
-    "api_name": "stockchain"
+    "id": "stockchain"
   },
   "SCL": {
     "name": "Sociall",
-    "api_name": "sociall"
+    "id": "sociall"
   },
   "SCORE": {
     "name": "Scorecoin",
-    "api_name": "scorecoin"
+    "id": "scorecoin"
   },
   "SCRT": {
     "name": "SecretCoin",
-    "api_name": "secretcoin"
+    "id": "secretcoin"
   },
   "SCS": {
     "name": "Speedcash",
-    "api_name": "speedcash"
+    "id": "speedcash"
   },
   "SCT": {
     "name": "Soma",
-    "api_name": "soma"
+    "id": "soma"
   },
   "SDC": {
     "name": "ShadowCash",
-    "api_name": "shadowcash"
+    "id": "shadowcash"
   },
   "SDP": {
     "name": "SydPak",
-    "api_name": "sydpak"
+    "id": "sydpak"
   },
   "SDRN": {
     "name": "Senderon",
-    "api_name": "senderon"
+    "id": "senderon"
   },
   "SEN": {
     "name": "Consensus",
-    "api_name": "consensus"
+    "id": "consensus"
   },
   "SENC": {
     "name": "Sentinel Chain",
-    "api_name": "sentinel-chain"
+    "id": "sentinel-chain"
   },
   "SEND": {
     "name": "Social Send",
-    "api_name": "social-send"
+    "id": "social-send"
   },
   "SENSE": {
     "name": "Sense",
-    "api_name": "sense"
+    "id": "sense"
   },
   "SEQ": {
     "name": "Sequence",
-    "api_name": "sequence"
+    "id": "sequence"
   },
   "SETH": {
     "name": "Sether",
-    "api_name": "sether"
+    "id": "sether"
   },
   "SEXC": {
     "name": "ShareX",
-    "api_name": "sharex"
+    "id": "sharex"
   },
   "SFC": {
     "name": "Solarflarecoin",
-    "api_name": "solarflarecoin"
+    "id": "solarflarecoin"
   },
   "SFE": {
     "name": "SafeCoin",
-    "api_name": "safecoin"
+    "id": "safecoin"
   },
   "SGR": {
     "name": "Sugar Exchange",
-    "api_name": "sugar-exchange"
+    "id": "sugar-exchange"
   },
   "SH": {
     "name": "Shilling",
-    "api_name": "shilling"
+    "id": "shilling"
   },
   "SHA": {
     "name": "SHACoin",
-    "api_name": "shacoin"
+    "id": "shacoin"
   },
   "SHDW": {
     "name": "Shadow Token",
-    "api_name": "shadow-token"
+    "id": "shadow-token"
   },
   "SHELL": {
     "name": "ShellCoin",
-    "api_name": "shellcoin"
+    "id": "shellcoin"
   },
   "SHIFT": {
     "name": "Shift",
-    "api_name": "shift"
+    "id": "shift"
   },
   "SHIP": {
     "name": "ShipChain",
-    "api_name": "shipchain"
+    "id": "shipchain"
   },
   "SHND": {
     "name": "StrongHands",
-    "api_name": "stronghands"
+    "id": "stronghands"
   },
   "SHORTY": {
     "name": "Shorty",
-    "api_name": "shorty"
+    "id": "shorty"
   },
   "SHOW": {
     "name": "Show",
-    "api_name": "show"
+    "id": "show"
   },
   "SHP": {
     "name": "Sharpe Platform Token",
-    "api_name": "sharpe-platform-token"
+    "id": "sharpe-platform-token"
   },
   "SIB": {
     "name": "SIBCoin",
-    "api_name": "sibcoin"
+    "id": "sibcoin"
   },
   "SIC": {
     "name": "Swisscoin",
-    "api_name": "swisscoin"
+    "id": "swisscoin"
   },
   "SIG": {
     "name": "Signal Token",
-    "api_name": "signal-token"
+    "id": "signal-token"
   },
   "SIGMA": {
     "name": "SIGMAcoin",
-    "api_name": "sigmacoin"
+    "id": "sigmacoin"
   },
   "SIGT": {
     "name": "Signatum",
-    "api_name": "signatum"
+    "id": "signatum"
   },
   "SISA": {
     "name": "SISA",
-    "api_name": "sisa"
+    "id": "sisa"
   },
   "SJCX": {
     "name": "Storjcoin X",
-    "api_name": "storjcoin-x"
+    "id": "storjcoin-x"
   },
   "SJW": {
     "name": "SJWCoin",
-    "api_name": "sjwcoin"
+    "id": "sjwcoin"
   },
   "SKC": {
     "name": "Skeincoin",
-    "api_name": "skeincoin"
+    "id": "skeincoin"
   },
   "SKIN": {
     "name": "SkinCoin",
-    "api_name": "skincoin"
+    "id": "skincoin"
   },
   "SKR": {
     "name": "Sakuracoin",
-    "api_name": "sakuracoin"
+    "id": "sakuracoin"
   },
   "SKULL": {
     "name": "Pirate Blocks",
-    "api_name": "pirate-blocks"
+    "id": "pirate-blocks"
   },
   "SKY": {
     "name": "Skycoin",
-    "api_name": "skycoin"
+    "id": "skycoin"
   },
   "SLEVIN": {
     "name": "Slevin",
-    "api_name": "slevin"
+    "id": "slevin"
   },
   "SLFI": {
     "name": "Selfiecoin",
-    "api_name": "selfiecoin"
+    "id": "selfiecoin"
   },
   "SLG": {
     "name": "Sterlingcoin",
-    "api_name": "sterlingcoin"
+    "id": "sterlingcoin"
   },
   "SLOTH": {
     "name": "Slothcoin",
-    "api_name": "slothcoin"
+    "id": "slothcoin"
   },
   "SLR": {
     "name": "SolarCoin",
-    "api_name": "solarcoin"
+    "id": "solarcoin"
   },
   "SLS": {
     "name": "SaluS",
-    "api_name": "salus"
+    "id": "salus"
   },
   "SLT": {
     "name": "Smartlands",
-    "api_name": "smartlands"
+    "id": "smartlands"
   },
   "SMART": {
     "name": "SmartCash",
-    "api_name": "smartcash"
+    "id": "smartcash"
   },
   "SMC": {
     "name": "SmartCoin",
-    "api_name": "smartcoin"
+    "id": "smartcoin"
   },
   "SMLY": {
     "name": "SmileyCoin",
-    "api_name": "smileycoin"
+    "id": "smileycoin"
   },
   "SMOKE": {
     "name": "Smoke",
-    "api_name": "smoke"
+    "id": "smoke"
   },
   "SMS": {
     "name": "Speed Mining Service",
-    "api_name": "speed-mining-service"
+    "id": "speed-mining-service"
   },
   "SMT": {
     "name": "SmartMesh",
-    "api_name": "smartmesh"
+    "id": "smartmesh"
   },
   "SNAKE": {
     "name": "SnakeEyes",
-    "api_name": "snakeeyes"
+    "id": "snakeeyes"
   },
   "SNC": {
     "name": "SunContract",
-    "api_name": "suncontract"
+    "id": "suncontract"
   },
   "SND": {
     "name": "Sand Coin",
-    "api_name": "sand-coin"
+    "id": "sand-coin"
   },
   "SNGLS": {
     "name": "SingularDTV",
-    "api_name": "singulardtv"
+    "id": "singulardtv"
   },
   "SNM": {
     "name": "SONM",
-    "api_name": "sonm"
+    "id": "sonm"
   },
   "SNOV": {
     "name": "Snovio",
-    "api_name": "snovio"
+    "id": "snovio"
   },
   "SNRG": {
     "name": "Synergy",
-    "api_name": "synergy"
+    "id": "synergy"
   },
   "SNT": {
     "name": "Status",
-    "api_name": "status"
+    "id": "status"
   },
   "SOAR": {
     "name": "Soarcoin",
-    "api_name": "soarcoin"
+    "id": "soarcoin"
   },
   "SOC": {
     "name": "All Sports",
-    "api_name": "all-sports"
+    "id": "all-sports"
   },
   "SOCC": {
     "name": "SocialCoin",
-    "api_name": "socialcoin-socc"
+    "id": "socialcoin-socc"
   },
   "SOIL": {
     "name": "SOILcoin",
-    "api_name": "soilcoin"
+    "id": "soilcoin"
   },
   "SOJ": {
     "name": "Sojourn",
-    "api_name": "sojourn"
+    "id": "sojourn"
   },
   "SONG": {
     "name": "SongCoin",
-    "api_name": "songcoin"
+    "id": "songcoin"
   },
   "SOON": {
     "name": "SoonCoin",
-    "api_name": "sooncoin"
+    "id": "sooncoin"
   },
   "SPACE": {
     "name": "SpaceCoin",
-    "api_name": "spacecoin"
+    "id": "spacecoin"
   },
   "SPANK": {
     "name": "SpankChain",
-    "api_name": "spankchain"
+    "id": "spankchain"
   },
   "SPC": {
     "name": "SpaceChain",
-    "api_name": "spacechain"
+    "id": "spacechain"
   },
   "SPD": {
     "name": "Stipend",
-    "api_name": "stipend"
+    "id": "stipend"
   },
   "SPEX": {
     "name": "SproutsExtreme",
-    "api_name": "sproutsextreme"
+    "id": "sproutsextreme"
   },
   "SPF": {
     "name": "SportyCo",
-    "api_name": "sportyco"
+    "id": "sportyco"
   },
   "SPHR": {
     "name": "Sphere",
-    "api_name": "sphere"
+    "id": "sphere"
   },
   "SPHTX": {
     "name": "SophiaTX",
-    "api_name": "sophiatx"
+    "id": "sophiatx"
   },
   "SPK": {
     "name": "Sparks",
-    "api_name": "sparks"
+    "id": "sparks"
   },
   "SPORT": {
     "name": "SportsCoin",
-    "api_name": "sportscoin"
+    "id": "sportscoin"
   },
   "SPR": {
     "name": "SpreadCoin",
-    "api_name": "spreadcoin"
+    "id": "spreadcoin"
   },
   "SPRTS": {
     "name": "Sprouts",
-    "api_name": "sprouts"
+    "id": "sprouts"
   },
   "SPT": {
     "name": "Spots",
-    "api_name": "spots"
+    "id": "spots"
   },
   "SRC": {
     "name": "SecureCoin",
-    "api_name": "securecoin"
+    "id": "securecoin"
   },
   "SRN": {
     "name": "SIRIN LABS Token",
-    "api_name": "sirin-labs-token"
+    "id": "sirin-labs-token"
   },
   "SSC": {
     "name": "SelfSell",
-    "api_name": "selfsell"
+    "id": "selfsell"
   },
   "SSS": {
     "name": "Sharechain",
-    "api_name": "sharechain"
+    "id": "sharechain"
   },
   "STA": {
     "name": "Starta",
-    "api_name": "starta"
+    "id": "starta"
   },
   "STAC": {
     "name": "StarterCoin",
-    "api_name": "startercoin"
+    "id": "startercoin"
   },
   "STAK": {
     "name": "STRAKS",
-    "api_name": "straks"
+    "id": "straks"
   },
   "STAR": {
     "name": "Starbase",
-    "api_name": "starbase"
+    "id": "starbase"
   },
   "STARS": {
     "name": "StarCash Network",
-    "api_name": "starcash-network"
+    "id": "starcash-network"
   },
   "START": {
     "name": "Startcoin",
-    "api_name": "startcoin"
+    "id": "startcoin"
   },
   "STC": {
     "name": "StarChain",
-    "api_name": "starchain"
+    "id": "starchain"
   },
   "STEEM": {
     "name": "Steem",
-    "api_name": "steem"
+    "id": "steem"
   },
   "STEPS": {
     "name": "Steps",
-    "api_name": "steps"
+    "id": "steps"
   },
   "STEX": {
     "name": "STEX",
-    "api_name": "stex"
+    "id": "stex"
   },
   "STK": {
     "name": "STK",
-    "api_name": "stk"
+    "id": "stk"
   },
   "STN": {
     "name": "Steneum Coin",
-    "api_name": "steneum-coin"
+    "id": "steneum-coin"
   },
   "STORJ": {
     "name": "Storj",
-    "api_name": "storj"
+    "id": "storj"
   },
   "STORM": {
     "name": "Storm",
-    "api_name": "storm"
+    "id": "storm"
   },
   "STQ": {
     "name": "Storiqa",
-    "api_name": "storiqa"
+    "id": "storiqa"
   },
   "STRAT": {
     "name": "Stratis",
-    "api_name": "stratis"
+    "id": "stratis"
   },
   "STRC": {
     "name": "StarCredits",
-    "api_name": "starcredits"
+    "id": "starcredits"
   },
   "STU": {
     "name": "bitJob",
-    "api_name": "student-coin"
+    "id": "student-coin"
   },
   "STV": {
     "name": "Sativacoin",
-    "api_name": "sativacoin"
+    "id": "sativacoin"
   },
   "STX": {
     "name": "Stox",
-    "api_name": "stox"
+    "id": "stox"
   },
   "SUB": {
     "name": "Substratum",
-    "api_name": "substratum"
+    "id": "substratum"
   },
   "SUMO": {
     "name": "Sumokoin",
-    "api_name": "sumokoin"
+    "id": "sumokoin"
   },
   "SUP": {
     "name": "Superior Coin",
-    "api_name": "superior-coin"
+    "id": "superior-coin"
   },
   "SUPER": {
     "name": "SuperCoin",
-    "api_name": "supercoin"
+    "id": "supercoin"
   },
   "SUR": {
     "name": "Suretly",
-    "api_name": "suretly"
+    "id": "suretly"
   },
   "SWFTC": {
     "name": "SwftCoin",
-    "api_name": "swftcoin"
+    "id": "swftcoin"
   },
   "SWH": {
     "name": "Switcheo",
-    "api_name": "switcheo"
+    "id": "switcheo"
   },
   "SWIFT": {
     "name": "Bitswift",
-    "api_name": "bitswift"
+    "id": "bitswift"
   },
   "SWING": {
     "name": "Swing",
-    "api_name": "swing"
+    "id": "swing"
   },
   "SWM": {
     "name": "Swarm",
-    "api_name": "swarm-fund"
+    "id": "swarm-fund"
   },
   "SWT": {
     "name": "Swarm City",
-    "api_name": "swarm-city"
+    "id": "swarm-city"
   },
   "SWTC": {
     "name": "Jingtum Tech",
-    "api_name": "jingtum-tech"
+    "id": "jingtum-tech"
   },
   "SXC": {
     "name": "Sexcoin",
-    "api_name": "sexcoin"
+    "id": "sexcoin"
   },
   "SXDT": {
     "name": "Spectre.ai Dividend Token",
-    "api_name": "spectre-dividend"
+    "id": "spectre-dividend"
   },
   "SXUT": {
     "name": "Spectre.ai Utility Token",
-    "api_name": "spectre-utility"
+    "id": "spectre-utility"
   },
   "SYNX": {
     "name": "Syndicate",
-    "api_name": "syndicate"
+    "id": "syndicate"
   },
   "SYS": {
     "name": "Syscoin",
-    "api_name": "syscoin"
+    "id": "syscoin"
   },
   "TAAS": {
     "name": "TaaS",
-    "api_name": "taas"
+    "id": "taas"
   },
   "TAG": {
     "name": "TagCoin",
-    "api_name": "tagcoin"
+    "id": "tagcoin"
   },
   "TAGR": {
     "name": "TAGRcoin",
-    "api_name": "tagrcoin"
+    "id": "tagrcoin"
   },
   "TAJ": {
     "name": "TajCoin",
-    "api_name": "tajcoin"
+    "id": "tajcoin"
   },
   "TALK": {
     "name": "BTCtalkcoin",
-    "api_name": "btctalkcoin"
+    "id": "btctalkcoin"
   },
   "TAU": {
     "name": "Lamden",
-    "api_name": "lamden"
+    "id": "lamden"
   },
   "TBAR": {
     "name": "Titanium BAR",
-    "api_name": "titanium-bar"
+    "id": "titanium-bar"
   },
   "TBX": {
     "name": "Tokenbox",
-    "api_name": "tokenbox"
+    "id": "tokenbox"
   },
   "TCC": {
     "name": "The ChampCoin",
-    "api_name": "the-champcoin"
+    "id": "the-champcoin"
   },
   "TCOIN": {
     "name": "T-coin",
-    "api_name": "t-coin"
+    "id": "t-coin"
   },
   "TCR": {
     "name": "TheCreed",
-    "api_name": "thecreed"
+    "id": "thecreed"
   },
   "TCT": {
     "name": "TokenClub",
-    "api_name": "tokenclub"
+    "id": "tokenclub"
   },
   "TDX": {
     "name": "Tidex Token",
-    "api_name": "tidex-token"
+    "id": "tidex-token"
   },
   "TEK": {
     "name": "TEKcoin",
-    "api_name": "tekcoin"
+    "id": "tekcoin"
   },
   "TEL": {
     "name": "Telcoin",
-    "api_name": "telcoin"
+    "id": "telcoin"
   },
   "TELL": {
     "name": "Tellurion",
-    "api_name": "tellurion"
+    "id": "tellurion"
   },
   "TEN": {
     "name": "Tokenomy",
-    "api_name": "tokenomy"
+    "id": "tokenomy"
   },
   "TER": {
     "name": "TerraNova",
-    "api_name": "terranova"
+    "id": "terranova"
   },
   "TES": {
     "name": "TeslaCoin",
-    "api_name": "teslacoin"
+    "id": "teslacoin"
   },
   "TESLA": {
     "name": "TeslaCoilCoin",
-    "api_name": "teslacoilcoin"
+    "id": "teslacoilcoin"
   },
   "TFD": {
     "name": "TE-FOOD",
-    "api_name": "te-food"
+    "id": "te-food"
   },
   "TFL": {
     "name": "TrueFlip",
-    "api_name": "trueflip"
+    "id": "trueflip"
   },
   "TGC": {
     "name": "Tigercoin",
-    "api_name": "tigercoin"
+    "id": "tigercoin"
   },
   "TGT": {
     "name": "Target Coin",
-    "api_name": "target-coin"
+    "id": "target-coin"
   },
   "THC": {
     "name": "HempCoin",
-    "api_name": "hempcoin"
+    "id": "hempcoin"
   },
   "THETA": {
     "name": "Theta Token",
-    "api_name": "theta-token"
+    "id": "theta-token"
   },
   "THS": {
     "name": "TechShares",
-    "api_name": "techshares"
+    "id": "techshares"
   },
   "TIE": {
     "name": "Ties.DB",
-    "api_name": "tiesdb"
+    "id": "tiesdb"
   },
   "TIG": {
     "name": "Tigereum",
-    "api_name": "tigereum"
+    "id": "tigereum"
   },
   "TIME": {
     "name": "Chronobank",
-    "api_name": "chronobank"
+    "id": "chronobank"
   },
   "TIO": {
     "name": "Trade Token",
-    "api_name": "trade-token"
+    "id": "trade-token"
   },
   "TIPS": {
     "name": "FedoraCoin",
-    "api_name": "fedoracoin"
+    "id": "fedoracoin"
   },
   "TIT": {
     "name": "Titcoin",
-    "api_name": "titcoin"
+    "id": "titcoin"
   },
   "TIX": {
     "name": "Blocktix",
-    "api_name": "blocktix"
+    "id": "blocktix"
   },
   "TKN": {
     "name": "TokenCard",
-    "api_name": "tokencard"
+    "id": "tokencard"
   },
   "TKR": {
     "name": "CryptoInsight",
-    "api_name": "trackr"
+    "id": "trackr"
   },
   "TKS": {
     "name": "Tokes",
-    "api_name": "tokes"
+    "id": "tokes"
   },
   "TKY": {
     "name": "THEKEY",
-    "api_name": "thekey"
+    "id": "thekey"
   },
   "TLE": {
     "name": "Tattoocoin (Limited Edition)",
-    "api_name": "tattoocoin-limited"
+    "id": "tattoocoin-limited"
   },
   "TMC": {
     "name": "TimesCoin",
-    "api_name": "timescoin"
+    "id": "timescoin"
   },
   "TNB": {
     "name": "Time New Bank",
-    "api_name": "time-new-bank"
+    "id": "time-new-bank"
   },
   "TNC": {
     "name": "Trinity Network Credit",
-    "api_name": "trinity-network-credit"
+    "id": "trinity-network-credit"
   },
   "TNT": {
     "name": "Tierion",
-    "api_name": "tierion"
+    "id": "tierion"
   },
   "TOA": {
     "name": "ToaCoin",
-    "api_name": "toacoin"
+    "id": "toacoin"
   },
   "TODAY": {
     "name": "TodayCoin",
-    "api_name": "todaycoin"
+    "id": "todaycoin"
   },
   "TOK": {
     "name": "Tokugawa",
-    "api_name": "tokugawa"
+    "id": "tokugawa"
   },
   "TOKC": {
     "name": "TOKYO",
-    "api_name": "tokyo"
+    "id": "tokyo"
   },
   "TOMO": {
     "name": "TomoChain",
-    "api_name": "tomochain"
+    "id": "tomochain"
   },
   "TOP": {
     "name": "TopCoin",
-    "api_name": "topcoin"
+    "id": "topcoin"
   },
   "TOPAZ": {
     "name": "Topaz Coin",
-    "api_name": "topaz"
+    "id": "topaz"
   },
   "TOPC": {
     "name": "TopChain",
-    "api_name": "topchain"
+    "id": "topchain"
   },
   "TOR": {
     "name": "Torcoin",
-    "api_name": "torcoin-tor"
+    "id": "torcoin-tor"
   },
   "TPAY": {
     "name": "TokenPay",
-    "api_name": "tokenpay"
+    "id": "tokenpay"
   },
   "TRAC": {
     "name": "OriginTrail",
-    "api_name": "origintrail"
+    "id": "origintrail"
   },
   "TRC": {
     "name": "Terracoin",
-    "api_name": "terracoin"
+    "id": "terracoin"
   },
   "TRCT": {
     "name": "Tracto",
-    "api_name": "tracto"
+    "id": "tracto"
   },
   "TRDT": {
     "name": "Trident Group",
-    "api_name": "trident"
+    "id": "trident"
   },
   "TRF": {
     "name": "Travelflex",
-    "api_name": "travelflex"
+    "id": "travelflex"
   },
   "TRI": {
     "name": "Triangles",
-    "api_name": "triangles"
+    "id": "triangles"
   },
   "TRIA": {
     "name": "Triaconta",
-    "api_name": "triaconta"
+    "id": "triaconta"
   },
   "TRICK": {
     "name": "TrickyCoin",
-    "api_name": "trickycoin"
+    "id": "trickycoin"
   },
   "TRIG": {
     "name": "Triggers",
-    "api_name": "triggers"
+    "id": "triggers"
   },
   "TRK": {
     "name": "Truckcoin",
-    "api_name": "truckcoin"
+    "id": "truckcoin"
   },
   "TROLL": {
     "name": "Trollcoin",
-    "api_name": "trollcoin"
+    "id": "trollcoin"
   },
   "TRST": {
     "name": "WeTrust",
-    "api_name": "trust"
+    "id": "trust"
   },
   "TRUE": {
     "name": "True Chain",
-    "api_name": "true-chain"
+    "id": "true-chain"
   },
   "TRUMP": {
     "name": "TrumpCoin",
-    "api_name": "trumpcoin"
+    "id": "trumpcoin"
   },
   "TRUST": {
     "name": "TrustPlus",
-    "api_name": "trustplus"
+    "id": "trustplus"
   },
   "TRX": {
     "name": "TRON",
-    "api_name": "tron"
+    "id": "tron"
   },
   "TSE": {
     "name": "Tattoocoin (Standard Edition)",
-    "api_name": "tattoocoin"
+    "id": "tattoocoin"
   },
   "TSL": {
     "name": "Energo",
-    "api_name": "energo"
+    "id": "energo"
   },
   "TSTR": {
     "name": "Tristar Coin",
-    "api_name": "tristar-coin"
+    "id": "tristar-coin"
   },
   "TTC": {
     "name": "TittieCoin",
-    "api_name": "tittiecoin"
+    "id": "tittiecoin"
   },
   "TURBO": {
     "name": "TurboCoin",
-    "api_name": "turbocoin"
+    "id": "turbocoin"
   },
   "TUSD": {
     "name": "True USD",
-    "api_name": "true-usd"
+    "id": "true-usd"
   },
   "TX": {
     "name": "TransferCoin",
-    "api_name": "transfercoin"
+    "id": "transfercoin"
   },
   "TZC": {
     "name": "TrezarCoin",
-    "api_name": "trezarcoin"
+    "id": "trezarcoin"
   },
   "UBQ": {
     "name": "Ubiq",
-    "api_name": "ubiq"
+    "id": "ubiq"
   },
   "UBTC": {
     "name": "United Bitcoin",
-    "api_name": "united-bitcoin"
+    "id": "united-bitcoin"
   },
   "UCASH": {
     "name": "U.CASH",
-    "api_name": "ucash"
+    "id": "ucash"
   },
   "UET": {
     "name": "Useless Ethereum Token",
-    "api_name": "useless-ethereum-token"
+    "id": "useless-ethereum-token"
   },
   "UFO": {
     "name": "Uniform Fiscal Object",
-    "api_name": "uniform-fiscal-object"
+    "id": "uniform-fiscal-object"
   },
   "UFR": {
     "name": "Upfiring",
-    "api_name": "upfiring"
+    "id": "upfiring"
   },
   "UGC": {
     "name": "ugChain",
-    "api_name": "ugchain"
+    "id": "ugchain"
   },
   "UGT": {
     "name": "UG Token",
-    "api_name": "ug-token"
+    "id": "ug-token"
   },
   "UIP": {
     "name": "UnlimitedIP",
-    "api_name": "unlimitedip"
+    "id": "unlimitedip"
   },
   "UIS": {
     "name": "Unitus",
-    "api_name": "unitus"
+    "id": "unitus"
   },
   "UKG": {
     "name": "Unikoin Gold",
-    "api_name": "unikoin-gold"
+    "id": "unikoin-gold"
   },
   "ULA": {
     "name": "Ulatech",
-    "api_name": "ulatech"
+    "id": "ulatech"
   },
   "UNB": {
     "name": "UnbreakableCoin",
-    "api_name": "unbreakablecoin"
+    "id": "unbreakablecoin"
   },
   "UNC": {
     "name": "UNCoin",
-    "api_name": "uncoin"
+    "id": "uncoin"
   },
   "UNI": {
     "name": "Universe",
-    "api_name": "universe"
+    "id": "universe"
   },
   "UNIC": {
     "name": "UniCoin",
-    "api_name": "unicoin"
+    "id": "unicoin"
   },
   "UNIFY": {
     "name": "Unify",
-    "api_name": "unify"
+    "id": "unify"
   },
   "UNIT": {
     "name": "Universal Currency",
-    "api_name": "universal-currency"
+    "id": "universal-currency"
   },
   "UNITS": {
     "name": "GameUnits",
-    "api_name": "gameunits"
+    "id": "gameunits"
   },
   "UNITY": {
     "name": "SuperNET",
-    "api_name": "supernet-unity"
+    "id": "supernet-unity"
   },
   "UNO": {
     "name": "Unobtanium",
-    "api_name": "unobtanium"
+    "id": "unobtanium"
   },
   "UNRC": {
     "name": "UniversalRoyalCoin",
-    "api_name": "universalroyalcoin"
+    "id": "universalroyalcoin"
   },
   "UP": {
     "name": "UpToken",
-    "api_name": "uptoken"
+    "id": "uptoken"
   },
   "UQC": {
     "name": "Uquid Coin",
-    "api_name": "uquid-coin"
+    "id": "uquid-coin"
   },
   "UR": {
     "name": "UR",
-    "api_name": "ur"
+    "id": "ur"
   },
   "URO": {
     "name": "Uro",
-    "api_name": "uro"
+    "id": "uro"
   },
   "USC": {
     "name": "Ultimate Secure Cash",
-    "api_name": "ultimate-secure-cash"
+    "id": "ultimate-secure-cash"
   },
   "USDT": {
     "name": "Tether",
-    "api_name": "tether"
+    "id": "tether"
   },
   "USNBT": {
     "name": "NuBits",
-    "api_name": "nubits"
+    "id": "nubits"
   },
   "UTC": {
     "name": "UltraCoin",
-    "api_name": "ultracoin"
+    "id": "ultracoin"
   },
   "UTK": {
     "name": "UTRUST",
-    "api_name": "utrust"
+    "id": "utrust"
   },
   "UTNP": {
     "name": "Universa",
-    "api_name": "universa"
+    "id": "universa"
   },
   "UTT": {
     "name": "United Traders Token",
-    "api_name": "uttoken"
+    "id": "uttoken"
   },
   "V": {
     "name": "Version",
-    "api_name": "version"
+    "id": "version"
   },
   "VAL": {
     "name": "Valorbit",
-    "api_name": "valorbit"
+    "id": "valorbit"
   },
   "VASH": {
     "name": "VPNCoin",
-    "api_name": "vpncoin"
+    "id": "vpncoin"
   },
   "VC": {
     "name": "VirtualCoin",
-    "api_name": "virtualcoin"
+    "id": "virtualcoin"
   },
   "VEC2": {
     "name": "VectorAI",
-    "api_name": "vector"
+    "id": "vector"
   },
   "VEE": {
     "name": "BLOCKv",
-    "api_name": "blockv"
+    "id": "blockv"
   },
   "VEN": {
     "name": "VeChain",
-    "api_name": "vechain"
+    "id": "vechain"
   },
   "VERI": {
     "name": "Veritaseum",
-    "api_name": "veritaseum"
+    "id": "veritaseum"
   },
   "VIA": {
     "name": "Viacoin",
-    "api_name": "viacoin"
+    "id": "viacoin"
   },
   "VIB": {
     "name": "Viberate",
-    "api_name": "viberate"
+    "id": "viberate"
   },
   "VIBE": {
     "name": "VIBE",
-    "api_name": "vibe"
+    "id": "vibe"
   },
   "VIDZ": {
     "name": "PureVidz",
-    "api_name": "purevidz"
+    "id": "purevidz"
   },
   "VIP": {
     "name": "VIP Tokens",
-    "api_name": "vip-tokens"
+    "id": "vip-tokens"
   },
   "VISIO": {
     "name": "Visio",
-    "api_name": "visio"
+    "id": "visio"
   },
   "VIT": {
     "name": "Vice Industry Token",
-    "api_name": "vice-industry-token"
+    "id": "vice-industry-token"
   },
   "VIU": {
     "name": "Viuly",
-    "api_name": "viuly"
+    "id": "viuly"
   },
   "VIVO": {
     "name": "VIVO",
-    "api_name": "vivo"
+    "id": "vivo"
   },
   "VLC": {
     "name": "ValueChain",
-    "api_name": "valuechain"
+    "id": "valuechain"
   },
   "VLT": {
     "name": "Veltor",
-    "api_name": "veltor"
+    "id": "veltor"
   },
   "VLTC": {
     "name": "Vault Coin",
-    "api_name": "vault-coin"
+    "id": "vault-coin"
   },
   "VOISE": {
     "name": "Voise",
-    "api_name": "voisecom"
+    "id": "voisecom"
   },
   "VOLT": {
     "name": "Bitvolt",
-    "api_name": "bitvolt"
+    "id": "bitvolt"
   },
   "VOT": {
     "name": "VoteCoin",
-    "api_name": "votecoin"
+    "id": "votecoin"
   },
   "VPRC": {
     "name": "VapersCoin",
-    "api_name": "vaperscoin"
+    "id": "vaperscoin"
   },
   "VRC": {
     "name": "VeriCoin",
-    "api_name": "vericoin"
+    "id": "vericoin"
   },
   "VRM": {
     "name": "VeriumReserve",
-    "api_name": "veriumreserve"
+    "id": "veriumreserve"
   },
   "VRS": {
     "name": "Veros",
-    "api_name": "veros"
+    "id": "veros"
   },
   "VSL": {
     "name": "vSlice",
-    "api_name": "vslice"
+    "id": "vslice"
   },
   "VSX": {
     "name": "Vsync",
-    "api_name": "vsync-vsx"
+    "id": "vsync-vsx"
   },
   "VTA": {
     "name": "Virtacoin",
-    "api_name": "virtacoin"
+    "id": "virtacoin"
   },
   "VTC": {
     "name": "Vertcoin",
-    "api_name": "vertcoin"
+    "id": "vertcoin"
   },
   "VTR": {
     "name": "vTorrent",
-    "api_name": "vtorrent"
+    "id": "vtorrent"
   },
   "VUC": {
     "name": "Virta Unique Coin",
-    "api_name": "virta-unique-coin"
+    "id": "virta-unique-coin"
   },
   "VULC": {
     "name": "Vulcano",
-    "api_name": "vulcano"
+    "id": "vulcano"
   },
   "VZT": {
     "name": "Vezt",
-    "api_name": "vezt"
+    "id": "vezt"
   },
   "W3C": {
     "name": "W3Coin",
-    "api_name": "w3coin"
+    "id": "w3coin"
   },
   "WA": {
     "name": "WA Space",
-    "api_name": "wa-space"
+    "id": "wa-space"
   },
   "WABI": {
     "name": "WaBi",
-    "api_name": "wabi"
+    "id": "wabi"
   },
   "WAN": {
     "name": "Wanchain",
-    "api_name": "wanchain"
+    "id": "wanchain"
   },
   "WAND": {
     "name": "WandX",
-    "api_name": "wandx"
+    "id": "wandx"
   },
   "WARP": {
     "name": "WARP",
-    "api_name": "warp"
+    "id": "warp"
   },
   "WAVES": {
     "name": "Waves",
-    "api_name": "waves"
+    "id": "waves"
   },
   "WAX": {
     "name": "WAX",
-    "api_name": "wax"
+    "id": "wax"
   },
   "WBB": {
     "name": "Wild Beast Block",
-    "api_name": "wild-beast-block"
+    "id": "wild-beast-block"
   },
   "WC": {
     "name": "WINCOIN",
-    "api_name": "win-coin"
+    "id": "win-coin"
   },
   "WCT": {
     "name": "Waves Community Token",
-    "api_name": "waves-community-token"
+    "id": "waves-community-token"
   },
   "WDC": {
     "name": "WorldCoin",
-    "api_name": "worldcoin"
+    "id": "worldcoin"
   },
   "WETH": {
     "name": "WETH",
-    "api_name": "weth"
+    "id": "weth"
   },
   "WGO": {
     "name": "WavesGo",
-    "api_name": "wavesgo"
+    "id": "wavesgo"
   },
   "WGR": {
     "name": "Wagerr",
-    "api_name": "wagerr"
+    "id": "wagerr"
   },
   "WHL": {
     "name": "WhaleCoin",
-    "api_name": "whalecoin"
+    "id": "whalecoin"
   },
   "WIC": [
     {
       "name": "WaykiChain",
-      "api_name": "waykichain"
+      "id": "waykichain"
     },
     {
       "name": "Wi Coin",
-      "api_name": "wi-coin"
+      "id": "wi-coin"
     }
   ],
   "WILD": {
     "name": "Wild Crypto",
-    "api_name": "wild-crypto"
+    "id": "wild-crypto"
   },
   "WINGS": {
     "name": "Wings",
-    "api_name": "wings"
+    "id": "wings"
   },
   "WINK": {
     "name": "Wink",
-    "api_name": "wink"
+    "id": "wink"
   },
   "WISH": {
     "name": "MyWish",
-    "api_name": "mywish"
+    "id": "mywish"
   },
   "WOMEN": {
     "name": "WomenCoin",
-    "api_name": "women"
+    "id": "women"
   },
   "WORM": {
     "name": "HealthyWormCoin",
-    "api_name": "healthywormcoin"
+    "id": "healthywormcoin"
   },
   "WPR": {
     "name": "WePower",
-    "api_name": "wepower"
+    "id": "wepower"
   },
   "WRC": {
     "name": "Worldcore",
-    "api_name": "worldcore"
+    "id": "worldcore"
   },
   "WSX": {
     "name": "WeAreSatoshi",
-    "api_name": "wearesatoshi"
+    "id": "wearesatoshi"
   },
   "WTC": {
     "name": "Waltonchain",
-    "api_name": "waltonchain"
-  },
-  "WTT": {
-    "name": "Giga Watt Token",
-    "api_name": "giga-watt-token"
+    "id": "waltonchain"
   },
   "X2": {
     "name": "X2",
-    "api_name": "x2"
+    "id": "x2"
   },
   "XAS": {
     "name": "Asch",
-    "api_name": "asch"
+    "id": "asch"
   },
   "XAUR": {
     "name": "Xaurum",
-    "api_name": "xaurum"
+    "id": "xaurum"
   },
   "XBC": {
     "name": "Bitcoin Plus",
-    "api_name": "bitcoin-plus"
+    "id": "bitcoin-plus"
   },
   "XBL": {
     "name": "Billionaire Token",
-    "api_name": "billionaire-token"
+    "id": "billionaire-token"
   },
   "XBP": {
     "name": "BlitzPredict",
-    "api_name": "blitzpredict"
+    "id": "blitzpredict"
   },
   "XBTC21": {
     "name": "Bitcoin 21",
-    "api_name": "bitcoin-21"
+    "id": "bitcoin-21"
   },
   "XBTS": {
     "name": "Beatcoin",
-    "api_name": "beatcoin"
+    "id": "beatcoin"
   },
   "XBY": {
     "name": "XTRABYTES",
-    "api_name": "xtrabytes"
+    "id": "xtrabytes"
   },
   "XCN": {
     "name": "Cryptonite",
-    "api_name": "cryptonite"
+    "id": "cryptonite"
   },
   "XCO": {
     "name": "X-Coin",
-    "api_name": "x-coin"
+    "id": "x-coin"
   },
   "XCP": {
     "name": "Counterparty",
-    "api_name": "counterparty"
+    "id": "counterparty"
   },
   "XCPO": {
     "name": "Copico",
-    "api_name": "copico"
+    "id": "copico"
   },
   "XCRE": {
     "name": "Creatio",
-    "api_name": "creatio"
+    "id": "creatio"
   },
   "XCT": {
     "name": "C-Bit",
-    "api_name": "c-bit"
+    "id": "c-bit"
   },
   "XCXT": {
     "name": "CoinonatX",
-    "api_name": "coinonatx"
+    "id": "coinonatx"
   },
   "XDN": {
     "name": "DigitalNote",
-    "api_name": "digitalnote"
+    "id": "digitalnote"
   },
   "XEL": {
     "name": "Elastic",
-    "api_name": "elastic"
+    "id": "elastic"
   },
   "XEM": {
     "name": "NEM",
-    "api_name": "nem"
+    "id": "nem"
   },
   "XFT": {
     "name": "Footy Cash",
-    "api_name": "footy-cash"
+    "id": "footy-cash"
   },
   "XGOX": {
     "name": "XGOX",
-    "api_name": "xgox"
+    "id": "xgox"
   },
   "XHI": {
     "name": "HiCoin",
-    "api_name": "hicoin"
+    "id": "hicoin"
   },
   "XID": [
     {
       "name": "Sphre AIR ",
-      "api_name": "sphre-air"
+      "id": "sphre-air"
     },
     {
       "name": "International Diamond",
-      "api_name": "international-diamond"
+      "id": "international-diamond"
     }
   ],
   "XIN": [
     {
       "name": "Mixin",
-      "api_name": "mixin"
+      "id": "mixin"
     },
     {
       "name": "Infinity Economics",
-      "api_name": "infinity-economics"
+      "id": "infinity-economics"
     }
   ],
   "XIOS": {
     "name": "Xios",
-    "api_name": "xios"
+    "id": "xios"
   },
   "XJO": {
     "name": "Joulecoin",
-    "api_name": "joulecoin"
+    "id": "joulecoin"
   },
   "XLC": {
     "name": "LeviarCoin",
-    "api_name": "leviarcoin"
+    "id": "leviarcoin"
   },
   "XLM": {
     "name": "Stellar",
-    "api_name": "stellar"
+    "id": "stellar"
   },
   "XLR": {
     "name": "Solaris",
-    "api_name": "solaris"
+    "id": "solaris"
   },
   "XMCC": {
     "name": "Monoeci",
-    "api_name": "monacocoin"
+    "id": "monacocoin"
   },
   "XMG": {
     "name": "Magi",
-    "api_name": "magi"
+    "id": "magi"
   },
   "XMR": {
     "name": "Monero",
-    "api_name": "monero"
+    "id": "monero"
   },
   "XMY": {
     "name": "Myriad",
-    "api_name": "myriad"
+    "id": "myriad"
   },
   "XNG": {
     "name": "Enigma",
-    "api_name": "enigma"
+    "id": "enigma"
   },
   "XNK": {
     "name": "Ink Protocol",
-    "api_name": "ink-protocol"
+    "id": "ink-protocol"
   },
   "XNN": {
     "name": "Xenon",
-    "api_name": "xenon"
+    "id": "xenon"
   },
   "XOT": {
     "name": "Internet of Things",
-    "api_name": "internet-of-things"
+    "id": "internet-of-things"
   },
   "XP": {
     "name": "Experience Points",
-    "api_name": "experience-points"
+    "id": "experience-points"
   },
   "XPA": {
     "name": "XPA",
-    "api_name": "xpa"
+    "id": "xpa"
   },
   "XPD": {
     "name": "PetroDollar",
-    "api_name": "petrodollar"
+    "id": "petrodollar"
   },
   "XPM": {
     "name": "Primecoin",
-    "api_name": "primecoin"
+    "id": "primecoin"
   },
   "XPTX": {
     "name": "PlatinumBAR",
-    "api_name": "platinumbar"
+    "id": "platinumbar"
   },
   "XPY": {
     "name": "PayCoin",
-    "api_name": "paycoin2"
+    "id": "paycoin2"
   },
   "XQN": {
     "name": "Quotient",
-    "api_name": "quotient"
+    "id": "quotient"
   },
   "XRA": {
     "name": "Ratecoin",
-    "api_name": "ratecoin"
+    "id": "ratecoin"
   },
   "XRC": {
     "name": "Rawcoin",
-    "api_name": "rawcoin2"
+    "id": "rawcoin2"
   },
   "XRE": {
     "name": "RevolverCoin",
-    "api_name": "revolvercoin"
+    "id": "revolvercoin"
   },
   "XRL": {
     "name": "Rialto",
-    "api_name": "rialto"
+    "id": "rialto"
   },
   "XRP": {
     "name": "Ripple",
-    "api_name": "ripple"
+    "id": "ripple"
   },
   "XRY": {
     "name": "Royalties",
-    "api_name": "royalties"
+    "id": "royalties"
   },
   "XSH": {
     "name": "SHIELD",
-    "api_name": "shield-xsh"
+    "id": "shield-xsh"
   },
   "XSPEC": {
     "name": "Spectrecoin",
-    "api_name": "spectrecoin"
+    "id": "spectrecoin"
   },
   "XST": {
     "name": "Stealthcoin",
-    "api_name": "stealthcoin"
+    "id": "stealthcoin"
   },
   "XSTC": {
     "name": "Safe Trade Coin",
-    "api_name": "safe-trade-coin"
+    "id": "safe-trade-coin"
   },
   "XTD": {
     "name": "XTD Coin",
-    "api_name": "xtd-coin"
+    "id": "xtd-coin"
+  },
+  "XTL": {
+    "name": "Stellite",
+    "id": "stellite"
   },
   "XTO": {
     "name": "Tao",
-    "api_name": "tao"
+    "id": "tao"
   },
   "XTZ": {
     "name": "Tezos (Pre-Launch)",
-    "api_name": "tezos"
+    "id": "tezos"
   },
   "XUC": {
     "name": "Exchange Union",
-    "api_name": "exchange-union"
+    "id": "exchange-union"
   },
   "XVC": {
     "name": "Vcash",
-    "api_name": "vcash"
+    "id": "vcash"
   },
   "XVG": {
     "name": "Verge",
-    "api_name": "verge"
+    "id": "verge"
   },
   "XVP": {
     "name": "Virtacoinplus",
-    "api_name": "virtacoinplus"
+    "id": "virtacoinplus"
   },
   "XWC": {
     "name": "WhiteCoin",
-    "api_name": "whitecoin"
+    "id": "whitecoin"
   },
   "XZC": {
     "name": "ZCoin",
-    "api_name": "zcoin"
+    "id": "zcoin"
   },
   "YAC": {
     "name": "Yacoin",
-    "api_name": "yacoin"
+    "id": "yacoin"
   },
   "YASH": {
     "name": "YashCoin",
-    "api_name": "yashcoin"
+    "id": "yashcoin"
   },
   "YEE": {
     "name": "YEE",
-    "api_name": "yee"
+    "id": "yee"
   },
   "YOC": {
     "name": "Yocoin",
-    "api_name": "yocoin"
+    "id": "yocoin"
   },
   "YOYOW": {
     "name": "YOYOW",
-    "api_name": "yoyow"
+    "id": "yoyow"
   },
   "YTN": {
     "name": "YENTEN",
-    "api_name": "yenten"
+    "id": "yenten"
   },
   "ZAP": {
     "name": "Zap",
-    "api_name": "zap"
+    "id": "zap"
   },
   "ZBC": {
     "name": "Zilbercoin",
-    "api_name": "zilbercoin"
+    "id": "zilbercoin"
   },
   "ZCG": {
     "name": "Zlancer",
-    "api_name": "zcash-gold"
+    "id": "zcash-gold"
   },
   "ZCL": {
     "name": "ZClassic",
-    "api_name": "zclassic"
+    "id": "zclassic"
   },
   "ZEC": {
     "name": "Zcash",
-    "api_name": "zcash"
+    "id": "zcash"
   },
   "ZEIT": {
     "name": "Zeitcoin",
-    "api_name": "zeitcoin"
+    "id": "zeitcoin"
   },
   "ZEN": {
     "name": "ZenCash",
-    "api_name": "zencash"
+    "id": "zencash"
   },
   "ZENGOLD": {
     "name": "ZenGold",
-    "api_name": "zengold"
+    "id": "zengold"
   },
   "ZENI": {
     "name": "Zennies",
-    "api_name": "zennies"
+    "id": "zennies"
   },
   "ZEPH": {
     "name": "Zephyr",
-    "api_name": "zephyr"
+    "id": "zephyr"
   },
   "ZER": {
     "name": "Zero",
-    "api_name": "zero"
+    "id": "zero"
   },
   "ZET": {
     "name": "Zetacoin",
-    "api_name": "zetacoin"
+    "id": "zetacoin"
   },
   "ZIL": {
     "name": "Zilliqa",
-    "api_name": "zilliqa"
+    "id": "zilliqa"
   },
   "ZLA": {
     "name": "Zilla",
-    "api_name": "zilla"
+    "id": "zilla"
   },
   "ZMC": {
     "name": "ZetaMicron",
-    "api_name": "zetamicron"
+    "id": "zetamicron"
   },
   "ZNE": {
     "name": "Zonecoin",
-    "api_name": "zonecoin"
+    "id": "zonecoin"
   },
   "ZNY": {
     "name": "Bitzeny",
-    "api_name": "bitzeny"
+    "id": "bitzeny"
   },
   "ZOI": {
     "name": "Zoin",
-    "api_name": "zoin"
+    "id": "zoin"
   },
   "ZPT": {
     "name": "Zeepin",
-    "api_name": "zeepin"
+    "id": "zeepin"
   },
   "ZRC": {
     "name": "ZrCoin",
-    "api_name": "zrcoin"
+    "id": "zrcoin"
   },
   "ZRX": {
     "name": "0x",
-    "api_name": "0x"
+    "id": "0x"
   },
   "ZSC": {
     "name": "Zeusshield",
-    "api_name": "zeusshield"
+    "id": "zeusshield"
   },
   "ZSE": {
     "name": "ZSEcoin",
-    "api_name": "zsecoin"
+    "id": "zsecoin"
   },
   "ZUR": {
     "name": "Zurcoin",
-    "api_name": "zurcoin"
+    "id": "zurcoin"
   },
   "ZYD": {
     "name": "Zayedcoin",
-    "api_name": "zayedcoin"
+    "id": "zayedcoin"
   },
   "ZZC": {
     "name": "ZoZoCoin",
-    "api_name": "zozocoin"
+    "id": "zozocoin"
   }
 }
