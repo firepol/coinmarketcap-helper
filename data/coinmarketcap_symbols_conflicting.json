@@ -1,0 +1,340 @@
+{
+  "ACC": [
+    {
+      "name": "Accelerator Network",
+      "id": 2225
+    },
+    {
+      "name": "AdCoin",
+      "id": 1915
+    },
+    {
+      "name": "ACChain",
+      "id": 2515
+    }
+  ],
+  "ATX": [
+    {
+      "name": "Artex Coin",
+      "id": 1361
+    },
+    {
+      "name": "Aston",
+      "id": 2732
+    }
+  ],
+  "BET": [
+    {
+      "name": "DAO.Casino",
+      "id": 1771
+    },
+    {
+      "name": "BetaCoin",
+      "id": 70
+    }
+  ],
+  "BLZ": [
+    {
+      "name": "Bluzelle",
+      "id": 2505
+    },
+    {
+      "name": "BlazeCoin",
+      "id": 415
+    }
+  ],
+  "BTG": [
+    {
+      "name": "Bitcoin Gold",
+      "id": 2083
+    },
+    {
+      "name": "Bitgem",
+      "id": 34
+    }
+  ],
+  "BTM": [
+    {
+      "name": "Bytom",
+      "id": 1866
+    },
+    {
+      "name": "Bitmark",
+      "id": 543
+    }
+  ],
+  "CAN": [
+    {
+      "name": "CanYaCoin",
+      "id": 2343
+    },
+    {
+      "name": "Content and AD Network",
+      "id": 2358
+    }
+  ],
+  "CAT": [
+    {
+      "name": "BitClave",
+      "id": 2334
+    },
+    {
+      "name": "BlockCAT",
+      "id": 1882
+    },
+    {
+      "name": "Catcoin",
+      "id": 84
+    }
+  ],
+  "CMS": [
+    {
+      "name": "COMSA [ETH]",
+      "id": 2262
+    },
+    {
+      "name": "COMSA [XEM]",
+      "id": 2266
+    }
+  ],
+  "CMT": [
+    {
+      "name": "CyberMiles",
+      "id": 2246
+    },
+    {
+      "name": "Comet",
+      "id": 1291
+    }
+  ],
+  "CPC": [
+    {
+      "name": "CPChain",
+      "id": 2482
+    },
+    {
+      "name": "Capricoin",
+      "id": 1008
+    }
+  ],
+  "CRC": [
+    {
+      "name": "CryCash",
+      "id": 2664
+    },
+    {
+      "name": "CrowdCoin",
+      "id": 2268
+    }
+  ],
+  "ENT": [
+    {
+      "name": "Eternity",
+      "id": 1474
+    },
+    {
+      "name": "ENTCash",
+      "id": 2331
+    }
+  ],
+  "ETT": [
+    {
+      "name": "EncryptoTel [WAVES]",
+      "id": 1714
+    },
+    {
+      "name": "EncryptoTel [ETH]",
+      "id": 2018
+    }
+  ],
+  "FAIR": [
+    {
+      "name": "FairCoin",
+      "id": 224
+    },
+    {
+      "name": "FairGame",
+      "id": 2366
+    }
+  ],
+  "GCC": [
+    {
+      "name": "Global Cryptocurrency",
+      "id": 1531
+    },
+    {
+      "name": "GuccioneCoin",
+      "id": 1033
+    }
+  ],
+  "GTC": [
+    {
+      "name": "Game.com",
+      "id": 2336
+    },
+    {
+      "name": "Global Tour Coin",
+      "id": 1801
+    }
+  ],
+  "HMC": [
+    {
+      "name": "Hi Mutual Society",
+      "id": 2484
+    },
+    {
+      "name": "HarmonyCoin",
+      "id": 1832
+    }
+  ],
+  "HNC": [
+    {
+      "name": "Helleniccoin",
+      "id": 1004
+    },
+    {
+      "name": "Huncoin",
+      "id": 1742
+    }
+  ],
+  "HOT": [
+    {
+      "name": "Holo",
+      "id": 2682
+    },
+    {
+      "name": "Hydro Protocol",
+      "id": 2430
+    }
+  ],
+  "ICN": [
+    {
+      "name": "Iconomi",
+      "id": 1408
+    },
+    {
+      "name": "iCoin",
+      "id": 138
+    }
+  ],
+  "KEY": [
+    {
+      "name": "Selfkey",
+      "id": 2398
+    },
+    {
+      "name": "KEY",
+      "id": 2713
+    }
+  ],
+  "KNC": [
+    {
+      "name": "Kyber Network",
+      "id": 1982
+    },
+    {
+      "name": "KingN Coin",
+      "id": 1743
+    }
+  ],
+  "LBTC": [
+    {
+      "name": "LiteBitcoin",
+      "id": 1825
+    },
+    {
+      "name": "Lightning Bitcoin",
+      "id": 2335
+    }
+  ],
+  "LNC": [
+    {
+      "name": "Linker Coin",
+      "id": 2677
+    },
+    {
+      "name": "Blocklancer",
+      "id": 2615
+    }
+  ],
+  "MAG": [
+    {
+      "name": "Magnet",
+      "id": 2218
+    },
+    {
+      "name": "Maggie",
+      "id": 2434
+    }
+  ],
+  "NET": [
+    {
+      "name": "Nimiq Exchange Token",
+      "id": 1811
+    },
+    {
+      "name": "NetCoin",
+      "id": 75
+    }
+  ],
+  "PLC": [
+    {
+      "name": "PlusCoin",
+      "id": 2186
+    },
+    {
+      "name": "Polcoin",
+      "id": 257
+    }
+  ],
+  "PUT": [
+    {
+      "name": "Profile Utility Token",
+      "id": 2419
+    },
+    {
+      "name": "PutinCoin",
+      "id": 1299
+    }
+  ],
+  "PXC": [
+    {
+      "name": "Phoenixcoin",
+      "id": 35
+    },
+    {
+      "name": "Pixie Coin",
+      "id": 2670
+    }
+  ],
+  "QBT": [
+    {
+      "name": "Qbao",
+      "id": 2242
+    },
+    {
+      "name": "Cubits",
+      "id": 1435
+    }
+  ],
+  "RCN": [
+    {
+      "name": "Ripio Credit Network",
+      "id": 2096
+    },
+    {
+      "name": "Rcoin",
+      "id": 1418
+    }
+  ],
+  "XIN": [
+    {
+      "name": "Mixin",
+      "id": 2349
+    },
+    {
+      "name": "Infinity Economics",
+      "id": 2013
+    }
+  ]
+}

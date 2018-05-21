@@ -1,1 +1,1 @@
-coinmarketcap==4.2.1
+coinmarketcap>=5.0.3

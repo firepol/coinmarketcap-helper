@@ -1,7 +1,12 @@
+# Helper cache
+data/tickers/
+
+# Test cache
+.pytest_cache/
+
+# pyCharm
 *.iml
 /.idea/**/*.xml
-
-data/tickers/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
